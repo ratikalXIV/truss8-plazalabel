@@ -1,0 +1,365 @@
+entry 0
+@0
+	1;0;1
+	1;1;1
+	15;0;9;2;-1;-1
+@60
+	15;0;9;2;-1;-1
+	16;Look, Lady Yuyuko.
+	16;That's an excellent full moon.
+@61
+	4;60
+	13;0
+	6
+@121
+	1;2;2
+	13;1
+	17;2;5
+	16;This is indeed the true full moon.
+	4;500
+@122
+	17;2;2
+	16;It seems you're neither human nor youkai.
+	4;500
+@123
+	17;2;2
+	16;Why have you wandered into a place such
+	16;as this?
+	4;500
+@124
+	17;1;9
+	16;... Youmu.
+	4;500
+@125
+	17;1;2
+	16;That moon has a terrible power.
+	4;500
+@126
+	17;1;2
+	16;Stop looking at it, right away.
+	4;500
+@127
+	17;0;9
+	16;Ehh, does it really?!
+	4;500
+@128
+	17;2;2
+	16;The true moon is terribly powerful indeed.
+	8;2;0;ëiù╘
+	4;500
+@129
+	17;2;3
+	16;That's something that Earth has long forgotten.
+	4;500
+@130
+	17;2;5
+	16;But you remember.  You're quite a nostalgic
+	16;human, aren't you?
+	4;500
+@131
+	17;2;2
+	16;Or rather, ex-human.
+	4;500
+@132
+	17;1;3
+	16;Every now and then, I still think of
+	16;myself that way...
+	4;500
+@133
+	17;1;2
+	16;However, this girl actually is half-human.
+	4;500
+@134
+	17;1;8
+	16;It'd be quite bad if half of her went insane.
+	4;500
+@135
+	17;0;8
+	16;Um, milady?  It's impossible to see her
+	16;without seeing the moon!
+	4;500
+@136
+	17;1;2
+	16;Use your inner eye.
+	4;500
+@137
+	17;1;3
+	16;Youmu, is your ghost half there for nothing?
+	4;500
+@138
+	17;0;7
+	16;It doesn't have any inner eyes, you know...
+	4;500
+@139
+	17;2;5
+	16;Ah, what fun.
+	4;500
+@140
+	17;2;2
+	16;Neither a filthy human nor a youkai...
+	4;500
+@141
+	17;2;5
+	16;You have absolutely nothing.  What a sight.
+	4;500
+@142
+	17;0;8
+	16;Oh, no, milady!  It's completely dark
+	16;when I close my eyes!
+	4;500
+@143
+	17;2;7
+	16;Perhaps you should look at the moon after
+	16;all.  It might make you smarter.
+	4;500
+@144
+	17;1;3
+	16;Can't you slash things without looking at them?
+	4;500
+@145
+	17;2;2
+	16;So what are you here for, anyway?
+	16;Do you ghosts have some business with me?
+	4;500
+@146
+	17;1;2
+	16;A flawed sphere is worthless...
+	4;500
+@147
+	17;1;5
+	16;That's because it can't be round forever.
+	4;500
+@148
+	17;1;2
+	16;However, that flawed sphere will become
+	16;flawless again if you roll it around a bit.
+	4;500
+@149
+	17;1;3
+	16;That's what it's all about, isn't it?
+	4;500
+@150
+	17;0;3
+	16;Ahh, opening my eyes, there's so much light
+	16;again all of a sudden...
+	4;500
+@151
+	17;2;2
+	16;Yes, that is indeed what eternity is all
+	16;about.  It's all a matter of taste.
+	4;500
+@152
+	17;2;5
+	16;And, you know, I have the power to
+	16;manipulate eternity...
+	4;500
+@153
+	17;1;3
+	16;You do?!  So, you must be the one who's
+	16;freezing the night!
+	4;500
+@154
+	17;0;9
+	16;Huh?
+	16;But Lady Yuyuko, didn't we-
+	4;500
+@155
+	17;2;2
+	16;I could never do such a cruel thing.
+	4;500
+@156
+	17;2;5
+	16;Trust me on that one!
+	4;500
+@157
+	17;1;2
+	16;Well, that doesn't matter to me.
+	4;500
+@158
+	17;1;4
+	16;I'll be satisfied if we can return the
+	16;full moon back to Gensokyo.
+	4;500
+@159
+	17;1;3
+	16;Morning will come eventually, anyway.
+	4;500
+@160
+	17;0;4
+	16;Uh.  Right.
+	4;500
+@161
+	17;1;2
+	16;Youmu, one more order...
+	4;500
+@162
+	17;1;3
+	16;Slash that defiler of eternity.
+	4;500
+@163
+	17;2;2
+	16;Oh, even defiled, eternity is eternity.
+	16;Didn't we just talk about this?
+	4;500
+@164
+	17;0;3
+	16;All right!  I'll slash her with my
+	16;Hakurouken!
+	4;500
+@165
+	17;1;2
+	16;I'm sure she's lying.  She has to be
+	16;the one who's freezing the night.
+	4;500
+@166
+	17;0;7
+	16;Um... Somehow, I don't think so...
+	4;500
+@167
+	17;2;7
+	16;Didn't I say it wasn't me?
+	4;500
+@168
+	17;2;2
+	16;But if you're so eager to fight me,
+	16;then let's begin.
+	4;500
+@169
+	17;2;2
+	16;The Impossible Requests that defeated
+	16;so many humans in the past...
+	4;500
+@170
+	17;2;3
+	16;How many can you fulfill?!
+	7;1
+	4;500
+	5;0;5
+	5;1;5
+	5;2;5
+	13;0
+@200
+	0
+	13;1
+@0
+	0
+entry 2
+@0
+	1;0;1
+	1;1;1
+	1;2;2
+	13;0
+@60
+	15;2;2;2;2;-1
+	13;1
+	16;Geez...
+	4;500
+@61
+	17;2;-2
+	16;Didn't I say not to let them come this way?
+	4;500
+@62
+	17;1;4
+	16;Youmu, press onwards.
+	4;500
+@63
+	17;0;5
+	16;Yes, milady.
+	4;500
+	5;0;5
+	5;1;5
+	5;2;5
+	13;0
+@93
+	0
+	13;1
+@0
+	0
+entry 3
+@60
+	15;2;-1;-1;-1;-1
+	16;What's this?!
+	4;500
+@61
+	17;2;-2
+	16;So, the ones who froze the night...
+	4;500
+@62
+	17;2;-2
+	16;That was YOU, wasn't it?!
+	4;500
+	7;2
+	13;0
+@92
+	0
+	13;1
+@0
+	0
+entry 4
+@0
+	7;-1
+	0
+	0
+entry 5
+@60
+	4;800
+	9;0
+@120
+	4;800
+	13;0
+	12
+	14
+@560
+	11
+	10
+@0
+	0
+entry 6
+@60
+	15;2;-1;-1;-1;-1
+	16;The fragmented eternal evening you've created...
+	4;500
+	13;0
+@90
+	0
+	13;1
+@0
+	0
+entry 7
+@60
+	15;2;-1;-1;-1;-1
+	16;My eternity manipulation will destroy it... 
+	4;500
+	13;0
+@90
+	0
+	13;1
+@0
+	0
+entry 8
+@60
+	15;2;-1;-1;-1;-1
+	16;Your spell of Imperishable Night will shatter...
+	4;500
+	13;0
+@90
+	0
+	13;1
+@0
+	0
+entry 9
+@60
+	15;2;-1;-1;-1;-1
+	16;And the dawn shall come!
+	4;500
+	13;0
+@90
+	0
+	13;1
+@0
+	0
+	0
+@90
+	13;1
+@0
+	0

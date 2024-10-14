@@ -1,0 +1,259 @@
+entry 0
+@0
+	1;2;2
+@60
+	17;2;2
+	16;Look around, you devils.
+	4;500
+	1;0;1
+	1;1;1
+	15;0;2;2;-2;-1
+	16;"Devils", hmm?
+	4;500
+@61
+	17;2;3
+	16;There's nothing here.
+	16;Can't you see that?
+	8;2;0;Keine Kamishirasawa
+	4;500
+@62
+	17;0;7
+	16;Wait, shouldn't there be a human village here?
+	4;500
+@63
+	17;1;2
+	16;Well, I rarely visit such places,
+	16;but are you familiar with this village, Sakuya?
+	4;500
+@64
+	17;0;3
+	16;Yes, the furniture in the mansion is made 
+	16;skillfully by these humans, in fact.
+	4;500
+@65
+	17;2;2
+	16;Look closely...
+	16;As you can see, there's absolutely nothing here.
+	4;500
+@66
+	17;2;8
+	16;Now move along, since I said so. 
+	4;500
+@67
+	17;0;6
+	16;What a horrible attitude.
+	4;500
+@68
+	17;0;6
+	16;What did you do with the humans and the village?
+	4;500
+@69
+	17;2;3
+	16;Don't you understand? 
+	16;I made it such that no humans ever lived here.
+	4;500
+@70
+	17;2;2
+	16;I'm protecting the entire history of this 
+	16;village now.
+	4;500
+@71
+	17;1;2
+	16;Sakuya.
+	4;500
+@72
+	17;1;3
+	16;Wouldn't she work well as little sister's tutor?
+	16;She feels like a good teacher for local history.
+	4;500
+@73
+	17;0;7
+	16;We don't need any more bookworms in the mansion.
+	4;500
+@74
+	17;2;2
+	16;Argh, I'll say it once more.
+	4;500
+@75
+	17;2;6
+	16;There isn't and never was anything around here.
+	16;Especially not humans or a human village.
+	4;500
+@76
+	17;0;2
+	16;There's something about the way you speak...
+	4;500
+@77
+	17;0;2
+	16;My Lady,
+	16;would you give me a bit of time?
+	4;500
+@78
+	17;1;7
+	16;We really are in a hurry. 
+	4;500
+@79
+	17;2;3
+	16;Shall I consume the devil's history as well?
+	7;1
+	4;500
+@80
+	17;1;2
+	16;Shit, that's just great. Maybe it's a 
+	16;peculiarity of were-hakutaku...
+	4;500
+@81
+	17;1;3
+	16;As long as you just look at history,
+	16;you won't be able to change your fate.
+	4;500
+@82
+	17;0;8
+	16;My Lady,
+	16;now may I borrow some time?
+	4;500
+@83
+	17;1;8
+	16;It can't be helped. You can use a bit
+	16;of my time. Just a moment's worth.
+	4;500
+	5;0;5
+	5;1;5
+	5;2;5
+	13;0
+@113
+	0
+	13;1
+@0
+	0
+entry 1
+@0
+	1;0;1
+	1;1;1
+	1;2;2
+@60
+	15;0;4;8;10;-1
+	16;Ah, that was refreshing. Let's move on, my Lady.
+	4;500
+@61
+	17;1;7
+	16;But, the village is still invisible...
+	16;Are you really refreshed?
+	4;500
+@62
+	17;0;3
+	16;Yes, indeed. I'm thoroughly refreshed.
+	4;500
+@63
+	17;1;2
+	16;Good to hear, but thanks to her, I've lost the 
+	16;direction that evil air was in.
+	4;500
+@64
+	17;1;3
+	16;Do you know where to go, Sakuya?
+	4;500
+@65
+	17;0;4
+	16;I have absolutely no idea. However, she might be
+	16;useful for a problem like this.
+	4;500
+@66
+	17;2;-2
+	16;You mean the cause of this corrupted moon?
+	4;500
+@67
+	17;2;-2
+	16;It could only be her doing.
+	16;There are very few beings capable of this.
+	4;500
+@68
+	17;0;3
+	16;See, bookworms can be useful.
+	16;But the mansion doesn't need any more of them.
+	4;500
+@69
+	17;1;2
+	16;Our mansion's bookworm really is a bookworm, 
+	16;so she's hardly useful at all...
+	4;500
+@70
+	17;0;2
+	16;Well, she does have a lot of useless knowledge.
+	16;We really don't need any more.
+	4;500
+	13;0
+@130
+	9;0
+	12
+@190
+	4;800
+	11
+	10
+@0
+	0
+entry 2
+@0
+	1;2;2
+	1;0;1
+	1;1;1
+@60
+	15;0;2;2;2;-1
+@61
+	17;2;2
+	16;It's you. The bastards planning
+	16;to attack the village at midnight!
+	4;500
+@62
+	17;0;2
+	16;My Lady.
+	16;Let's pass by this place quickly.
+	4;500
+@63
+	17;1;3
+	16;Well, I'm not hungry at the moment, so...
+	4;500
+@64
+	17;2;6
+	16;Damn, without the humans in the village,
+	16;there are only youkais and weirdos left! 
+	4;500
+	5;0;5
+	5;1;5
+	5;2;5
+	13;0
+@94
+	0
+	13;1
+@0
+	0
+entry 3
+@0
+	1;2;2
+	1;0;1
+	1;1;1
+@60
+	15;0;2;2;2;-1
+@61
+	17;2;9
+	16;Umm, who in the world are you?
+	4;500
+@62
+	17;1;5
+	16;Bah. There's no end to this now, is there?
+	4;500
+@63
+	17;0;6
+	16;My Lady!
+	16;You're toying with it a little too much.
+	4;500
+	5;0;5
+	5;1;5
+	5;2;5
+	13;0
+@93
+	0
+	13;1
+@0
+	0
+	0

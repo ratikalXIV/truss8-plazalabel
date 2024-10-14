@@ -1,0 +1,181 @@
+entry 0
+@0
+	1;2;2
+@60
+	17;2;9
+	16;Wait, waaaait!!
+	4;500
+	1;0;1
+	1;1;1
+	15;0;2;2;-2;-1
+	16;What?
+	4;500
+	17;2;9
+	16;Aw, I thought some hasty-tasty humans finally
+	16;came around.
+@61
+	4;500
+	17;2;2
+	16;So who exactly are you two?
+	8;2;0;Mystia Lorelei
+@62
+	4;500
+@63
+	17;1;8
+	16;Um... non-humans.
+	4;500
+	17;2;9
+	16;Non-humans?
+@64
+	4;500
+@65
+	17;0;7
+	16;Well, human or not, it's fine with me either way.
+	4;500
+	17;2;2
+	16;It's not every day that youkai travel along this
+	16;pass.
+@66
+	4;500
+	17;1;2
+	16;Really. You seem to be a night sparrow.
+@67
+	4;500
+	17;1;3
+	16;If you attack humans too often,
+@68
+	4;500
+	17;1;8
+	16;there won't be any more left around here.
+@69
+	4;500
+@70
+	17;0;7
+	16;That might be so, but I don't think she'd
+	16;start attacking youkai instead of humans.
+	4;500
+	17;2;2
+	16;Oh, shut up. Besides, nothing human-like has 
+	16;shown upon this night road for a long time.
+@71
+	4;500
+	17;2;2
+	16;Even if there were any, they'd be in a rush, or
+	16;have some urgent business, or turn out to be non-human.
+@72
+	4;500
+	17;1;2
+	16;Listen. I'll say this once more. We are in a 
+	16;hurry, have an important mission, and aren't human.
+@73
+	4;500
+	17;1;2
+	16;We don't have time to waste here.
+	16;Will you let us pass?
+@74
+	4;500
+	17;0;8
+	16;It's not common for youkai like Yukari to visit
+	16;the place ahead, though...
+@75
+	4;500
+	17;2;2
+	16;But it's been so long since the last time I
+	16;played...
+@76
+	4;500
+	17;2;3
+	16;Hey, why don't we go to that village and toy 
+	16;around with the humans together?
+@77
+	4;500
+	17;0;6
+	16;Ah, sheesh, I've already said this before!
+@78
+	4;500
+	17;1;9
+	16; ?
+@79
+	4;500
+	17;2;2
+	16;??
+@80
+	4;500
+	17;0;6
+	16;I can see in the dark!
+@81
+	4;500
+	17;2;3
+	16;Ah, human-sighted.
+@82
+	4;500
+	17;2;3
+	16;I'll make you night-blind myself!
+@83
+	4;500
+	7;1
+	5;0;5
+	5;1;5
+	5;2;5
+	13;0
+@113
+	0
+	13;1
+@0
+	0
+entry 1
+@0
+	1;0;1
+	1;1;1
+@60
+	15;1;4;8;-1;-1
+	16;Goodness, it was only a night sparrow.
+@61
+	4;500
+	17;1;5
+	16;A weakling acting mighty leads to despair 
+	16;all the faster.
+@62
+	4;500
+	17;0;7
+	16;...Was that really a sparrow?
+	16;It was dark, and I couldn't see well.
+@63
+	4;500
+	17;1;3
+	16;If you see a small bird at night, that's usually
+	16;a night sparrow.
+@64
+	4;500
+	17;1;2
+	16;If you're not careful around them, you won't be
+	16;able to see at all around dark places.
+@65
+	4;500
+	17;0;7
+	16;(...is that really what sparrows are like?
+	16; Well, I couldn't see so she's right.)
+@66
+	4;500
+	17;0;2
+	16;Ah, I can see the human village now. 
+	16;But I didn't really want to bring you along...
+@67
+	4;500
+	13;0
+@127
+	9;0
+	12
+@187
+	4;800
+	11
+	10
+@0
+	0
+@800
+	0
+@187
+	11
+	10
+@0
+	0

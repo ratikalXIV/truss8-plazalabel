@@ -1,0 +1,286 @@
+entry 0
+@0
+	1;0;1
+	1;1;1
+	15;0;2;2;-1;-1
+@60
+	15;0;2;2;-1;-1
+	16;This is the end of the corridor.
+	16;So, do you give up?
+@61
+	4;60
+	13;0
+	6
+@121
+	1;2;2
+	13;1
+	17;2;4
+	16;Ahahaha,
+	16;you're so stupid!
+	4;500
+@122
+	17;1;2
+	16;Hey, she just said you were stupid.
+	16;It's because you're a shrine maiden. 
+	4;500
+@123
+	17;2;2
+	16;It's almost daybreak.
+	8;2;0;Eirin Yagokoro
+	4;500
+@124
+	17;2;5
+	16;After that, I'll give the moon back to you.
+	4;500
+@125
+	17;0;5
+	16;Well, you ARE a good listener. 
+	4;500
+@126
+	17;2;2
+	16;My ritual is already complete.
+	4;500
+@127
+	17;2;2
+	16;No one can take out my princess.
+	4;500
+@128
+	17;1;8
+	16;A princess? 
+	16;We don't care about a princess.
+	4;500
+@129
+	17;0;6
+	16;We only want the full moon to return. 
+	4;500
+@130
+	17;2;5
+	16;Don't worry, 
+	16;I'll fix that by morning.
+	4;500
+@131
+	17;0;6
+	16;That's not good enough.
+	4;500
+@132
+	17;0;6
+	16;We came here to get the moon back
+	16;before the morning. 
+	4;500
+@133
+	17;2;2
+	16;You're so impatient.
+	4;500
+@134
+	17;2;5
+	16;By the way, do you know
+	16;where we are?
+	4;500
+@135
+	17;0;8
+	16;??
+	4;500
+@136
+	17;2;5
+	16;This place is between the fake moon and the
+	16;earth.
+	4;500
+@137
+	17;2;2
+	16;That long corridor connects the two.
+	4;500
+@138
+	17;2;5
+	16;You were fooled by the false moon, and came here.
+	4;500
+@139
+	17;0;6
+	16;Did we? 
+	16;So what's the problem?
+	4;500
+@140
+	17;2;4
+	16;Do you have a way to return home?
+	4;500
+@141
+	17;1;2
+	16;Let's take care of that after beating you.
+	4;500
+@142
+	17;1;5
+	16;I'm not in a rush. 
+	4;500
+@143
+	17;2;6
+	16;How can you think you can win?
+	4;500
+@144
+	17;2;2
+	16;You can't even see through my tricks.
+	4;500
+@145
+	17;2;5
+	16;Well, I'll be nice and play with you until 
+	16;morning.
+	4;500
+@146
+	17;0;2
+	16;I don't quite understand...
+	4;500
+@147
+	17;0;7
+	16;If we defeat her, everything will be fixed?
+	4;500
+@148
+	17;1;5
+	16;See, that's why she says you're stupid.
+	4;500
+@149
+	17;1;2
+	16;But you're right.
+	4;500
+@150
+	17;1;3
+	16;Everything Reimu said was totally correct.
+	4;500
+@151
+	17;2;2
+	16;None from Earth could ever reach the moon...
+	4;500
+@152
+	17;2;5
+	16;And none from the moon could reach the Earth.
+	4;500
+@153
+	17;2;4
+	16;Soon it will be impossible.
+	4;500
+@154
+	17;2;2
+	16;The Earth will be like a huge sealed room.
+	4;500
+@155
+	17;1;3
+	16;That rabbit, and you... 
+	16;You're all crazy.
+	4;500
+@156
+	17;0;3
+	16;Yukari, 
+	16;let's beat her up and go home.
+	4;500
+@157
+	17;2;4
+	16;So, you're going to play with me?
+	4;500
+@158
+	17;2;2
+	16;I can't do it forever,
+	4;500
+@159
+	17;2;5
+	16;but until morning...
+	4;500
+@160
+	17;1;3
+	16;That's all right, 
+	16;we can play forever some other time.
+	4;500
+@161
+	17;2;5
+	16;Now, it will be daybreak in Gensokyo! 
+	7;1
+	4;500
+	5;0;5
+	5;1;5
+	5;2;5
+	13;0
+@191
+	0
+	13;1
+@0
+	0
+entry 2
+@0
+	1;0;1
+	1;1;1
+	1;2;2
+	13;0
+@60
+	15;2;2;2;2;-1
+	13;1
+	16;Hahaha.
+	4;500
+@61
+	17;2;-2
+	16;Good, so you're following me.
+	4;500
+@62
+	17;1;2
+	16;There's something wrong with this corridor...
+	16;It's too long.
+	4;500
+@63
+	17;0;8
+	16;I didn't see it outside...
+	4;500
+	5;0;5
+	5;1;5
+	5;2;5
+	13;0
+@93
+	0
+	13;1
+@0
+	0
+entry 3
+@60
+	15;2;-1;-1;-1;-1
+	16;What are you playing at?!
+	6
+	4;500
+@61
+	17;2;-2
+	16;Eirin, I'll use my power to give you
+	16;one more chance.
+	4;500
+@62
+	17;2;-2
+	16;If you're defeated this time...
+	4;500
+@63
+	17;2;-2
+	16;You two, human and youkai!
+	4;500
+@64
+	17;2;-2
+	16;My arcane medicine and Eirin's true
+	16;power - you'll never forget this!
+	4;500
+	7;2
+	13;0
+@94
+	0
+	13;1
+@0
+	0
+entry 4
+@0
+	7;-1
+	0
+	0
+entry 5
+@60
+	4;800
+	9;0
+@120
+	4;800
+	13;0
+	12
+	14
+@560
+	11
+	10
+@0
+	0
+	0

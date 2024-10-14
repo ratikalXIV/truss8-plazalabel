@@ -1,0 +1,121 @@
+entry 0
+@0
+	1;0;1
+	2;0;2
+	5;0;1
+@60
+	15;0;2;-1;-1;-1
+	16;Ah, the moon sure is beautiful tonight.
+	4;500
+@61
+	1;1;1
+	15;1;2;9;-1;-1
+	16;What?  Are you kidding me?
+	4;500
+@62
+	15;0;5;-2;-1;-1
+	16;It's so damn pretty.  It's like...
+	16;What was it called, the paschal moon?
+	4;500
+@63
+	15;1;-2;6;-1;-1
+	16;I envy your carefree manner.  
+	16;You're even enjoying staring at the moon...
+	4;500
+@64
+	15;1;-2;6;-1;-1
+	16;If there was someone else I could bother,
+	16;I'd have never taken you along tonight.
+	4;500
+	15;2;-2;-2;-1;-1
+	16;Why not relax and enjoy the moonlit night?
+@65
+	4;60
+	13;0
+	6
+@125
+	1;2;2
+	13;1
+	15;2;2;2;2;-1
+	16;Come on, you two...
+	8;2;0;The Insect of Light Crawling in the Dark
+	8;2;1;Wriggle Nightbug
+@126
+	4;500
+	15;0;5;2;2;-1
+	16;We're totally enjoying it.  I am, anyway.
+@127
+	4;500
+	15;1;-2;6;2;-1
+	16;Well, I'm enjoying myself, too!
+	16;At least more than you, Marisa!
+@128
+	4;500
+	15;2;-2;-2;6;-1
+	16;Didn't you just say the exact opposite?
+@129
+	4;500
+	15;1;-2;8;6;-1
+	16;Of course not.
+	16;I'm not watching the moon, I'm...
+@130
+	4;500
+	15;0;5;-2;2;-1
+	16;Firefly watching, right?
+@131
+	4;500
+	15;1;-2;8;2;-1
+	16;Almost, but not quite.  Very perceptive of you.
+@132
+	4;500
+	15;2;-2;8;3;-1
+	16;C'mon, I'll shoot first if you don't!
+@133
+	4;500
+	15;1;5;3;-2;-1
+	16;It's more like firefly HUNTING.
+@134
+	4;500
+	7;1
+	5;0;5
+	5;1;5
+	5;2;5
+	13;0
+@164
+	0
+	13;1
+@0
+	0
+entry 1
+@0
+	1;0;1
+	1;1;1
+@60
+	15;0;7;4;-1;-1
+	16;You realize firefly hunting is about catching
+	16;them, not beating them up, right?
+	4;500
+@61
+	17;1;6
+	16;Aw, I wanted to catch it
+	16;but you went and squashed it!
+	4;500
+@62
+	17;0;2
+	16;Geez, this is lame...
+	4;500
+@63
+	17;0;2
+	16;Don't get me wrong, I was just dodging it!
+@64
+	4;500
+	13;0
+@124
+	9;0
+	12
+@184
+	4;800
+	11
+	10
+@0
+	0

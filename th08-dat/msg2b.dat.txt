@@ -1,0 +1,151 @@
+entry 0
+@0
+	1;2;2
+@60
+	15;0;2;2;9;-1
+	17;2;9
+	16;Wait, waiiiit!
+	4;500
+	1;0;1
+	1;1;1
+	15;0;2;2;-2;-1
+	16;Huh?
+	4;500
+	17;2;9
+	16;Where are you going at this time of night?
+	8;2;0;Night Sparrow Apparition
+@61
+	4;500
+@62
+	4;500
+@63
+	17;0;5
+	16;It's "Marisa's Youkai Extermination Month".
+	16;I'll go wherever youkai live!
+	4;500
+	17;2;3
+	16;Wait, what?
+	16;Are you trying to pick a fight with me?
+@64
+	4;500
+@65
+	17;1;5
+	16;"Marisa's Youkai Extermination"?  Hilarious!  
+	4;500
+@66
+	17;0;6
+	16;Oh?
+	16;Don't you know how awesome I am at that?
+	4;500
+@67
+	17;0;3
+	16;I exterminate youkai and humans
+	16;with Final Spark all the time!
+	4;500
+	17;2;6
+	16;You, human.
+@68
+	4;500
+	17;2;6
+	16;Don't you have any idea who I am?
+@69
+	4;500
+	17;0;6
+	16;Huh?
+@70
+	4;500
+	17;2;2
+	16;All humans fear me in the darkness!
+@71
+	4;500
+	17;2;2
+	16;If I wanted to, I could call so many youkai here
+	16;they'd eradicate every human in the land!
+@72
+	4;500
+	17;1;6
+	16;... Heh.  That's enough chirping, you windbag.
+@73
+	4;500
+	17;0;3
+	16;Hah hah hah...
+@74
+	4;500
+	17;0;3
+	16;Looks like you still don't get who I am.
+@75
+	4;500
+	17;1;7
+	16;Human?
+@76
+	4;500
+	17;2;8
+	16;Human.
+@77
+	4;500
+	17;1;2
+	16;Human all the way.
+@78
+	4;500
+	17;0;8
+	16;Uh... right...
+@79
+	4;500
+	17;2;2
+	16;See?
+	16;Starting tonight, you two...
+@80
+	4;500
+	17;2;3
+	16;will never again be able to see in the dark!
+@81
+	4;500
+	7;1
+	5;0;5
+	5;1;5
+	5;2;5
+	13;0
+@111
+	0
+	13;1
+@0
+	0
+entry 1
+@0
+	1;0;1
+	1;1;1
+@60
+	15;0;4;5;-1;-1
+	16;Ah, that's better.
+	16;Got rid of that pesky darkness.
+@61
+	4;500
+	17;1;6
+	16;Dammit, we gotta hurry up!
+	16;We don't have time to waste on small fry!
+@62
+	4;500
+	17;0;8
+	16;But where are you heading, anyway?
+	16;I'm sure there aren't any enemies over that way.
+@63
+	4;500
+	17;1;2
+	16;But I sense powerful energy up ahead...
+@64
+	4;500
+	17;0;2
+	16;Only humans live in that direction.
+	16;Totally innocent, just like myself.
+@65
+	4;500
+	13;0
+@125
+	9;0
+	12
+@185
+	4;800
+	11
+	10
+@0
+	0

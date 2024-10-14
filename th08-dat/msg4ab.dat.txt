@@ -1,0 +1,237 @@
+entry 0
+@0
+	15;2;-1;-1;-1;-1
+@60
+	15;2;-1;-1;-1;-1
+	16;Freeze!
+@61
+	4;60
+	13;0
+	6
+@121
+	1;2;2
+	13;1
+	17;2;6
+	16;I was wondering who was behind all this
+	16;trouble tonight.
+	4;500
+	16;So it was you, Marisa!
+	4;500
+	1;0;1
+	1;1;1
+	15;0;2;2;-2;-1
+	16;Hey, don't slander me.
+	16;The villain's this girl over here.
+	4;500
+@122
+	17;1;6
+	16;What?!
+	16;You're no different, Marisa!
+	4;500
+@123
+	17;2;2
+	16;What are you thinking, coming out
+	16;and doing such terrible things?
+	8;2;0;MIKOSAN MIKOSAN
+	4;500
+@124
+	17;0;7
+	16;Er... not really...
+	16;Reimu, we're just...
+	4;500
+@125
+	17;1;8
+	16;Why all the stuttering?
+	16;Just yell at her like you always do.
+	4;500
+@126
+	17;1;2
+	16;"Bitch, get out of the way!"
+	16;Like that.
+	4;500
+@127
+	17;0;2
+	16;No, don't!
+	16;We'll be in for it if she gets mad!
+	4;500
+@128
+	17;2;6
+	16;Cat's got your tongue, eh?
+	4;500
+@129
+	17;2;2
+	16;Get over here.  Tonight, I'll
+	16;teach you a lesson you won't forget!
+	4;500
+@130
+	17;1;6
+	16;Silly shrine maiden.
+	16;Can't you see what's wrong with the moon?
+	4;500
+@131
+	17;1;2
+	16;It's so obvious by now,
+	16;even you could notice it!
+	4;500
+@132
+	17;2;2
+	16;Ahh!
+	4;500
+@133
+	17;2;6
+	16;Corrupting the moon, too?  How dare you?!
+	4;500
+@134
+	17;0;2
+	16;Okay, okay, I give up.
+	7;1
+	4;500
+@135
+	17;0;5
+	16;You're right.
+	16;The endless night, and stealing the full moon,
+	4;500
+@136
+	17;0;2
+	16;and hiding the human village,
+	16;and putting funny hats on stone statues...
+	4;500
+@137
+	17;0;8
+	16;It's all Alice's fault.
+	4;500
+@138
+	17;0;3
+	16;Now, bitch, get out of the way!
+	4;500
+@139
+	17;2;8
+	16;All right, if that's how you want it.
+	4;500
+@140
+	17;2;2
+	16;In this luminous soil, under the moonlight...
+	4;500
+@141
+	17;2;2
+	16;You two will make such a beautiful pair
+	16;when I grind you both into it.
+	4;500
+@142
+	17;1;3
+	16;I must confess, you've taken
+	16;the words right out of my mouth.
+	4;500
+@143
+	17;2;3
+	16;Come on!
+	16;Let's settle this and stop the endless night!
+	4;500
+	5;0;5
+	5;1;5
+	5;2;5
+	13;0
+@173
+	0
+	13;1
+@0
+	0
+entry 1
+@0
+	1;0;1
+	1;1;1
+	1;2;2
+@60
+	15;0;4;8;10;-1
+	16;Okay, let's move on.
+	4;500
+@61
+	17;1;2
+	16;Our goal is finally in sight.
+	4;500
+@62
+	17;2;-2
+	16;If you really insist...
+	16;Just don't go too far, okay?
+	4;500
+@63
+	17;1;3
+	16;Sorry, did you say something?
+	4;500
+@64
+	17;0;3
+	16;Wow, I didn't know there was such a big
+	16;mansion in the middle of this bamboo forest.
+	4;500
+@65
+	17;2;-2
+	16;Huh?
+	16;Oh, neither did I...
+	4;500
+@66
+	17;1;2
+	16;Bye bye, now.  It's time for little
+	16;children and losers to go home.
+	4;500
+@67
+	17;0;3
+	16;Looks like game over for you, Reimu.
+	16;See ya later!
+	4;500
+	13;0
+@127
+	9;0
+	12
+@187
+	4;800
+	11
+	10
+@0
+	0
+entry 2
+@0
+	1;0;1
+	1;1;1
+@60
+	15;0;2;2;-1;-1
+	16;Oh?
+	16;It's unusual for her to retreat.
+	4;500
+@61
+	17;1;2
+	16;Keep going, Marisa.
+	4;500
+	5;0;5
+	5;1;5
+	13;0
+@91
+	0
+	13;1
+@0
+	0
+entry 3
+@0
+	1;0;1
+	1;1;1
+	1;2;2
+@60
+	15;2;2;8;2;-1
+	16;Now, I'll show you two the true
+	16;power of my boundary!
+	4;500
+@61
+	17;0;2
+	16;What's the point of doing it again?
+	4;500
+@62
+	17;2;6
+	16;There's two of you, so I get two tries!
+	4;500
+	5;0;5
+	5;1;5
+	13;0
+@92
+	0
+	13;1
+@0
+	0

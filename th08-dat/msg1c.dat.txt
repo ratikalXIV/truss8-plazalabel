@@ -1,0 +1,121 @@
+entry 0
+@0
+	1;1;1
+@60
+	15;1;2;8;-1;-1
+	16;Sakuya, I didn't ask you to follow me.
+	4;500
+	1;0;1
+@61
+	15;0;2;-2;-1;-1
+	16;What are you saying? I worry about your safety.
+	4;500
+@62
+	15;0;8;-2;-1;-1
+	16;Moreover, what if the bug we saw earlier shows 
+	16;up again...
+	4;500
+	15;2;-2;-2;-1;-1
+	16;Indeed, as they say, "speak of the bug!"
+@63
+	4;60
+	13;0
+	6
+@123
+	1;2;2
+	13;1
+	15;2;2;2;3;-1
+	16;Well, I showed up. Perhaps you'll hand over the
+	16;Lady of the mansion to me!
+	8;2;0;The Bug of Light Wriggling in the Dark
+	8;2;1;           Wriggle Nightbug
+@124
+	4;500
+	15;0;8;-2;-2;-1
+	16;Even if you show up... who would pity a bug
+	16;that much?
+@125
+	4;500
+	15;0;8;-2;-2;-1
+	16;Don't they say that if you put enough bugs 
+	16;together, even they will have a small soul?
+@126
+	4;500
+	15;1;8;7;-2;-1
+	16;80 percent smaller, actually.
+@127
+	4;500
+	15;2;-2;-2;6;-1
+	16;Are you trying to intimidate me?
+@128
+	4;500
+	15;0;2;-2;-2;-1
+	16;No, we're trying to kill you.
+@129
+	4;500
+	15;1;-2;8;-2;-1
+	16;Don't worry, I'm not interested in non-humans
+	16;anyway.
+@130
+	4;500
+	15;0;8;-2;-2;-1
+	16;Her disinterest is just more reason to worry.
+@131
+	4;500
+	15;0;2;-2;-2;-1
+	16;If you were human, you'd at least be treated 
+	16;as food.
+@132
+	4;500
+	15;0;8;-2;-2;-1
+	16;She's the Lady without mercy, after all.
+@133
+	4;500
+	15;2;8;2;2;-1
+	16;Awwww...
+@134
+	4;500
+	7;1
+	5;0;5
+	5;1;5
+	5;2;5
+	13;0
+@164
+	0
+	13;1
+@0
+	0
+entry 1
+@0
+	1;0;1
+	1;1;1
+@60
+	15;0;5;2;-1;-1
+	16;Ah, the increase in fireflies lately makes
+	16;everything so beautiful.
+	4;500
+@61
+	17;1;8
+	16;Sakuya, that comment totally clashes with 
+	16;the situation.
+	4;500
+@62
+	17;0;4
+	16;I changed the subject, Lady.
+	4;500
+@63
+	17;1;2
+	16;I only heard the second half.
+	16;What were you trying to say?
+@64
+	4;500
+	13;0
+@124
+	9;0
+	12
+@184
+	4;800
+	11
+	10
+@0
+	0

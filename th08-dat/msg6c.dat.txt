@@ -1,0 +1,342 @@
+entry 0
+@0
+	1;0;1
+	1;1;1
+	15;0;5;2;-1;-1
+@60
+	15;0;5;2;-1;-1
+	16;Looks like we've passed through the 
+	16;corridor, but where are we...?
+@61
+	4;60
+	13;0
+	6
+@121
+	1;2;2
+	13;1
+	17;2;5
+	16;That's enough.
+	4;500
+@122
+	17;2;2
+	16;Haven't you noticed, after coming so far?
+	4;500
+@123
+	17;1;9
+	16;Damn it!
+	16;We've been tricked, Sakuya!
+	4;500
+@124
+	17;1;2
+	16;That isn't the moon!
+	4;500
+@125
+	17;0;2
+	16;Certainly, it's a little on the large side.
+	4;500
+@126
+	17;1;7
+	16;Well, it's because we're closer to it,
+	16;I guess.
+	4;500
+@127
+	17;2;2
+	16;Yes, you've come down this corridor
+	16;to a counterfeit moon.
+	8;2;0;Eirin
+	4;500
+@128
+	17;2;4
+	16;The full moon is the key linking 
+	16;the earth and the moon.
+	4;500
+@129
+	17;2;5
+	16;If that link is destroyed, nothing can 
+	16;come or go between the earth and the moon.
+	4;500
+@130
+	17;2;2
+	16;See? Everyone's deceived by the illusion, 
+	16;just like you.
+	4;500
+@131
+	17;0;2
+	16;Ah, it's an illusion. I wonder if that absurdly
+	16;long corridor was also an illusion.
+	4;500
+@132
+	17;1;2
+	16;It seems like an illusion.
+	4;500
+@133
+	17;1;8
+	16;With such a long corridor, no cleaning mop
+	16;would stand a chance.
+	4;500
+@134
+	17;0;5
+	16;Well, I guess you'd need a wet rag, not a
+	16;mop.  That would give you a backache, though.
+	4;500
+@135
+	17;2;7
+	16;What a pointless thing to worry about.
+	16;It's an illusion, an illusion.
+	4;500
+@136
+	17;1;8
+	16;Anyway, what's the point of this huge charm?
+	4;500
+@137
+	17;1;2
+	16;Nobody's trying to go to the moon.
+	4;500
+@138
+	17;2;2
+	16;There are many fools heading for the moon 
+	16;outside of Gensokyo, though...
+	4;500
+@139
+	17;2;2
+	16;However, all I intended was to keep the  
+	16;princess from being hunted. 
+	4;500
+@140
+	17;2;5
+	16;If dawn comes, with things as they are, 
+	16;nobody will come from the moon anymore.
+	4;500
+@141
+	17;0;5
+	16;Ah, that's why we saw nothing but rabbits.
+	16;They were moon rabbits.
+	4;500
+@142
+	17;2;7
+	16;No, most of them were caught on the Earth.
+	4;500
+@143
+	17;2;5
+	16;Only Reisen, whom you saw just now, is
+	16;a true Moon Rabbit.
+	4;500
+@144
+	17;1;5
+	16;It doesn't matter.
+	4;500
+@145
+	17;1;2
+	16;Our purpose is finding the one who stole the
+	16;full moon.  The reason they did is unimportant.
+	4;500
+@146
+	17;1;4
+	16;The whole reason why we came here was to
+	16;find the criminal and beat them up.
+	4;500
+@147
+	17;1;3
+	16;Sakuya, you mustn't go easy on this one.
+	4;500
+@148
+	17;0;3
+	16;I haven't gone easy on anyone so far.
+	4;500
+@149
+	17;1;5
+	16;... so, you're fighting to the death?
+	4;500
+@150
+	17;0;2
+	16;I won't die.
+	4;500
+@151
+	17;2;4
+	16;You're very composed.
+	4;500
+@152
+	17;2;2
+	16;The reason I lured you out here was so
+	16;I could amuse myself as much as I wanted.
+	4;500
+@153
+	17;2;2
+	16;Don't worry, I'll give you back your
+	16;full moon in the morning.
+	4;500
+@154
+	17;2;5
+	16;Now, we only need to play here till
+	16;we see the dawn.
+	4;500
+@155
+	17;0;4
+	16;That's a relief, my Lady.
+	4;500
+@156
+	17;0;8
+	16;The moon will be restored whether
+	16;we win or lose.
+	4;500
+@157
+	17;1;6
+	16;Are you going soft?
+	4;500
+@158
+	17;1;6
+	16;We must make her pay for her disrespect towards
+	16;me, or my reputation in Gensokyo will suffer.
+	4;500
+@159
+	17;1;2
+	16;The full moon doesn't matter to me anymore.
+	4;500
+@160
+	17;2;6
+	16;Ha, what a brat.
+	4;500
+@161
+	17;2;2
+	16;There's no way little children like you can
+	16;stand against an eternal being like me.
+	4;500
+@162
+	17;2;2
+	16;Your history of scarlet...
+	16;Divided by my history, the result is zero.
+	4;500
+@163
+	17;2;5
+	16;To an eternal one such as I, your existence
+	16;is merely an instant.
+	4;500
+@164
+	17;0;8
+	16;Well, my Lady.
+	16;We should respect the elderly.
+	4;500
+@165
+	17;1;7
+	16;You're the youngest among us.
+	4;500
+@166
+	17;2;5
+	16;Also, it was you who stopped the night, yes?
+	4;500
+@167
+	17;2;2
+	16;You might incur the wrath of the princess
+	16;for doing that...
+	4;500
+@168
+	17;1;4
+	16;Well, respect me as much as you want, Sakuya.
+	4;500
+@169
+	17;2;7
+	16;And they aren't listening.
+	4;500
+@170
+	17;2;2
+	16;That's why youngsters these days are bothersome.
+	4;500
+@171
+	17;2;5
+	16;I think you'll find this medicinal barrage
+	16;more important than your chatter!
+	7;1
+	4;500
+	5;0;5
+	5;1;5
+	5;2;5
+	13;0
+@201
+	0
+	13;1
+@0
+	0
+entry 2
+@0
+	1;0;1
+	1;1;1
+	1;2;2
+	13;0
+@60
+	15;2;2;2;2;-1
+	13;1
+	16;Hahaha...
+	4;500
+@61
+	17;2;-2
+	16;You're following me most obediently.
+	4;500
+@62
+	17;1;2
+	16;Hey, hey!
+	16;Is there no end to this?
+	4;500
+@63
+	17;0;8
+	16;We've gone so far, but the end of
+	16;this corridor still can't be seen!
+	4;500
+	5;0;5
+	5;1;5
+	5;2;5
+	13;0
+@93
+	0
+	13;1
+@0
+	0
+entry 3
+@60
+	15;2;-1;-1;-1;-1
+	16;What are you playing at?!
+	6
+	4;500
+@61
+	17;2;-2
+	16;Eirin, I'll use my power to give you
+	16;one more chance.
+	4;500
+@62
+	17;2;-2
+	16;If you're defeated this time...
+	4;500
+@63
+	17;2;-2
+	16;You devils!
+	4;500
+@64
+	17;2;-2
+	16;My arcane medicine and Eirin's true
+	16;power - you'll never forget this!
+	4;500
+	7;2
+	13;0
+@94
+	0
+	13;1
+@0
+	0
+entry 4
+@0
+	7;-1
+	0
+	0
+entry 5
+@60
+	4;800
+	9;0
+@120
+	4;800
+	13;0
+	12
+	14
+@440
+	11
+	10
+@0
+	0

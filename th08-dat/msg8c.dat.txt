@@ -1,0 +1,411 @@
+entry 0
+@0
+	1;0;1
+	1;1;1
+	15;0;2;2;-1;-1
+@60
+	15;0;2;2;-1;-1
+	16;Well, these attacks are above average,
+	16;but it's not much of a trial of guts.
+@61
+	4;400
+	15;2;2;2;-1;-1
+	16;It's 3 AM, and non-humans are battling...
+@62
+	4;400
+	15;2;2;2;-1;-1
+	16;Neither humans nor youkai around...
+	16;It's a brutal night.
+@63
+	4;400
+	13;0
+	6
+@123
+	1;2;2
+	13;1
+	17;2;5
+	16;Maybe because it's a full moon tonight?
+	4;500
+@124
+	17;0;8
+	16;Unfortunately, I'm a human...
+	4;500
+@125
+	17;2;2
+	16;Is that so?
+	16;Well, unfortunately, so am I.
+	8;2;0;ëiù╘
+	4;500
+@126
+	17;1;2
+	16;Oh, Sakuya, just in time.
+	16;A human in such a place...
+	4;500
+@127
+	17;0;7
+	16;Just in time?
+	16;Isn't it a bit early for breakfast?
+	4;500
+@128
+	17;2;2
+	16;So this lady is a youkai...
+	16;Of course, her wings make that obvious.
+	4;500
+@129
+	17;1;2
+	16;Do not treat me as a mere youkai.
+	16;I am proud and noble...
+	4;500
+@130
+	17;0;8
+	16;There's no need to be proud and noble
+	16;at the moment.
+	4;500
+@131
+	17;2;5
+	16;So, whatever could a human and a youkai
+	16;be doing here?
+	4;500
+@132
+	17;0;2
+	16;Uh, well, some trial of guts.
+	4;500
+@133
+	17;2;7
+	16;A trial of guts?
+	4;500
+@134
+	17;2;7
+	16;A lone human and a youkai?
+	4;500
+@135
+	17;2;2
+	16;Under this true full moon, at 3 AM, when
+	16;only the trees and grasses sleep?
+	4;500
+@136
+	17;1;6
+	16;What's wrong with that?  We're in a
+	16;haunted house sort of mood.
+	4;500
+@137
+	17;1;2
+	16;You're human, so you should become a 
+	16;ghost to entertain us.
+	4;500
+@138
+	17;0;7
+	16;My Lady, humans DRESS like ghosts in haunted
+	16;houses.  They don't BECOME ghosts.
+	4;500
+@139
+	17;2;2
+	16;But there are plenty of ghosts around already.
+	4;500
+@140
+	17;2;2
+	16;What would be the point of having me dress
+	16;up like one?
+	4;500
+@141
+	17;1;2
+	16;You said that you're human.
+	4;500
+@142
+	17;1;2
+	16;Why do you have no fear of youkai, then?
+	4;500
+@143
+	17;1;8
+	16;Why aren't you trembling in my presence?
+	4;500
+@144
+	17;2;2
+	16;Oh, so this trial of guts is for ME?
+	4;500
+@145
+	17;2;3
+	16;Nothing can make me afraid, though.
+	4;500
+@146
+	17;2;2
+	16;For no matter how many swift arrows
+	16;pierce my flesh...
+	4;500
+@147
+	17;2;2
+	16;No matter if flames consume
+	16;my body...
+	4;500
+@148
+	17;2;2
+	16;I will not die.
+	4;500
+@149
+	17;2;5
+	16;So, no trial of guts for me.
+	4;500
+@150
+	17;0;2
+	16;That's wonderful, my Lady.
+	4;500
+@151
+	17;0;2
+	16;You can drink her blood as much as you want,
+	16;and no matter how much you drink, she won't die!
+	4;500
+@152
+	17;1;5
+	16;No, Sakuya.
+	4;500
+@153
+	17;1;2
+	16;She isn't really human anymore.
+	16;I only drink the blood of those who fear me.
+	4;500
+@154
+	17;0;8
+	16;That's too bad.  I thought we might be able
+	16;to use her as an unlimited supply of blood.
+	4;500
+@155
+	17;2;7
+	16;Hey, you.  Are you really human?
+	4;500
+@156
+	17;2;2
+	16;Forget about your trial and go home.  This
+	16;place isn't suited to the likes of you.
+	4;500
+@157
+	17;0;2
+	16;But I thought she told us that something
+	16;would be here.
+	4;500
+@158
+	17;1;2
+	16;It looks to me like something already
+	16;IS here.
+	4;500
+@159
+	17;1;5
+	16;Sakuya, your knives are quick,
+	16;but your mind is slow.
+	4;500
+@160
+	17;1;2
+	16;Kaguya wanted us to crush this girl.  The trial
+	16;of guts was just a coverup for that, I'm sure.
+	4;500
+@161
+	17;2;2
+	16;Huh?
+	16;What did you say?
+	4;500
+@162
+	17;2;2
+	16;So, THAT'S why a human and a youkai are
+	16;having a trial of guts out here.
+	4;500
+@163
+	17;2;6
+	16;Always trying to kill me...
+	16;Always sending assassins...
+	4;500
+@164
+	17;2;6
+	16;Yet she KNOWS that I can never die!
+	4;500
+@165
+	17;2;6
+	16;Isn't Kaguya the one who made the Hourai
+	16;Elixir?  She should know this is nonsense!
+	4;500
+@166
+	17;1;4
+	16;See, Sakuya?
+	16;Kaguya was behind all of this, like I said.
+	4;500
+@167
+	17;0;2
+	16;I see...  So my Lady just went along
+	16;with it for fun.
+	4;500
+@168
+	17;1;5
+	16;No, I felt like killing time.
+	4;500
+@169
+	17;2;5
+	16;The guts of this trial are the smoke of Mt. Fuji
+	16;The eternal volcanic ash reaching to the moon...
+	4;500
+@170
+	17;2;2
+	16;Born in endless flames...
+	16;An ever-resurrecting phoenix...
+	4;500
+@171
+	17;2;3
+	16;The legendary phoenix grows in strength with
+	16;each rebirth.  These bullets will be your doom!
+	7;1
+	4;500
+	5;0;5
+	5;1;5
+	5;2;5
+	13;0
+@201
+	0
+	13;1
+@0
+	0
+entry 1
+@0
+	1;0;1
+	1;1;1
+	1;2;2
+@60
+	15;2;4;8;10;-1
+	16;My goodness...
+	16;I can't take any more.
+	4;500
+@61
+	17;1;4
+	16;Oho?  That's it?
+	16;I thought she was stronger than THAT...
+	4;500
+@62
+	17;0;2
+	16;I've had enough, my Lady...  Please don't
+	16;taunt this human that can't die.
+	4;500
+@63
+	17;1;5
+	16;Oh, I almost forgot.  Sakuya is a human
+	16;that CAN die.
+	4;500
+@64
+	17;0;7
+	16;Please don't say ominous things.  When it comes
+	16;from my Lady, I'm not sure if it's a joke.
+	4;500
+@65
+	17;2;-2
+	16;Immortal or not, I can't fight anymore...
+	4;500
+@66
+	17;1;2
+	16;How about becoming immortal, Sakuya?
+	4;500
+@67
+	17;1;4
+	16;Then we can live together forever.
+	4;500
+@68
+	17;0;7
+	16;I'll be a MORTAL human my whole life.
+	4;500
+@69
+	17;0;2
+	16;But don't worry, my Lady.  As long as
+	16;as I live, I'll serve you.
+	4;500
+@70
+	17;2;-2
+	16;I don't recommend becoming immortal.
+	4;500
+@71
+	17;2;-2
+	16;You may not realize it, but these bruises
+	16;are extremely painful.
+	4;500
+@72
+	17;2;-2
+	16;No matter how much pain there is, though...
+	16;I can't die...
+	4;500
+@73
+	17;1;8
+	16;That's too bad, but if Sakuya says so...
+	16;The Hourai Elixir, medicine of immortality...
+	4;500
+@74
+	17;1;2
+	16;Its ingredients stay in the immortal's guts.
+	4;500
+@75
+	17;1;5
+	16;So the Elixir itself stands before us now,
+	16;beaten and tired...  What a pity.
+	4;500
+@76
+	17;0;7
+	16;I can't eat a human's guts...
+	4;500
+@77
+	17;0;2
+	16;And who told you about such things, anyhow?
+	4;500
+@78
+	17;0;2
+	16;Oh, right, never mind.
+	4;500
+@79
+	17;2;-2
+	16;Talking about eating my guts...
+	16;That's frightening.
+	4;500
+@80
+	17;2;-2
+	16;It's like I'm having a trial of guts myself.
+	4;500
+@81
+	17;1;4
+	16;Isn't that what we had in mind?  What say you,
+	16;MORTAL Sakuya?
+	4;500
+@82
+	17;0;4
+	16;It seems Patchouli tells you too much useless
+	16;Knowledge.  How troublesome...
+	4;500
+	13;0
+@142
+	4;800
+	9;0
+@202
+	4;800
+	12
+	14
+@642
+	11
+	10
+@0
+	0
+entry 2
+@0
+	1;0;1
+	1;1;1
+	1;2;2
+	13;0
+@60
+	15;2;2;2;2;-1
+	3;2;0;I've been waiting for you.
+@140
+	3;2;0;Challenging me on the full moon?  You have guts.
+@230
+	3;0;0;Wow, you've changed so much...
+	15;0;7;2;2;-1
+@320
+	3;2;0;I won't let you lay a finger on her!
+	15;2;2;2;2;-1
+@400
+	5;0;5
+	5;1;5
+	5;2;5
+@430
+	0
+	13;1
+@0
+	0

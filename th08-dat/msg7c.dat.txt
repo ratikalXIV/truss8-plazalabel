@@ -1,0 +1,372 @@
+entry 0
+@0
+	1;0;1
+	1;1;1
+	15;0;5;2;-1;-1
+@60
+	15;0;5;2;-1;-1
+	16;My Lady, is anyone hurt?
+@61
+	4;60
+	13;0
+	6
+@121
+	1;2;2
+	13;1
+	17;2;5
+	16;They will be.
+	4;500
+@122
+	17;1;2
+	16;No, I'm not...
+	4;500
+@123
+	17;1;9
+	16;Huh?  Who are you?
+	4;500
+@124
+	17;2;2
+	16;Defeating Reisen and Eirin, and coming so far...
+	8;2;0;Neko Mimi Mode
+	4;500
+@125
+	17;2;5
+	16;It would be unfair if you weren't hurt
+	16;even a little bit.
+	4;500
+@126
+	17;1;2
+	16;Too bad I'm invincible on the night
+	16;of the full moon.
+	4;500
+@127
+	17;0;8
+	16;Really?  I didn't know that.
+	4;500
+@128
+	17;0;9
+	16;Ah, my Lady, it's the true full moon!
+	16;I didn't realize it at first.
+	4;500
+@129
+	17;1;7
+	16;I said that because I knew.
+	4;500
+@130
+	17;2;2
+	16;This is the true full moon.
+	4;500
+@131
+	17;2;2
+	16;I wonder when this moon vanished from
+	16;the Earth,
+	4;500
+@132
+	17;2;3
+	16;and lost its power to drive humans insane?
+	4;500
+@133
+	17;1;8
+	16;This full moon is...
+	4;500
+@134
+	17;1;9
+	16;Sakuya, watch out!
+	4;500
+@135
+	17;2;2
+	16;Yes, this moon will drive any human who
+	16;looks at it insane.
+	4;500
+@136
+	17;0;2
+	16;Ah, but I seem fine...
+	4;500
+@137
+	17;1;7
+	16;... of course, Sakuya would be okay.
+	16;She's very well-disciplined.
+	4;500
+@138
+	17;1;2
+	16;Well, even without Sakuya, I would
+	16;still be invincible under this full moon.
+	4;500
+@139
+	17;0;8
+	16;Oh, how cruel.
+	4;500
+@140
+	17;0;4
+	16;I will assist you in any situation.
+	16;Please rely on me.
+	4;500
+@141
+	17;1;4
+	16;Oh my, Sakuya, are you starting to go insane?
+	4;500
+@142
+	17;2;5
+	16;The moon gave many powers to the beings
+	16;of the Earth.
+	4;500
+@143
+	17;2;5
+	16;Many of them, such as magic, were originally
+	16;the moon's powers.
+	4;500
+@144
+	17;2;3
+	16;Does your friend rely on the moon as well?
+	16;Hmmmm, Miss VAMPIRE?
+	4;500
+@145
+	17;1;6
+	16;So what?
+	4;500
+@146
+	17;0;2
+	16;It's a full moon now.  That means
+	16;we're invincible.  Wonderful!
+	4;500
+@147
+	17;2;2
+	16;Ha.
+	4;500
+@148
+	17;2;2
+	16;We of the moon turned some of the Earth
+	16;to monsters, to regulate their filth.
+	4;500
+@149
+	17;2;5
+	16;But that's all over now.
+	4;500
+@150
+	17;2;2
+	16;Those on the Earth have sealed the
+	16;monsters themselves.
+	4;500
+@151
+	17;2;3
+	16;That's why only useless creatures who assault
+	16;humans in predetermined patterns are left.
+	4;500
+@152
+	17;1;6
+	16;There's nothing like tea on a nice day.
+	16;Anything wrong with that?
+	4;500
+@153
+	17;0;2
+	16;.....
+	4;500
+@154
+	17;2;2
+	16;The people of the Earth no longer fear the 
+	16;moon and the night.
+	4;500
+@155
+	17;2;2
+	16;They've become more and more arrogant.
+	4;500
+@156
+	17;2;5
+	16;These nights, the light of the moon is
+	16;no longer necessary.
+	4;500
+@157
+	17;2;5
+	16;These days, the ebb and flow of the
+	16;tides on the coast no longer matters.
+	4;500
+@158
+	17;2;2
+	16;And finally, I hear that they're
+	16;invading the moon.
+	4;500
+@159
+	17;1;2
+	16;Huh.  I don't care what those worthless
+	16;humans are doing.
+	4;500
+@160
+	17;1;2
+	16;But you're from the moon, right?
+	4;500
+@161
+	17;1;5
+	16;Why don't you go back there and fight
+	16;against the Earth?
+	4;500
+@162
+	17;2;2
+	16;I... well... 
+	4;500
+@163
+	17;2;2
+	16;I have a reason I can't go back to the moon.
+	4;500
+@164
+	17;2;5
+	16;I am no longer their ally.
+	16;Nor can I move about freely on the Earth.
+	4;500
+@165
+	17;0;2
+	16;You won't go back to the moon, and you have
+	16;no place on Earth...
+	4;500
+@166
+	17;0;8
+	16;You must have done something terrible, right?
+	4;500
+@167
+	17;2;5
+	16;I've been hiding from these powerless people,
+	16;so that I won't bother them.
+	4;500
+@168
+	17;0;2
+	16;We are an invincible Lady and an
+	16;invincible human.
+	4;500
+@169
+	17;0;3
+	16;Care to test that claim that we have no power?
+	4;500
+@170
+	17;2;2
+	16;Well, then, my Impossible Requests, which have
+	16;defeated so many humans in the past...
+	4;500
+@171
+	17;2;3
+	16;I wonder if you can clear them?
+	7;1
+	4;500
+	5;0;5
+	5;1;5
+	5;2;5
+	13;0
+@201
+	0
+	13;1
+@0
+	0
+entry 2
+@0
+	1;0;1
+	1;1;1
+	1;2;2
+	13;0
+@60
+	15;2;2;2;2;-1
+	13;1
+	16;Geez...
+	4;500
+@61
+	17;2;-2
+	16;Didn't I say not to let them come this way?
+	4;500
+@62
+	17;1;2
+	16;Sakuya.
+	16;This isn't who we're looking for.
+	4;500
+@63
+	17;0;2
+	16;Well, then, let's shoot her down at once.
+	4;500
+	5;0;5
+	5;1;5
+	5;2;5
+	13;0
+@93
+	0
+	13;1
+@0
+	0
+entry 3
+@60
+	15;2;-1;-1;-1;-1
+	16;What's this?!
+	4;500
+@61
+	17;2;-2
+	16;So, the ones who froze the night...
+	4;500
+@62
+	17;2;-2
+	16;That was YOU, wasn't it?!
+	4;500
+	7;2
+	13;0
+@92
+	0
+	13;1
+@0
+	0
+entry 4
+@0
+	7;-1
+	0
+	0
+entry 5
+@60
+	4;800
+	9;0
+@120
+	4;800
+	13;0
+	12
+	14
+@560
+	11
+	10
+@0
+	0
+entry 6
+@60
+	15;2;-1;-1;-1;-1
+	16;The fragmented eternal evening you've created...
+	4;500
+	13;0
+@90
+	0
+	13;1
+@0
+	0
+entry 7
+@60
+	15;2;-1;-1;-1;-1
+	16;My eternity manipulation will destroy it...
+	4;500
+	13;0
+@90
+	0
+	13;1
+@0
+	0
+entry 8
+@60
+	15;2;-1;-1;-1;-1
+	16;Your spell of Imperishable Night will shatter...
+	4;500
+	13;0
+@90
+	0
+	13;1
+@0
+	0
+entry 9
+@60
+	15;2;-1;-1;-1;-1
+	16;And the dawn shall come!
+	4;500
+	13;0
+@90
+	0
+	13;1
+@0
+	0

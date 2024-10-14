@@ -1,0 +1,328 @@
+entry 0
+@0
+	15;2;-1;-1;-1;-1
+@60
+	15;2;-1;-1;-1;-1
+	16;You're too late.
+@61
+	4;60
+	13;0
+	6
+@121
+	1;2;2
+	13;1
+	17;2;5
+	16;I've already sealed all the doors around here.
+	16;You'll never get to her now!
+	4;500
+	1;0;1
+	1;1;1
+	15;0;2;2;-2;-1
+	16;Isn't this your doing? 
+	16;This accident with the moon.
+	4;500
+@122
+	17;1;2
+	16;She looks suspicious, especially with
+	16;that defiant appearance.
+	4;500
+@123
+	17;2;6
+	16;Ah, less so than you, winged one.
+	8;2;0;Reisen
+	4;500
+@124
+	17;2;2
+	16;Anyway, what business do you have here
+	16;at midnight?
+	4;500
+@125
+	17;0;2
+	16;Important business.
+	16;You're behind the moon incident, right?
+	4;500
+@126
+	17;0;5
+	16;We're here to clean up this mess from 
+	16;the roots.
+	4;500
+@127
+	17;0;8
+	16;I'm good at cleaning.
+	4;500
+@128
+	17;2;7
+	16;Moon incident?
+	16;I never thought you would notice.
+	4;500
+@129
+	17;2;5
+	16;You're just filthy earth-crawlers, 
+	16;after all.
+	4;500
+@130
+	17;1;6
+	16;Unfortunately, I'm a filthy being who watches
+	16;only the moon and the stars in the sky.
+	4;500
+@131
+	17;1;8
+	16;I know when the moon changes, for good or for
+	16;bad.
+	4;500
+@132
+	17;0;7
+	16;You're a night person, my Lady.
+	4;500
+@133
+	17;1;2
+	16;Return the full moon to the Earth right away.
+	4;500
+@134
+	17;2;2
+	16;I can't do that yet. 
+	4;500
+	13;0
+	6
+@194
+	1;3;2
+	13;1
+	17;3;2
+	16;Ah, I thought someone came for a meeting.
+	4;500
+@195
+	17;3;2
+	16;Are they merely lost youkai?
+	4;500
+@196
+	17;3;2
+	16;Even so, there's no chance anyone would
+	16;meet her.
+	4;500
+@197
+	17;0;9
+	16;Who are you?
+	4;500
+@198
+	17;1;8
+	16;Sakuya, this is the villain.
+	16;I knew it at once; that's a villain's face.
+	4;500
+@199
+	17;3;2
+	16;What a cruel thing to say.
+	4;500
+@200
+	17;3;2
+	16;It's true, I sealed the chamber of the Earth...
+	4;500
+@201
+	17;3;2
+	16;But it was for the sake of this girl, 
+	16;and the princess.
+	4;500
+@202
+	17;0;2
+	16;If that's the case, we won't leave until 
+	16;we beat you.
+	4;500
+@203
+	17;3;2
+	16;Too bad.  It's still useless.
+	16;Udonge, I'll leave it to you.
+	4;500
+@204
+	17;3;2
+	16;Whatever you do, don't let them steal 
+	16;our princess.
+	4;500
+	5;3;5
+	13;0
+	6
+@264
+	13;1
+	4;500
+@265
+	17;2;2
+	16;Please leave. 
+	16;These closed doors shall never open.
+	4;500
+@266
+	17;0;6
+	16;I've found there's a way past anything.
+	4;500
+@267
+	17;1;2
+	16;How troublesome. Going off the beaten path
+	16;as always, Sakuya?
+	4;500
+@268
+	17;0;6
+	16;Follow the path and overwhelm the enemy.
+	16;That's the trick to avoiding complaints.
+	4;500
+@269
+	17;2;5
+	16;Hahaha...
+	16;The only path is the one behind you.
+	7;1
+	4;500
+@270
+	17;2;2
+	16;But you can't turn back now.
+	4;500
+@271
+	17;1;2
+	16;We won't turn back. 
+	4;500
+@272
+	17;2;2
+	16;Aren't you aware that you've fallen 
+	16;into my trap?
+	4;500
+@273
+	17;2;2
+	16;Left, right, up and down...
+	16;Your sense of direction is already out of order.
+	4;500
+@274
+	17;2;5
+	16;Though you think you fly straight ahead,
+	16;you're floating around aimlessly.
+	4;500
+@275
+	17;2;2
+	16;See my eyes, and lose every last trace of 
+	16;your mind!
+	4;500
+	5;0;5
+	5;1;5
+	5;2;5
+	13;0
+@305
+	0
+	13;1
+@0
+	0
+entry 1
+@0
+	1;0;1
+	1;1;1
+	1;2;2
+@60
+	15;0;4;8;10;-1
+	16;Let's proceed along the route, Lady.
+	16;We will soon come to the exit.
+	4;500
+@61
+	17;1;2
+	16;Sakuya, the one we saw before must be 
+	16;over there. But, um...
+	4;500
+@62
+	17;1;2
+	16;We'd better be careful.
+	16;But I'm with Sakuya, so we'll be all right.
+	4;500
+@63
+	17;2;-2
+	16;My master's power is beyond comparison to me.
+	4;500
+@64
+	17;2;-2
+	16;You may have beaten me, but do you think
+	16;you're a match for my master?
+	4;500
+@65
+	17;1;3
+	16;Overwhelmingly.
+	4;500
+@66
+	17;0;3
+	16;Now, we'll finish this before dawn.
+	4;500
+@67
+	17;2;-2
+	16;I see, it was you that lengthened the night.
+	4;500
+@68
+	17;2;-2
+	16;I thought that... 
+	4;500
+@69
+	17;0;6
+	16;?
+	4;500
+	13;0
+@129
+	9;0
+	12
+@189
+	4;800
+	11
+	10
+@0
+	0
+entry 2
+@0
+	1;0;1
+	1;1;1
+	1;2;2
+@60
+	15;0;4;8;10;-1
+	16;Let's proceed along the route, Lady. 
+	16;We'll soon come to the exit.
+	4;500
+@61
+	17;1;2
+	16;Sakuya, the one we saw before must be 
+	16;over there. But, before that...
+	4;500
+@62
+	17;1;2
+	16;Let's go through the door over there.
+	4;500
+@63
+	17;0;2
+	16;What's over there?
+	4;500
+@64
+	17;2;-2
+	16;Ah, crap!
+	16;There was a door that wasn't properly sealed?
+	4;500
+@65
+	17;1;2
+	16;The one we're seeking must be in there.
+	4;500
+@66
+	17;1;3
+	16;My eyes cannot be decieved. 
+	4;500
+@67
+	17;2;-2
+	16;Oh no, my master will be mad at me...
+	4;500
+	13;0
+@127
+	9;0
+	12
+@187
+	4;800
+	11
+	10
+@0
+	0
+entry 3
+@120
+	4;1
+@180
+	19;Go straight on (FinalA)
+	20;Go another way (FinalB)
+	21;1200
+@181
+	22
+@211
+	0
+@0
+	0

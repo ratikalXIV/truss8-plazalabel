@@ -1,0 +1,249 @@
+entry 0
+@0
+	1;2;2
+@60
+	17;2;6
+	16;Mmm, I can't retreat any farther.
+	4;500
+	1;0;1
+	1;1;1
+	15;0;2;2;-2;-1
+	16;C'mon, surrender the humans to us now!
+	4;500
+@61
+	17;1;9
+	16;Wait, wait, Marisa!
+	4;500
+@62
+	17;1;6
+	16;Since when are going to eat the humans?
+	4;500
+@63
+	17;2;8
+	16;Heh.  It's quite rare that youkai
+	16;would dare to attack this village. 
+	8;2;0;History Eater OMG COW
+	4;500
+@64
+	17;2;2
+	16;Is it because of that corrupt moon?
+	16;Everything's been messed up since it appeared.
+	4;500
+@65
+	17;0;7
+	16;Nobody said we were gonna EAT them.
+	4;500
+@66
+	17;1;2
+	16;Anyways, 
+	16;I'm really in a hurry!
+	4;500
+@67
+	17;1;8
+	16;I have no idea who you are,
+	16;but we don't have time to waste on mere humans.
+	4;500
+@68
+	17;0;8
+	16;You're mean.
+	4;500
+@69
+	17;2;3
+	16;If you were just passing by,
+	16;I wouldn't try to stop you.
+	4;500
+@70
+	17;2;2
+	16;But you two are really just too disturbing.
+	4;500
+@71
+	17;1;8
+	16;There, you see?
+	4;500
+@72
+	17;1;6
+	16;This is why you shouldn't use
+	16;your full power at night, Marisa.
+	4;500
+@73
+	17;0;3
+	16;What do you mean?
+	16;Isn't magic best unleashed at night?
+	4;500
+@74
+	17;0;2
+	16;The only thing worth secretly using
+	16;during the day is a camera, if you ask me.
+	4;500
+@75
+	17;2;8
+	16;I had a feeling that something
+	16;terrible was approaching...
+	4;500
+@76
+	17;2;2
+	16;Looks like I was right to seal the village.
+	4;500
+@77
+	17;0;2
+	16;Umm...
+	4;500
+@78
+	17;0;2
+	16;Listen, I never said I'd attack the village.
+	4;500
+@79
+	17;1;7
+	16;(Didn't you just say to "surrender the humans"?)
+	4;500
+@80
+	17;0;3
+	16;The only one I'm concerned with is you!
+	4;500
+@81
+	17;2;2
+	16;Whatever you say, lying wench.
+	4;500
+@82
+	17;2;3
+	16;I shall let you touch neither the
+	16;humans nor the history of this village!
+	7;1
+	4;500
+@83
+	17;1;2
+	16;Marisa!
+	4;500
+@84
+	17;1;8
+	16;In case you haven't noticed yet...
+	16;She's not an ordinary human...
+	4;500
+@85
+	17;1;2
+	16;She's a half-beast!
+	4;500
+	5;0;5
+	5;1;5
+	5;2;5
+	13;0
+@115
+	0
+	13;1
+@0
+	0
+entry 1
+@0
+	1;0;1
+	1;1;1
+	1;2;2
+@60
+	15;0;4;8;10;-1
+	16;A half-beast that can't transform without
+	16;the full moon is just a human.  Weak!
+	4;500
+@61
+	17;1;5
+	16;You DO know you're a human, too, right?
+	4;500
+@62
+	17;2;-2
+	16;Grrr... if it was a full moon tonight...
+	4;500
+@63
+	17;1;3
+	16;Oh, yeah.
+	16;We're trying to bring back the true full moon.
+	4;500
+@64
+	17;0;3
+	16;That's right.
+	16;Wasn't that the first thing we said?
+	4;500
+@65
+	17;2;-2
+	16;What?
+	16;You never said that at all!
+	4;500
+@66
+	17;1;2
+	16;So, perhaps you know who messed with the moon?
+	4;500
+@67
+	17;0;3
+	16;Right, then, as you promised!
+	16;Tell us who the culprit is!
+	4;500
+@68
+	17;0;3
+	16;(I just made up that promise, though...)
+	4;500
+	13;0
+@128
+	9;0
+	12
+@188
+	4;800
+	11
+	10
+@0
+	0
+entry 2
+@0
+	1;2;2
+	1;0;1
+	1;1;1
+@60
+	15;0;2;2;2;-1
+@61
+	17;2;2
+	16;Who are you?
+	16;And why are you attacking the village at night?
+	4;500
+@62
+	17;0;2
+	16;Uh, we're not.
+	16;We're just passing by.  Don't mind us.
+	4;500
+@63
+	17;2;6
+	16;Hah, I won't trust the words of a youkai!
+	4;500
+@64
+	17;2;2
+	16;The events of this night are mine to devour!
+	4;500
+	5;0;5
+	5;1;5
+	5;2;5
+	13;0
+@94
+	0
+	13;1
+@0
+	0
+entry 3
+@0
+	1;2;2
+	1;0;1
+	1;1;1
+@60
+	15;0;2;2;2;-1
+@61
+	17;2;9
+	16;Who in the world are you?
+	4;500
+@62
+	17;0;6
+	16;Hmph, what you meant to say is
+	16;"Whoops, I gotta be somewhere else!", right?
+	4;500
+	5;0;5
+	5;1;5
+	5;2;5
+	13;0
+@92
+	0
+	13;1
+@0
+	0

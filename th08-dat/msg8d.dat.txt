@@ -1,0 +1,462 @@
+entry 0
+@0
+	1;0;1
+	1;1;1
+	15;0;2;2;-1;-1
+@60
+	15;0;2;2;-1;-1
+	16;Strange, the attacks stopped.
+	16;That's pretty ominous.
+@61
+	4;400
+	15;2;2;2;-1;-1
+	16;The form of a ghost, dressed in loud
+	16;colors, sweeps over the trees and grass...
+@62
+	4;400
+	15;2;2;2;-1;-1
+	16;... as they sleep under the full moon.
+@63
+	4;400
+	13;0
+	6
+@123
+	1;2;2
+	13;1
+	17;2;5
+	16;It's not too rare to see ghosts, but
+	16;you two seem to stand out.
+	4;500
+@124
+	17;0;9
+	16;Wah, something's there!
+	4;500
+@125
+	17;1;5
+	16;Yes, Youmu, it seems so.
+	4;500
+@126
+	17;2;7
+	16;Funny for a ghost to be saying that.
+	8;2;0;Mokou
+	4;500
+@127
+	17;1;2
+	16;...
+	4;500
+@128
+	17;0;7
+	16;What, it's a human?  I was just about
+	16;to slash you by mistake.
+	4;500
+@129
+	17;0;2
+	16;But wait, humans out at this hour?
+	16;How unnatural!
+	4;500
+@130
+	17;1;8
+	16;..........
+	4;500
+@131
+	17;2;5
+	16;I've lived here for ages, so it's more
+	16;natural for me to be here than you.
+	4;500
+@132
+	17;2;2
+	16;So, what business do you have here?
+	4;500
+@133
+	17;0;8
+	16;We're here to...  Uh, Lady Yuyuko?
+	4;500
+@134
+	17;1;8
+	16;...... Youmu, don't get close to her.
+	4;500
+@135
+	17;0;8
+	16;Lady Yuyuko...
+	4;500
+@136
+	17;1;8
+	16;That girl... she's different from other humans.
+	4;500
+@137
+	17;1;8
+	16;Don't touch her, or else her curse will
+	16;be passed on to you.
+	4;500
+@138
+	17;1;8
+	16;Don't eat her, or else her poison
+	16;will curse you.
+	4;500
+@139
+	17;1;8
+	16;And furthermore...
+	16;My powers cannot affect her.
+	4;500
+@140
+	17;2;7
+	16;That's a pretty sour way to talk about
+	16;someone you've just met.
+	4;500
+@141
+	17;2;5
+	16;So what exactly is this power that
+	16;you're talking about?
+	4;500
+@142
+	17;0;2
+	16;Lady Yuyuko can induce death in humans.
+	16;But if it doesn't work against you...
+	4;500
+@143
+	17;2;7
+	16;So, you already tried to take my life?
+	16;Such aggressive ghosts!
+	4;500
+@144
+	17;0;2
+	16;But aren't you human?
+	4;500
+@145
+	17;0;7
+	16;I don't understand why Lady Yuyuko
+	16;would be afraid of you, then.
+	4;500
+@146
+	17;2;3
+	16;Unfortunately, yes, I am a human.
+	16;It just so happens that I can't die.
+	4;500
+@147
+	17;1;8
+	16;Hourai...
+	16;Youmu, I'm scared...
+	4;500
+@148
+	17;0;7
+	16;You were fine with this trial of guts
+	16;till now...  Did you eat something funny?
+	4;500
+@149
+	17;0;2
+	16;Anyway, I'll take care of it.
+	4;500
+@150
+	17;0;2
+	16;I never would have thought that something
+	16;could frighten Lady Yuyuko...
+	4;500
+@151
+	17;2;6
+	16;Can't we all just get along?
+	4;500
+@152
+	17;2;6
+	16;This is annoying.  Maybe I should
+	16;just attack now.
+	4;500
+@153
+	17;0;8
+	16;But what is there to be afraid of,
+	16;Lady Yuyuko?
+	4;500
+@154
+	17;1;2
+	16;A human who partakes of the Hourai
+	16;Elixir never ages, never dies...
+	4;500
+@155
+	17;1;2
+	16;If another human eats the liver of that
+	16;person...
+	4;500
+@156
+	17;1;2
+	16;They, too, will never age or die.
+	4;500
+@157
+	17;1;8
+	16;And if a ghost drinks it?
+	4;500
+@158
+	17;1;8
+	16;An immortal ghost will be born.  Thus,
+	16;the cycle of Hourai ends.  
+	4;500
+@159
+	17;1;2
+	16;That soul will never rest or reincarnate,
+	16;and they'll be eternally lost.
+	4;500
+@160
+	17;1;5
+	16;Well, we could just not drink it...
+	4;500
+@161
+	17;0;7
+	16;Don't drink it, then!
+	4;500
+@162
+	17;2;6
+	16;Geez, ghosts are so strange...
+	4;500
+@163
+	17;2;2
+	16;If I were to become a ghost myself,
+	16;would I be strange as well?
+	4;500
+@164
+	17;2;5
+	16;Well, I'm immortal, so I'll never know.
+	4;500
+@165
+	17;0;2
+	16;I was a fool for worrying.  Lady
+	16;Yuyuko is Lady Yuyuko, after all.
+	4;500
+@166
+	17;1;3
+	16;I might eat it, though!  That eternally young,
+	16;fresh, raw liver I see sure looks tasty!
+	4;500
+@167
+	17;0;4
+	16;I'll clean it for you, Lady Yuyuko.
+	4;500
+@168
+	17;2;5
+	16;In the end, can the dead really strike
+	16;the living?
+	4;500
+@169
+	17;0;3
+	16;I don't know if we need more ghosts,
+	16;but let's see if you really can't die.
+	4;500
+@170
+	17;2;5
+	16;Ghosts without a soul can't be born, and
+	16;people who can't die can't know the Netherworld.
+	4;500
+@171
+	17;2;2
+	16;Life is eternally born into darkness,
+	16;eternal death waits at the end of the dark.
+	4;500
+@172
+	17;2;3
+	16;I know not death and surpass this darkness.
+	16;See this beautiful danmaku, from the dark tales!
+	7;1
+	4;500
+	5;0;5
+	5;1;5
+	5;2;5
+	13;0
+@202
+	0
+	13;1
+@0
+	0
+entry 1
+@0
+	1;0;1
+	1;1;1
+	1;2;2
+@60
+	15;2;4;8;10;-1
+	16;What is this?!
+	16;I can't seem to go on...
+	4;500
+@61
+	17;0;4
+	16;Even if you never age or die, your
+	16;body still has its limits.
+	4;500
+@62
+	17;1;4
+	16;Okay, our opponent can barely move.
+	16;Now!
+	4;500
+@63
+	17;0;7
+	16;What do you mean, "Now"?
+	16;You really wanted to eat her?!
+	4;500
+@64
+	17;2;-2
+	16;I can't die, but I can't keep fighting.
+	16;My body hurts all over...
+	4;500
+@65
+	17;1;4
+	16;Being a ghost is nice.  Your body never
+	16;hurts.  How about it?
+	4;500
+@66
+	17;2;-2
+	16;Are you even listening to me?
+	4;500
+@67
+	17;0;2
+	16;A human that can't die is interesting.
+	16;I can use my full power without hesitation.
+	4;500
+@68
+	17;1;2
+	16;Oh my, have you been holding back?
+	4;500
+@69
+	17;0;8
+	16;Uh, no, not really...
+	4;500
+@70
+	17;2;-2
+	16;But still, you're strong...
+	16;I wonder why.
+	4;500
+@71
+	17;2;-2
+	16;Is it because everyone's younger than me?
+	4;500
+@72
+	17;1;3
+	16;A human's strength is obviously limited,
+	16;even if they are immortal.
+	4;500
+@73
+	17;1;2
+	16;You can try all you like, but you'll never
+	16;beat a ghost.
+	4;500
+@74
+	17;0;7
+	16;I don't think being ghosts had anything
+	16;to do with it, she just fought two of us...
+	4;500
+@75
+	17;1;4
+	16;Oh, my, the unaging, undying, fresh liver!
+	16;How rare!
+	4;500
+@76
+	17;0;7
+	16;Lady Yuyuko...
+	4;500
+@77
+	17;2;-2
+	16;Oh, fine!
+	4;500
+@78
+	17;2;-2
+	16;It hurts, and I can't move, so boil me,
+	16;roast me, do whatever!
+	4;500
+@79
+	17;1;9
+	16;Boiling and roasting is pointless!
+	4;500
+@80
+	17;1;2
+	16;The liver must be eaten raw.  Boiling and
+	16;roasting will destroy the Hourai's power.
+	4;500
+@81
+	17;0;2
+	16;Well, shall we roast her?
+	4;500
+@82
+	17;2;-2
+	16;I won't die, even if you roast me.
+	16;But it'll be so hot... *sob*
+	4;500
+@83
+	17;0;7
+	16;Argh.  How did we wind up in this
+	16;situation, again?
+	4;500
+@84
+	17;1;2
+	16;Didn't you say you wanted to take on that
+	16;trial of guts, and asked me to come along?
+	4;500
+@85
+	17;0;9
+	16;Oh, right, that...
+	4;500
+@86
+	17;0;9
+	16;So, why do you keep talking about liver?
+	4;500
+@87
+	17;0;2
+	16;I gave up on the trial once I learned
+	16;we were being manipulated by Kaguya.
+	4;500
+@88
+	17;0;2
+	16;Kaguya just wanted us to fight this human.
+	16;The trial of guts was all a lie.
+	4;500
+@89
+	17;1;2
+	16;Gave up on it, huh?
+	16;Well, I'll start it again.
+	4;500
+@90
+	17;0;8
+	16;Ehh?!
+	16;Honestly, I'm bad with scary things...
+	4;500
+@91
+	17;1;3
+	16;Look!!  There's a ghost under that tree!
+	4;500
+@92
+	17;0;7
+	16;EEEEK!
+	4;500
+	13;0
+@152
+	4;800
+	9;0
+@212
+	4;800
+	12
+	14
+@652
+	11
+	10
+@0
+	0
+entry 2
+@0
+	1;0;1
+	1;1;1
+	1;2;2
+	13;0
+@60
+	15;2;2;2;2;-1
+	3;2;0;I've been waiting for you.
+@140
+	3;2;0;Challenging me on the full moon?  You have guts.
+@230
+	3;0;0;Who needs guts?  I'm not scared of you!
+	15;0;7;2;2;-1
+@320
+	3;2;0;I won't let you lay a finger on her!
+	15;2;2;2;2;-1
+@400
+	5;0;5
+	5;1;5
+	5;2;5
+@430
+	0
+	13;1
+@0
+	0

@@ -1,0 +1,419 @@
+entry 0
+@0
+	1;0;1
+	1;1;1
+	15;0;2;2;-1;-1
+@60
+	15;0;2;2;-1;-1
+	16;It feels like the youkai are rowdier than
+	16;usual tonight.
+@61
+	4;400
+	15;2;2;2;-1;-1
+	16;The moonlight is especially strong tonight.
+@62
+	4;400
+	15;2;2;2;-1;-1
+	16;That's why the youkai are noisy.
+@63
+	4;400
+	13;0
+	6
+@123
+	1;2;2
+	13;1
+	17;2;5
+	16;It's foolish of people to go out on a night like
+	16;this.
+	4;500
+@124
+	17;0;6
+	16;Who?
+	4;500
+@125
+	17;2;2
+	16;I'm talking about you.
+	4;500
+@126
+	17;0;7
+	16;No, I'm not asking who's a fool...
+	4;500
+@127
+	17;1;4
+	16;So are you admitting to being a fool?
+	4;500
+@128
+	17;2;2
+	16;Well, I may be human and I'm here now, 
+	16;but that doesn't make me a fool.
+	8;2;0;Huziwara no Mokou
+	4;500
+@129
+	17;1;2
+	16;Human? 
+	16;I'm not so sure...
+	4;500
+@130
+	17;0;8
+	16;Maybe she owns the forest or something.
+	4;500
+@131
+	17;2;2
+	16;So, what are you doing here, fool?
+	4;500
+@132
+	17;0;2
+	16;A trial of guts. 
+	4;500
+@133
+	17;1;2
+	16;And various other things. 
+	4;500
+@134
+	17;2;7
+	16;What! A trial of guts?!
+	4;500
+@135
+	17;2;3
+	16;I never realized humans were this foolish...
+	4;500
+@136
+	17;2;3
+	16;This night, during the full moon, at 2 am?!
+	4;500
+@137
+	17;2;3
+	16;In a place where all the youkai are raging!
+	4;500
+@138
+	17;2;2
+	16;And of all meaningless things... a trial of guts?
+	4;500
+@139
+	17;2;5
+	16;It's a near-miracle that you weren't killed by 
+	16;youkai yet.
+	4;500
+@140
+	17;2;5
+	16;But be careful, or they'll be feasting on
+	16;your guts.
+	4;500
+@141
+	17;1;5
+	16;Seems she's just babbling. 
+	16;Reimu, any counterattacks?
+	4;500
+@142
+	17;0;8
+	16;Well, but this trial was Kaguya's idea, 
+	16;not mine.
+	4;500
+@143
+	17;2;2
+	16;What did you say? 
+	16;Did you say "Kaguya"?
+	4;500
+@144
+	17;0;7
+	16;Did I say "Kaguya"?
+	4;500
+@145
+	17;1;3
+	16;I certainly heard a ka, gu, and ya.
+	4;500
+@146
+	17;2;6
+	16;Ahh... 
+	16;I figured your guts-trial was rather suspicious.
+	4;500
+@147
+	17;2;6
+	16;So, she was the one behind this...
+	4;500
+@148
+	17;2;3
+	16;She's trying to get you to kill me?
+	4;500
+@149
+	17;2;6
+	16;She always, ALWAYS tries to kill me!
+	4;500
+@150
+	17;2;3
+	16;And she's the one who gave me this horrid body!!
+	4;500
+@151
+	17;0;9
+	16;Seems she's getting all tense on her own.
+	4;500
+@152
+	17;1;5
+	16;You should keep your tension as high as hers.
+	4;500
+@153
+	17;2;3
+	16;So, shall I test the skill of Kaguya's new 
+	16;assassins?
+	4;500
+@154
+	17;2;2
+	16;Since you've beaten her before, 
+	16;you must be more powerful than she is.
+	4;500
+@155
+	17;1;5
+	16;How brave. It's a wonder a human doesn't 
+	16;get scared by a youkai like me...
+	4;500
+@156
+	17;1;3
+	16;And to think I believed there were but 3 
+	16;brave humans in the world. 
+	4;500
+@157
+	17;0;8
+	16;I'm having doubts about fighting with humans...
+	4;500
+@158
+	17;1;7
+	16;How can you say that when you happily crushed 
+	16;Marisa just earlier?
+	4;500
+@159
+	17;2;5
+	16;I'm more than an ordinary human.
+	4;500
+@160
+	17;2;2
+	16;I can't die, I'm invincible.
+	4;500
+@161
+	17;2;5
+	16;No matter how much Kaguya tries to kill me, 
+	16;it's impossible.
+	4;500
+@162
+	17;2;3
+	16;But she KNOWS it, and keeps sending assassins... 
+	16;How irritating.
+	4;500
+@163
+	17;1;5
+	16;Well, Reimu... 
+	16;She's getting tense again.
+	4;500
+@164
+	17;0;7
+	16;I don't quite get it.
+	4;500
+@165
+	17;0;7
+	16;If she's invincible, I don't have to
+	16;worry about blowing her up, right?
+	4;500
+@166
+	17;1;4
+	16;More or less.
+	16;Seems invincibility is her pride and joy.
+	4;500
+@167
+	17;2;5
+	16;If you don't try your best, 
+	16;it'll be "game over" for you.
+	4;500
+@168
+	17;2;2
+	16;There's no turning back. 
+	16;It's the one-way battle at 2 am!
+	4;500
+@169
+	17;2;3
+	16;So, here's the trial of guts you wanted.
+	7;1
+	4;500
+	5;0;5
+	5;1;5
+	5;2;5
+	13;0
+@199
+	0
+	13;1
+@0
+	0
+entry 1
+@0
+	1;0;1
+	1;1;1
+	1;2;2
+@60
+	15;2;4;8;10;-1
+	16;My, they're powerful.
+	4;500
+@61
+	17;1;2
+	16;Look, she's still alive now. 
+	16;She IS invincible.
+	4;500
+@62
+	17;0;2
+	16;She almost died several times. 
+	16;It's unreliable.
+	4;500
+@63
+	17;2;-2
+	16;Ow, it hurts. I might be invincible, 
+	16;but it's painful...
+	4;500
+@64
+	17;1;4
+	16;Reimu, she's very amusing.
+	4;500
+@65
+	17;0;7
+	16;I'm not sure your sadism is so inspiring.
+	4;500
+@66
+	17;2;-2
+	16;You're too strong. What's the point of a trial 
+	16;of guts for people like you?
+	4;500
+@67
+	17;1;2
+	16;Well, there are still some things that are kinda
+	16;scary.
+	4;500
+@68
+	17;0;7
+	16;Like jelly donuts? 
+	4;500
+@69
+	17;1;4
+	16;Yeah, their shape is like a giant insect egg... 
+	16;And the jelly inside, it reminds me of...
+	4;500
+@70
+	17;2;-2
+	16;My god, jelly donuts are so scary.
+	4;500
+@71
+	17;0;2
+	16;Well, anyway, is our trial of guts finished?
+	4;500
+@72
+	17;1;3
+	16;We haven't done it yet.
+	4;500
+@73
+	17;0;2
+	16;?
+	4;500
+@74
+	17;1;2
+	16;See, pull out the guts of the human here. 
+	16;It's a trial. Of her guts. 
+	4;500
+@75
+	17;2;-2
+	16;Aaaah, 
+	16;I won't die, but that's scary... 
+	4;500
+@76
+	17;0;7
+	16;Why would I do such a Youkai-like thing?
+	4;500
+@77
+	17;1;2
+	16;Well, if you eat an immortal's guts, 
+	16;you might gain eternal youth.
+	4;500
+@78
+	17;0;7
+	16;But... to cease being human... 
+	16;I'd rather not.
+	4;500
+@79
+	17;2;-2
+	16;That's too cruel. Are you saying I'm not human?
+	4;500
+@80
+	17;0;8
+	16;Human.... is she?
+	16;I don't know.
+	4;500
+@81
+	17;0;2
+	16;There are too many philosophers around 
+	16;anyway.
+	4;500
+@82
+	17;0;7
+	16;The difference between containers of souls 
+	16;doesn't matter much these days...
+	4;500
+@83
+	17;1;2
+	16;But the Hakurei Shrine's mission is 
+	16;youkai-crushing... Isn't that discrimination?
+	4;500
+@84
+	17;0;2
+	16;Okay, so I take that back. 
+	16;Youkai must still be crushed by humans.
+	4;500
+@85
+	17;0;3
+	16;It is my destiny.
+	16;I will continue to crush Youkai.
+	4;500
+@86
+	17;1;4
+	16;Absolutely correct.
+	4;500
+	13;0
+@146
+	4;800
+	9;0
+@206
+	4;800
+	12
+	14
+@646
+	11
+	10
+@0
+	0
+entry 2
+@0
+	1;0;1
+	1;1;1
+	1;2;2
+	13;0
+@60
+	15;2;2;2;2;-1
+	3;2;0;I've been waiting for you.
+@140
+	3;2;0;Challenging me on the full moon?  You have guts. 
+@230
+	3;0;0;What, is this a trial of guts?
+	15;0;7;2;2;-1
+@320
+	3;2;0;I won't let you lay a finger on her! 
+	15;2;2;2;2;-1
+@400
+	5;0;5
+	5;1;5
+	5;2;5
+@430
+	0
+	13;1
+@0
+	0
+@400
+	5;1;5
+	5;2;5
+@430
+	0
+	13;1
+@0
+	0

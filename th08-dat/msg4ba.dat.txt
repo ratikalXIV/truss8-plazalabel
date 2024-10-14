@@ -1,0 +1,238 @@
+entry 0
+@0
+	15;2;-1;-1;-1;-1
+@60
+	15;2;-1;-1;-1;-1
+	16;Move and I'll shoot!!
+@61
+	4;60
+	13;0
+	6
+@121
+	1;2;2
+	13;1
+	17;2;6
+	16;I messed up.
+	16;I mean, shoot and I'll move. In a flash.
+	4;500
+	1;0;1
+	1;1;1
+	15;0;2;2;-2;-1
+	16;What?
+	16;What're you doing here, Marisa?
+	4;500
+@122
+	17;2;2
+	16;Oh, you know, just hunting some troublesome 
+	16;youkai as usual.
+	8;2;0;Marisa Kirisame
+	4;500
+@123
+	17;0;2
+	16;Funny, what a coincidence.
+	16;I'm doing some troublesome youkai hunting too.
+	4;500
+@124
+	17;2;2
+	16;What I said was "hunting troublesome youkai".
+	16;In YOUR case, it's troublesome "youkai hunting."
+	4;500
+@125
+	17;0;7
+	16;No, not really.
+	4;500
+@126
+	17;1;8
+	16;What can you do alone, on such a dangerous night?
+	4;500
+@127
+	17;2;3
+	16;Hunt troublesome youkai.
+	4;500
+@128
+	17;2;2
+	16;I got bored staring at the moon.
+	16;It's about time to make it be tomorrow.
+	4;500
+@129
+	17;1;8
+	16;So, who's the troubling youkai? 
+	4;500
+@130
+	17;2;2
+	16;You. You're fooling around with the
+	16;boundary of night and day, right?
+	4;500
+@131
+	17;0;6
+	16;We froze the night.
+	16;But now isn't the time for that!
+	4;500
+@132
+	17;1;2
+	16;Indeed.
+	16;Don't you have eyes on the back of your head?
+	4;500
+@133
+	17;2;8
+	16;What?
+	4;500
+@134
+	17;0;8
+	16;I doubt she does.
+	16;That's how it is.
+	4;500
+@135
+	17;2;7
+	16;Speak in Japanese.
+	16;We're in Gensokyo.
+	4;500
+@136
+	17;0;2
+	16;Looks like nothing is going to get through to
+	16;her.
+	7;1
+	4;500
+@137
+	17;1;5
+	16;But that warped moon is so dangerous...
+	4;500
+@138
+	17;0;2
+	16;It's not harmful to humans, though.
+	4;500
+@139
+	17;2;6
+	16;What? I'm not sure what you're going on about.
+	16;An eternal night has danger written all over it.
+	4;500
+@140
+	17;2;8
+	16;Youkai eat humans during the night.
+	4;500
+@141
+	17;2;2
+	16;If the night lasts too long, all the youkai will
+	16;overeat and blow up.
+	4;500
+@142
+	17;1;6
+	16;That's not going to happen.
+	4;500
+@143
+	17;2;3
+	16;Gotta exterminate them before they blow up!
+	4;500
+	5;0;5
+	5;1;5
+	5;2;5
+	13;0
+@173
+	0
+	13;1
+@0
+	0
+entry 1
+@0
+	1;0;1
+	1;1;1
+	1;2;2
+@60
+	15;0;4;8;10;-1
+	16;Looks like we found what we were looking 
+	16;for while chasing Marisa.
+	4;500
+@61
+	17;1;2
+	16;Amazing, you're really lucky!
+	16;I wish Ran had half your luck.
+	4;500
+@62
+	17;2;-2
+	16;Dammit.
+	16;What the heck are you guys trying to do?
+	4;500
+@63
+	17;1;3
+	16;Thanks to you, we figured out who the culprit is.
+	16;You weren't useless after all.
+	4;500
+@64
+	17;0;3
+	16;Ah, but we haven't figured out exactly who it is.
+	16;At any rate, they're in that mansion.
+	4;500
+@65
+	17;2;-2
+	16;Can't be helped if I lost.
+	16;Time to head home and sleep.
+	4;500
+@66
+	17;2;-2
+	16;When I wake up, it'd better be morning.
+	4;500
+@67
+	17;1;2
+	16;Sleep for all eternity.
+	4;500
+@68
+	17;0;7
+	16;Well, try not to catch a cold.
+	4;500
+	13;0
+@128
+	9;0
+	12
+@188
+	4;800
+	11
+	10
+@0
+	0
+entry 2
+@0
+	1;0;1
+	1;1;1
+@60
+	15;0;2;2;-1;-1
+	16;Ah, running away?
+	4;500
+@61
+	17;1;2
+	16;We'll chase her to the ends of the earth.
+	4;500
+	5;0;5
+	5;1;5
+	13;0
+@91
+	0
+	13;1
+@0
+	0
+entry 3
+@0
+	1;0;1
+	1;1;1
+	1;2;2
+@60
+	15;2;2;8;2;-1
+	16;Oh, if it isn't Reimu!
+	16;What's up?
+	4;500
+@61
+	17;0;2
+	16;There's a limit, even to obvious lies.
+	4;500
+@62
+	17;2;6
+	16;The last attack was for Yukari.
+	16;This one's for you!
+	4;500
+	5;0;5
+	5;1;5
+	13;0
+@92
+	0
+	13;1
+@0
+	0

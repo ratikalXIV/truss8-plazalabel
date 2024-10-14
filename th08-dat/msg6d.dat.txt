@@ -1,0 +1,380 @@
+entry 0
+@0
+	1;0;1
+	1;1;1
+	15;0;8;2;-1;-1
+@60
+	15;0;8;2;-1;-1
+	16;Well, well...
+	16;Now where did she go?
+@61
+	4;60
+	13;0
+	6
+@121
+	1;2;2
+	13;1
+	17;2;5
+	16;Here, here!
+	4;500
+@122
+	17;2;2
+	16;Now, that's rather sad, don't you think?
+	16;You lost sight of me in such a short time.
+	4;500
+@123
+	17;1;9
+	16;What are you playing at?
+	16;Youmu, is your ghost half there for nothing?
+	4;500
+@124
+	17;0;7
+	16;It's not for chasing people, you know...
+	4;500
+@125
+	17;2;2
+	16;Well, this is a false pathway I created.
+	8;2;0;Eirin Irene
+	4;500
+@126
+	17;2;5
+	16;It's no wonder you lost track of me.
+	4;500
+@127
+	17;0;2
+	16;A false pathway?
+	4;500
+@128
+	17;1;2
+	16;A false moon in a false sky.
+	4;500
+@129
+	17;1;3
+	16;It's an overly elaborate creation.
+	4;500
+@130
+	17;2;2
+	16;Ah, impressive.  So you noticed
+	16;that this moon is an illusion.
+	4;500
+@131
+	17;1;2
+	16;It's an old-fashioned moon, one
+	16;that's been in the heavens before.
+	4;500
+@132
+	17;0;2
+	16;Old-fashioned?
+	4;500
+@133
+	17;1;8
+	16;A rotten old moon, with mold on it.
+	4;500
+@134
+	17;1;5
+	16;There are no rabbits on the moon these days.
+	4;500
+@135
+	17;2;4
+	16;Not quite.  There are rabbits, even now.
+	4;500
+@136
+	17;2;5
+	16;The rabbits and people of the moon have
+	16;been living quietly on the far side.
+	4;500
+@137
+	17;2;2
+	16;Unseen, protected by barriers... it's
+	16;much like your own Gensokyo.
+	4;500
+@138
+	17;0;3
+	16;The moon's Gensokyo?
+	4;500
+@139
+	17;2;2
+	16;This illusory moon is a memory of the past.
+	4;500
+@140
+	17;2;5
+	16;That's why it looks so old and worn.
+	4;500
+@141
+	17;0;2
+	16;So, what's the point of showing this
+	16;stinking old moon to us?
+	4;500
+@142
+	17;2;2
+	16;My task is already coming to an end.
+	4;500
+@143
+	17;2;2
+	16;The moon and the Earth are connected
+	16;only during the full moon.
+	4;500
+@144
+	17;2;5
+	16;If the full moon is prevented, pursuers
+	16;from the moon can't come to the Earth.
+	4;500
+@145
+	17;2;4
+	16;And now, they chase us to an illusory Earth...
+	16;Likewise an old, putrid memory.
+	4;500
+@146
+	17;1;2
+	16;In short, you are a criminal.
+	4;500
+@147
+	17;1;3
+	16;People who try to escape from everything
+	16;are always guilty of something.
+	4;500
+@148
+	17;1;3
+	16;Same goes for those who go into hiding.
+	4;500
+@149
+	17;1;2
+	16;And a criminal who admits their own
+	16;crime always has some sort of excuse.
+	4;500
+@150
+	17;0;2
+	16;......
+	4;500
+@151
+	17;2;7
+	16;It's not the same.
+	4;500
+@152
+	17;2;5
+	16;I simply didn't want to go back to the
+	16;moon, since this place is very comfortable.
+	4;500
+@153
+	17;2;2
+	16;You can relax.  When the morning comes,
+	16;the full moon will be returned.
+	4;500
+@154
+	17;0;2
+	16;Lady Yuyuko, give me a command.
+	4;500
+@155
+	17;1;9
+	16;Oh, Youmu, now you get what I was saying?
+	4;500
+@156
+	17;1;3
+	16;Well, then...  First, be my shield.
+	4;500
+@157
+	17;0;5
+	16;Affirmative.  I will be the hardest
+	16;shield in all the Netherworld.
+	4;500
+@158
+	17;1;2
+	16;I'll back you up if I feel like it.
+	4;500
+@159
+	17;2;4
+	16;Ahahaha...
+	4;500
+@160
+	17;2;2
+	16;A shield can only stop an attack from
+	16;outside.
+	4;500
+@161
+	17;2;5
+	16;We of the moon have the power to affect
+	16;you directly.
+	4;500
+@162
+	17;2;5
+	16;And while your hard shield is defending your
+	16;outside, you're slowly decaying inside...
+	4;500
+@163
+	17;2;2
+	16;Yes, carefree girl, I must say your hard
+	16;shield is quite useless.
+	4;500
+@164
+	17;1;2
+	16;Don't worry, Youmu.
+	16;I'm not alive, so I can't rot.
+	4;500
+@165
+	17;0;7
+	16;I know, I know.
+	16;You're rotten already, yeah?
+	4;500
+@166
+	17;0;3
+	16;Rotten or not, however, it's my duty
+	16;to protect you!
+	4;500
+@167
+	17;1;7
+	16;I said I CAN'T ROT.
+	4;500
+@168
+	17;2;5
+	16;We'll see how long it takes to get
+	16;rid of that carefree attitude.
+	4;500
+@169
+	17;2;2
+	16;The endless memory of the moon...
+	4;500
+@170
+	17;2;4
+	16;None from Earth could escape this with
+	16;their minds intact.
+	4;500
+@171
+	17;1;3
+	16;So, Youmu, make sure that you
+	16;don't go crazy.
+	4;500
+@172
+	17;2;2
+	16;Ah, you're a ghost, not a human.
+	16;No wonder you won't rot.
+	4;500
+@173
+	17;1;2
+	16;Things are most delicious when they're
+	16;about to rot!
+	4;500
+@174
+	17;0;7
+	16;What does that have to do with anything?!
+	4;500
+@175
+	17;2;2
+	16;No, she's right.
+	16;Fermentation is a gift of the gods.
+	4;500
+@176
+	17;2;5
+	16;And ghosts, unable to rot...
+	16;are completely forsaken by the gods!
+	7;1
+	4;500
+	5;0;5
+	5;1;5
+	5;2;5
+	13;0
+@206
+	0
+	13;1
+@0
+	0
+entry 2
+@0
+	1;0;1
+	1;1;1
+	1;2;2
+	13;0
+@60
+	15;2;2;2;2;-1
+	13;1
+	16;Hahaha...
+	4;500
+@61
+	17;2;-2
+	16;So you're coming this way, as planned.
+	4;500
+@62
+	17;1;4
+	16;We've caught up with you.
+	16;You can't escape now.
+	4;500
+@63
+	17;0;5
+	16;Yes, you won't get away this time!
+	4;500
+	5;0;5
+	5;1;5
+	5;2;5
+	13;0
+@93
+	0
+	13;1
+@0
+	0
+entry 3
+@60
+	15;2;-1;-1;-1;-1
+	16;What are you playing at?!
+	6
+	4;500
+@61
+	17;2;-2
+	16;Eirin, I'll use my power to give you
+	16;one more chance.
+	4;500
+@62
+	17;2;-2
+	16;If you're defeated this time...
+	4;500
+@63
+	17;2;-2
+	16;You ghosts!
+	4;500
+@64
+	17;2;-2
+	16;My arcane medicine and Eirin's true
+	16;power - you'll never forget this!
+	4;500
+	7;2
+	13;0
+@94
+	0
+	13;1
+@0
+	0
+entry 4
+@0
+	7;-1
+	0
+	0
+entry 5
+@60
+	4;800
+	9;0
+@120
+	4;800
+	13;0
+	12
+	14
+@440
+	11
+	10
+@0
+	0
+@440
+	10
+@0
+	0
+@800
+	0
+@60
+	9;0
+@120
+	4;800
+	13;0
+	12
+	14
+@440
+	11
+	10
+@0
+	0

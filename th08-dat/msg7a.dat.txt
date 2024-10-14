@@ -1,0 +1,307 @@
+entry 0
+@0
+	1;0;1
+	1;1;1
+	15;1;2;2;-1;-1
+@60
+	15;1;2;2;-1;-1
+	16;The full moon, after so long...
+@61
+	4;60
+	13;0
+	6
+@121
+	1;2;2
+	13;1
+	17;2;2
+	16;Yes, the true moon that is seen from the Earth.
+	4;500
+@122
+	17;2;5
+	16;A human and a youkai... 
+	16;Strange guests around here.
+	4;500
+@123
+	17;1;8
+	16;You... 
+	16;What the hell are you?
+	4;500
+@124
+	17;2;2
+	16;My name is Kaguya. 
+	8;2;0;Kaguya Houraisan
+	4;500
+@125
+	17;2;5
+	16;I'm so kind, I won't be mad even 
+	16;if you ask my name before saying yours. 
+	4;500
+@126
+	17;1;5
+	16;That was too minor to be considered "kind".
+	4;500
+@127
+	17;2;7
+	16;I didn't mean it that way anyway.
+	4;500
+@128
+	17;2;2
+	16;Eirin hasn't let me out of this house 
+	16;recently...
+	4;500
+@129
+	17;2;5
+	16;So odd guests like you are most welcomed.
+	4;500
+@130
+	17;0;8
+	16;SHOT guests?
+	4;500
+@131
+	17;1;7
+	16;Are you obsessed with danmaku shooters?!
+	4;500
+@132
+	17;2;2
+	16;The human body houses a fragile soul...
+	4;500
+@133
+	17;2;2
+	16;Those bodies live upon a huge sphere.
+	4;500
+@134
+	17;2;3
+	16;And these loyal races live upon...
+	4;500
+@135
+	17;2;5
+	16;That lunar orb behind me.
+	4;500
+@136
+	17;1;2
+	16;Well, it looks like we'll be dodging 
+	4;500
+@137
+	17;0;3
+	16;Some lunatic orbs ourselves.
+	4;500
+@138
+	17;2;7
+	16;Don't steal my words. 
+	16;My kindness has limits.
+	4;500
+@139
+	17;0;6
+	16;Who cares about predictable speeches?
+	4;500
+@140
+	17;0;7
+	16;We're shot guests, right?
+	4;500
+@141
+	17;2;2
+	16;You two are so impatient.
+	4;500
+@142
+	17;2;5
+	16;Don't worry, I will show you...
+	4;500
+@143
+	17;2;3
+	16;The miasma of the true moon!
+	16;And my beautiful Impossible Requests too!
+	4;500
+@144
+	17;1;7
+	16;You have too much time on your hands...
+	16;Waiting for someone to play with?
+	4;500
+@145
+	17;2;7
+	16;Don't be such a wet blanket...
+	4;500
+@146
+	17;2;2
+	16;I've been hiding here, so I didn't have the 
+	16;chance to go out and play.
+	4;500
+@147
+	17;2;5
+	16;But I'll make up for that today.
+	4;500
+@148
+	17;0;2
+	16;Doesn't matter to me,
+	16;since we've restored the full moon.
+	4;500
+@149
+	17;0;3
+	16;Now, we just need to make this unkind girl pay.
+	4;500
+@150
+	17;2;2
+	16;Too bad you can't see the true full moon anywhere
+	16;but here. 
+	4;500
+@151
+	17;0;9
+	16;What?!
+	4;500
+@152
+	17;0;4
+	16;Well, looks like you're REALLY going to pay then.
+	4;500
+@153
+	17;2;2
+	16;Okay then, are you ready?
+	4;500
+@154
+	17;1;2
+	16;Not at all.
+	4;500
+@155
+	17;0;2
+	16;Not at all.
+	4;500
+@156
+	17;2;2
+	16;The Impossible Requests that defeated
+	16;so many humans in the past...
+	4;500
+@157
+	17;2;3
+	16;How many can you fulfill?! 
+	7;1
+	4;500
+	5;0;5
+	5;1;5
+	5;2;5
+	13;0
+@187
+	0
+	13;1
+@0
+	0
+entry 2
+@0
+	1;0;1
+	1;1;1
+	1;2;2
+	13;0
+@60
+	15;2;2;2;2;-1
+	13;1
+	16;...Geez.
+	4;500
+@61
+	17;2;-2
+	16;I said not to let you come this way...
+	4;500
+@62
+	17;1;2
+	16;Reimu, did you hear that?
+	4;500
+@63
+	17;0;4
+	16;Of course, looks like we're heading the right 
+	16;way. 
+	4;500
+	5;0;5
+	5;1;5
+	5;2;5
+	13;0
+@93
+	0
+	13;1
+@0
+	0
+entry 3
+@60
+	15;2;-1;-1;-1;-1
+	16;What's this?!
+	4;500
+@61
+	17;2;-2
+	16;So, the ones who froze the night...
+	4;500
+@62
+	17;2;-2
+	16;That was YOU, wasn't it?!
+	4;500
+	7;2
+	13;0
+@92
+	0
+	13;1
+@0
+	0
+entry 4
+@0
+	7;-1
+	0
+	0
+entry 5
+@60
+	4;800
+	9;0
+@120
+	4;800
+	13;0
+	12
+	14
+@560
+	11
+	10
+@0
+	0
+entry 6
+@60
+	15;2;-1;-1;-1;-1
+	16;The fragmented eternal evening you've created...
+	4;500
+	13;0
+@90
+	0
+	13;1
+@0
+	0
+entry 7
+@60
+	15;2;-1;-1;-1;-1
+	16;My eternity manipulation will destroy it...
+	4;500
+	13;0
+@90
+	0
+	13;1
+@0
+	0
+entry 8
+@60
+	15;2;-1;-1;-1;-1
+	16;Your spell of Imperishable Night will shatter...
+	4;500
+	13;0
+@90
+	0
+	13;1
+@0
+	0
+entry 9
+@60
+	15;2;-1;-1;-1;-1
+	16;And the dawn shall come!
+	4;500
+	13;0
+@90
+	0
+	13;1
+@0
+	0
+@22299
+	20;me!!
+@90
+	0
+	13;1
+@0
+	0

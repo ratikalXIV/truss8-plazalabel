@@ -1,0 +1,318 @@
+entry 0
+@0
+	15;2;-1;-1;-1;-1
+@60
+	15;2;-1;-1;-1;-1
+	16;You're too late.
+@61
+	4;60
+	13;0
+	6
+@121
+	1;2;2
+	13;1
+	17;2;5
+	16;I've already sealed all the doors here.
+	16;You'll never reach her now!
+	4;500
+	1;0;1
+	1;1;1
+	15;0;2;2;-2;-1
+	16;Ah, so we've finally found the culprit.
+	4;500
+@122
+	17;1;2
+	16;This is merely a space bird.
+	16;She isn't the last, so don't be impatient.
+	4;500
+@123
+	17;2;7
+	16;Huh, it's a ghost.
+	16;Well, don't annoy me.
+	8;2;0;Risen Reisen, Rabbit Jesus
+	4;500
+@124
+	17;2;2
+	16;If you have no business here, go back.
+	16;We're busy right now.
+	4;500
+@125
+	17;0;2
+	16;That's rather poorly worded.
+	16;You're behind the moon incident, aren't you?
+	4;500
+@126
+	17;0;5
+	16;If you are, I'll slash you.
+	16;If you aren't, I'll slash you and move on.
+	4;500
+@127
+	17;2;2
+	16;The moon incident?
+	16;Ah, you mean the Earth-sealing spell?
+	4;500
+@128
+	17;1;6
+	16;That's right.  It's really a very
+	16;troublesome spell.
+	4;500
+@129
+	17;1;6
+	16;Please stop it at once.
+	16;Youmu, go on and slash her.
+	4;500
+@130
+	17;0;9
+	16;Ehh, should I attack?
+	4;500
+@131
+	17;2;6
+	16;Such a rude ghost.  Aren't you
+	16;even going to let us explain?
+	4;500
+	13;0
+	6
+@191
+	1;3;2
+	13;1
+	17;3;2
+	16;Oh, my, are you meeting someone?  A ghost?
+	4;500
+@192
+	17;3;2
+	16;I wasn't expecting emissaries here, though.
+	4;500
+@193
+	17;1;8
+	16;Oh, now there's another one.
+	16;Youmu, go slash her as well.
+	4;500
+@194
+	17;0;9
+	16;Ehhhh, should I be attacking?
+	4;500
+@195
+	17;3;2
+	16;Don't tease the poor girl like that.
+	4;500
+@196
+	17;3;2
+	16;The business with the moon is a result
+	16;of my spell, yes.
+	4;500
+@197
+	17;3;2
+	16;It's on behalf of this girl and the princess.
+	16;Even if you're a ghost, you should be kind.
+	4;500
+@198
+	17;0;2
+	16;So you're the culprit?
+	16;I guess you're the one to cut, then.
+	4;500
+@199
+	17;3;2
+	16;Mmm, how impatient you are.
+	16;Udonge, I'll let you handle this.
+	4;500
+@200
+	17;3;2
+	16;You know what to do.
+	4;500
+	5;3;5
+	13;0
+	6
+@260
+	13;1
+	4;500
+@261
+	17;2;2
+	16;Leave it to me!  Even if I die, they'll
+	16;never get through a single door!
+	4;500
+@262
+	17;0;7
+	16;(Huh, there really isn't much difference
+	16;between that lady and Yuyuko...)
+	4;500
+@263
+	17;1;2
+	16;The brain has left, and the bird remains.
+	16;We have one target remaining, Youmu.
+	4;500
+@264
+	17;0;2
+	16;Uh, yes.  I'll slash her, then!
+	4;500
+@265
+	17;2;5
+	16;Hehehehe...
+	16;About the moon...
+	7;1
+	4;500
+@266
+	17;2;2
+	16;I wonder if you realize that you've
+	16;fallen right into my trap?
+	4;500
+@267
+	17;0;9
+	16;?!
+	4;500
+@268
+	17;2;2
+	16;I've taken away your sense of direction.
+	16;You can't move in a straight line!
+	4;500
+@269
+	17;0;2
+	16;Say, Lady Yuyuko, why do you call her a
+	16;bird?  She looks like a rabbit to me...
+	4;500
+@270
+	17;1;9
+	16;As the old monks say, birds and rabbits are
+	16;the same when skinned and eaten.  Remember that.
+	4;500
+@271
+	17;2;7
+	16;Don't tell lies.
+	16;And stop ignoring me!
+	4;500
+@272
+	17;2;2
+	16;We'll see if you're still sane
+	16;after looking into my eyes!
+	4;500
+	5;0;5
+	5;1;5
+	5;2;5
+	13;0
+@302
+	0
+	13;1
+@0
+	0
+entry 1
+@0
+	1;0;1
+	1;1;1
+	1;2;2
+@60
+	15;0;8;8;10;-1
+	16;Ooh, my head is spinning...
+	16;I'm starting to feel sick.
+	4;500
+@61
+	17;1;2
+	16;Oh, my, looks like your human half got
+	16;motion sickness from being shaken.
+	4;500
+@62
+	17;1;2
+	16;Relax.  After this, we'll eat something
+	16;that's good for your body.
+	4;500
+@63
+	17;2;-2
+	16;I can't believe this.
+	16;You're stronger than I thought...
+	4;500
+@64
+	17;1;3
+	16;Next up, herbal dishes.  And that's the end...
+	4;500
+@65
+	17;1;8
+	16;Unfortunately, it won't be dragon after all.
+	4;500
+@66
+	17;0;2
+	16;Lady Yuyuko, that look...
+	16;Do you know something I don't?
+	4;500
+@67
+	17;1;9
+	16;Oh, my, who knows?
+	4;500
+	13;0
+@127
+	9;0
+	12
+@187
+	4;800
+	11
+	10
+@0
+	0
+entry 2
+@0
+	1;0;1
+	1;1;1
+	1;2;2
+@60
+	15;0;8;8;10;-1
+	16;Ooh, my head is spinning...
+	16;I'm starting to feel sick.
+	4;500
+@61
+	17;1;2
+	16;Oh, my, looks like your human half got
+	16;motion sickness from being shaken.
+	4;500
+@62
+	17;1;2
+	16;Perhaps we can go through that door over
+	16;there and rest for a little while.
+	4;500
+@63
+	17;2;-2
+	16;Augh!  Damn it!  There was a door
+	16;that wasn't properly sealed?!
+	4;500
+@64
+	17;0;2
+	16;It's all right.  We should go back to
+	16;the task.  Let's chase her.
+	4;500
+@65
+	17;1;2
+	16;That's not necessary.  The open door
+	16;is the one we'll go through.
+	4;500
+@66
+	17;1;2
+	16;Our last course awaits us there.
+	4;500
+@67
+	17;1;2
+	16;I'm certain of it.  Of course, it
+	16;won't actually be a rest...
+	4;500
+	13;0
+@127
+	9;0
+	12
+@187
+	4;800
+	11
+	10
+@0
+	0
+entry 3
+@120
+	4;1
+@180
+	19;Go where Yuyuko says (Final A)
+	20;Go where Yuyuko says (Final B)
+	21;1200
+@181
+	22
+@211
+	0
+@0
+	0
+@11863
+	2;7170;22296
+@22299
+	54

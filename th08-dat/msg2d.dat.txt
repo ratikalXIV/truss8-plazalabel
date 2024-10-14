@@ -1,0 +1,131 @@
+entry 0
+@0
+	1;2;2
+@60
+	17;2;9
+	16;Wait, waiiiit!
+	4;500
+	1;0;1
+	1;1;1
+@61
+	17;0;2
+	16;Step aside, then.
+	4;500
+	17;2;2
+	16;Aren't you affected by my song at all?
+@62
+	4;500
+	17;2;2
+	16;Hmm, perhaps you're not human?
+	8;2;0;A SNACK APPROACHES
+@63
+	4;500
+@64
+	17;1;9
+	16;My ears catch a sparrow's song.
+	16;Are there really sparrows awake at night, Youmu?
+	4;500
+	17;0;8
+	16;Lady Yuyuko,
+	16;please don't be distracted by this song.
+@65
+	4;500
+	17;0;2
+	16;That's the song of a night sparrow.  It's
+	16;one of the most accursed sounds in the world.
+@66
+	4;500
+	17;2;6
+	16;How very rude of you.
+@67
+	4;500
+	17;2;6
+	16;At the very least, my singing is better
+	16;than the noise of approaching ghosts.
+@68
+	4;500
+@69
+	17;1;5
+	16;Yes indeed, it's no contest at all.
+	4;500
+	17;0;8
+	16;You aren't supposed to AGREE with her...
+@70
+	4;500
+	17;1;9
+	16;Youmu, the song is getting louder.
+	16;Where is it coming from?
+@71
+	4;500
+	17;2;2
+	16;Well, I don't care if you're human or not.
+@72
+	4;500
+	17;2;2
+	16;Now, let's get this youkai party started!
+@73
+	4;500
+	17;1;5
+	16;Okay, Youmu, let's move on.
+@74
+	4;500
+	17;0;9
+	16;Eh?  Er, yes ma'am.  But actually, before
+	16;we can leave, we have to shoot down that bird.
+@75
+	4;500
+	17;1;2
+	16;I don't like sparrows.  They're too bony.
+@76
+	4;500
+	17;2;3
+	16;You shall not pass!
+@77
+	4;500
+	7;1
+	5;0;5
+	5;1;5
+	5;2;5
+	13;0
+@107
+	0
+	13;1
+@0
+	0
+entry 1
+@0
+	1;0;1
+	1;1;1
+@60
+	15;0;2;5;-1;-1
+	16;That night sparrow's song is going to
+	16;attract a lot of youkai.
+@61
+	4;500
+	17;0;2
+	16;Let's move on before they arrive.
+	16;We must hurry.
+@62
+	4;500
+	17;1;8
+	16;Hold on, a small bone got stuck in my throat.
+@63
+	4;500
+	17;0;7
+	16;Wait, didn't you say you didn't like sparrows?
+@64
+	4;500
+	17;1;2
+	16;Youmu, it's not good to be so fussy.
+@65
+	4;500
+	13;0
+@125
+	9;0
+	12
+@185
+	4;800
+	11
+	10
+@0
+	0

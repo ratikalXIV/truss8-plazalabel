@@ -1,0 +1,132 @@
+entry 0
+@0
+	1;2;2
+@60
+	17;2;9
+	16;Wait, waaaait! 
+	4;500
+	1;0;1
+	1;1;1
+	17;0;2
+	16;We're in a hurry. 
+	16;I'll listen if you follow us.
+	4;500
+	17;2;9
+	16;So you won't stop even if I ask.
+	16;...A human and a bat? That's an unusual pair.
+@61
+	4;500
+	17;2;2
+	16;Humans are what I'm after, though, not bats.
+	8;2;0;Mystia Lorelei
+@62
+	4;500
+@63
+	17;1;5
+	16;Shit. Is it the brats' night out?
+	4;500
+	17;2;9
+	16;But of course.
+	16;Well-behaved children sleep during the day...
+@64
+	4;500
+	17;2;3
+	16;The night is for man-hunting!
+@65
+	4;500
+@66
+	17;1;3
+	16;Too bad we're in a hurry.
+	16;So, mind getting shot down right now?
+	4;500
+	17;2;6
+	16;Didn't I say to wait? 
+@67
+	4;500
+	17;0;8
+	16;My Lady.
+@68
+	4;500
+	17;0;2
+	16;We shouldn't stoop to this thing's level; 
+	16;there isn't time.
+@69
+	4;500
+	17;1;2
+	16;True.
+@70
+	4;500
+	17;2;6
+	16;Don't joke around!
+@71
+	4;500
+	17;2;6
+	16;Aren't you scared by birds flying in the night? 
+@72
+	4;500
+	17;1;2
+	16;You mean fried chicken?
+	16;I prefer human.
+@73
+	4;500
+	17;0;7
+	16;(What does she mean?)
+	16;My Lady, she said "fly", not "fry".
+@74
+	4;500
+	17;2;3
+	16;Whatever.
+	16;I'll show you the true terror of darkness!
+@75
+	4;500
+	17;0;8
+	16;"Terror of darkness", hmm...
+@76
+	4;500
+	7;1
+	5;0;5
+	5;1;5
+	5;2;5
+	13;0
+@106
+	0
+	13;1
+@0
+	0
+entry 1
+@0
+	1;0;1
+	1;1;1
+@60
+	15;1;4;5;-1;-1
+	16;Now, Sakuya. To fry that bird, or go on ahead, 
+	16;which shall we do?
+@61
+	4;500
+	17;0;7
+	16;Let's ignore that small fry and get back to
+	16;work.  The night is short.
+@62
+	4;500
+	17;0;2
+	16;By the way, why are we heading this way?
+@63
+	4;500
+	17;1;3
+	16;Hm? Refuelling.
+@64
+	4;500
+	17;0;2
+	16;......
+@65
+	4;500
+	13;0
+@125
+	9;0
+	12
+@185
+	4;800
+	11
+	10
+@0
+	0

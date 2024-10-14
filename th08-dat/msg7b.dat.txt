@@ -1,0 +1,336 @@
+entry 0
+@0
+	1;0;1
+	1;1;1
+	15;0;5;2;-1;-1
+@60
+	15;0;5;2;-1;-1
+	16;Ah, there's the moon.
+@61
+	4;60
+	13;0
+	6
+@121
+	1;2;2
+	13;1
+	17;2;2
+	16;Yes, indeed.  It is the full moon.
+	4;500
+@122
+	17;2;5
+	16;The true source of power that you've
+	16;seen for thousands of years...
+	4;500
+@123
+	17;1;9
+	16;Marisa, that full moon is dangerous.
+	4;500
+@124
+	17;0;8
+	16;The moon, dangerous?
+	16;What are you talking about?
+	4;500
+@125
+	17;1;8
+	16;Maybe you can't tell, but...
+	4;500
+@126
+	17;1;8
+	16;There are a ridiculous number of moonbeams
+	16;falling on us right now.
+	4;500
+@127
+	17;2;7
+	16;Don't call it ridiculous!
+	4;500
+@128
+	17;2;5
+	16;The true power of the moon has been revived now.
+	8;2;0;Neko Mimi Mode
+	4;500
+@129
+	17;2;5
+	16;The pure moon casts its pale illumination
+	16;upon the pure Earth...
+	4;500
+@130
+	17;2;2
+	16;This light is a memory of an ancient time,
+	16;forgotten by even the moon races.
+	4;500
+@131
+	17;0;3
+	16;So these are moonbeams, huh...
+	16;I can't see them, but I can feel them.
+	4;500
+@132
+	17;1;2
+	16;Ordinary humans would go insane in
+	16;less than five seconds.
+	4;500
+@133
+	17;1;5
+	16;Are you okay, Marisa?
+	4;500
+@134
+	17;0;7
+	16;Yeah, I'm insane to begin with.
+	4;500
+@135
+	17;0;2
+	16;But what's up with all this, anyway?
+	4;500
+@136
+	17;0;3
+	16;Why's the moon out here?
+	4;500
+@137
+	17;2;2
+	16;Eirin's invocation has isolated
+	16;both the moon and the Earth.
+	4;500
+@138
+	17;2;2
+	16;By staying here, I can't be found
+	16;by either of them!
+	4;500
+@139
+	17;0;2
+	16;What is this, hide and seek?
+	4;500
+@140
+	17;2;5
+	16;However...
+	4;500
+@141
+	17;2;2
+	16;While Eirin's spell is perfect, I must
+	16;admit I don't really like it.
+	4;500
+@142
+	17;2;2
+	16;There's no one else around here,
+	16;and nobody ever comes to visit.
+	4;500
+@143
+	17;2;5
+	16;I'm bored to death.
+	4;500
+@144
+	17;1;2
+	16;There's no one on the "pure Earth", huh?
+	4;500
+@145
+	17;1;3
+	16;So that's how you moon races think.
+	4;500
+@146
+	17;0;2
+	16;Well, this is good timing, then!
+	4;500
+@147
+	17;0;5
+	16;We'll play with you a while, and then
+	16;take you out.
+	4;500
+@148
+	17;2;2
+	16;Well, I haven't always been here.
+	4;500
+@149
+	17;2;2
+	16;It'll be quite a challenge for you
+	16;to take me out.
+	4;500
+@150
+	17;2;3
+	16;...you know, I remember another
+	16;conversation like this, long ago...
+	4;500
+@151
+	17;0;6
+	16;I don't really care about the full moon...
+	4;500
+@152
+	17;0;3
+	16;This girl here won't stop complaining
+	16;about its absence, though.
+	4;500
+@153
+	17;1;6
+	16;It's more than just a complaint.
+	4;500
+@154
+	17;1;6
+	16;Besides, you need to be punished
+	16;for this anyway.
+	4;500
+@155
+	17;2;2
+	16;That sounds unpleasant...
+	4;500
+@156
+	17;2;5
+	16;However, my stay on Earth is a
+	16;punishment, as well.
+	4;500
+@157
+	17;2;2
+	16;Well, for those who wish to take me
+	16;out, I have an impossible request.
+	4;500
+@158
+	17;0;9
+	16;An impossible request?
+	4;500
+@159
+	17;0;2
+	16;So you mean we can take you out
+	16;if we resolve it?
+	4;500
+@160
+	17;2;2
+	16;The Impossible Requests that defeated
+	16;so many humans in the past...
+	4;500
+@161
+	17;2;3
+	16;How many can you fulfill?!
+	7;1
+	4;500
+	5;0;5
+	5;1;5
+	5;2;5
+	13;0
+@191
+	0
+	13;1
+@0
+	0
+entry 2
+@0
+	1;0;1
+	1;1;1
+	1;2;2
+	13;0
+@60
+	15;2;2;2;2;-1
+	13;1
+	16;Oh, dear.
+	4;500
+@61
+	17;2;-2
+	16;I said not to let you come this way.
+	4;500
+@62
+	17;0;5
+	16;Well, that's too bad.
+	4;500
+@63
+	17;1;5
+	16;Looks like we're heading over there...
+	4;500
+	5;0;5
+	5;1;5
+	5;2;5
+	13;0
+@93
+	0
+	13;1
+@0
+	0
+entry 3
+@60
+	15;2;-1;-1;-1;-1
+	16;What's this?!
+	4;500
+@61
+	17;2;-2
+	16;So, the ones who froze the night...
+	4;500
+@62
+	17;2;-2
+	16;That was YOU, wasn't it?!
+	4;500
+	7;2
+	13;0
+@92
+	0
+	13;1
+@0
+	0
+entry 4
+@0
+	7;-1
+	0
+	0
+entry 5
+@60
+	4;800
+	9;0
+@120
+	4;800
+	13;0
+	12
+	14
+@560
+	11
+	10
+@0
+	0
+entry 6
+@60
+	15;2;-1;-1;-1;-1
+	16;The fragmented eternal evening you've created...
+	4;500
+	13;0
+@90
+	0
+	13;1
+@0
+	0
+entry 7
+@60
+	15;2;-1;-1;-1;-1
+	16;My eternity manipulation will destroy it...
+	4;500
+	13;0
+@90
+	0
+	13;1
+@0
+	0
+entry 8
+@60
+	15;2;-1;-1;-1;-1
+	16;Your spell of Imperishable Night will shatter...
+	4;500
+	13;0
+@90
+	0
+	13;1
+@0
+	0
+entry 9
+@60
+	15;2;-1;-1;-1;-1
+	16;And the dawn shall come!
+	4;500
+	13;0
+@90
+	0
+	13;1
+@0
+	0
+@90
+	0
+@90
+	13;1
+@0
+	0
+@90
+	0
+@90
+	13;1
+@0
+	0

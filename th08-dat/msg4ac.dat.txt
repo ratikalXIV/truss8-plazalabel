@@ -1,0 +1,264 @@
+entry 0
+@0
+	15;2;-1;-1;-1;-1
+@60
+	15;2;-1;-1;-1;-1
+	16;Stop right there!
+@61
+	4;60
+	13;0
+	6
+@121
+	1;2;2
+	13;1
+	17;2;6
+	16;It was you after all.
+	4;500
+	16;No wonder I thought the flow of time seemed 
+	16;weird. 
+	4;500
+	1;0;1
+	1;1;1
+	15;0;2;2;-2;-1
+	16;What are you talking about?
+	4;500
+@122
+	17;1;5
+	16;You're always doing weird things, right?
+	16;That's Sakuya for you.
+	4;500
+@123
+	17;0;7
+	16;Ah, you're cruel.
+	4;500
+@124
+	17;2;2
+	16;Yeah, you always do weird things.
+	16;But this time you went too far.
+	4;500
+@125
+	17;2;2
+	16;You know, this reminds me of the Scarlet Mist...
+	8;2;0;Reimu Hakurei
+	4;500
+@126
+	17;1;8
+	16;But, even though Sakuya's doing weird things,
+	16;they're not the weirdest by far.
+	4;500
+@127
+	17;0;2
+	16;Right now, we're on our way to punish the 
+	16;real culprit.
+	4;500
+@128
+	17;2;2
+	16;Maybe you could fool a bird with your lame 
+	16;excuse. You won't trick me, though.
+	4;500
+@129
+	17;2;6
+	16;With every move you make, time stops.
+	16;The night becomes longer.
+	4;500
+@130
+	17;2;2
+	16;The mastermind behind this endless night is you!
+	4;500
+@131
+	17;1;2
+	16;Yeah, so. Anything wrong with that?
+	4;500
+@132
+	17;0;2
+	16;My Lady.
+	16;Stopping the night was not our original goal.
+	4;500
+@133
+	17;0;8
+	16;Look at the moon behind Reimu.
+	16;It's already been...
+	4;500
+@134
+	17;2;6
+	16;The moon has nothing to do with this, okay?
+	4;500
+@135
+	17;2;2
+	16;Vampires are wandering around during an 
+	16;endless night.
+	4;500
+@136
+	17;2;6
+	16;what could be more dangerous than that?!
+	4;500
+@137
+	17;1;8
+	16;Well, I am lord of the night, so please excuse
+	16;me.
+	4;500
+@138
+	17;0;7
+	16;I don't think you're helping... 
+	4;500
+@139
+	17;2;2
+	16;Anyway, I'll restore the normal flow of time.
+	7;1
+	4;500
+@140
+	17;2;6
+	16;It's my duty to defeat these youkai threats!
+	4;500
+@141
+	17;0;2
+	16;Do you still not understand why we're stopping 
+	16;the night?
+	4;500
+@142
+	17;1;5
+	16;Sakuya, there's no need to hurry
+	16;as long as you're manipulating time.
+	4;500
+@143
+	17;1;3
+	16;I don't mind being misunderstood.
+	4;500
+@144
+	17;1;2
+	16;It's a good chance to pay her back for that day.
+	4;500
+@145
+	17;0;2
+	16;Well, if my Lady says so... 
+	4;500
+@146
+	17;2;2
+	16;So, are you ready to go back to your coffin?
+	4;500
+@147
+	17;1;6
+	16;As I told you before,
+	16;coffins are for the dead.
+	4;500
+@148
+	17;2;2
+	16;That windowless, dark and scarlet coffin!
+	4;500
+	5;0;5
+	5;1;5
+	5;2;5
+	13;0
+@178
+	0
+	13;1
+@0
+	0
+entry 1
+@0
+	1;0;1
+	1;1;1
+	1;2;2
+@60
+	15;1;4;8;10;-1
+	16;I've had my revenge.
+	4;500
+@61
+	17;1;2
+	16;I'll do you the favor of not drinking your
+	16;blood, so go on home.
+	4;500
+@62
+	17;2;-2
+	16;Not yet.
+	16;What was the purpose of stopping the night?
+	4;500
+@63
+	17;0;3
+	16;You should have asked that before we fought.
+	4;500
+@64
+	17;0;3
+	16;We've won, so we have no need to answer anymore.
+	4;500
+@65
+	17;1;3
+	16;(mumbles) ...restoring the eternal full moon...
+	4;500
+@66
+	17;0;6
+	16;NOT eternal!
+	4;500
+@67
+	17;2;-2
+	16;Sigh, I'd be disgusted if it were still night 
+	16;tomorrow.
+	4;500
+@68
+	17;1;2
+	16;Sakuya, look.
+	16;That mansion...
+	4;500
+	13;0
+@128
+	9;0
+	12
+@188
+	4;800
+	11
+	10
+@0
+	0
+entry 2
+@0
+	1;0;1
+	1;1;1
+@60
+	15;1;2;2;-1;-1
+	16;She's running away. This way.
+	4;500
+@61
+	17;0;2
+	16;Do you think you can escape from my knives?
+	4;500
+	5;0;5
+	5;1;5
+	13;0
+@91
+	0
+	13;1
+@0
+	0
+entry 3
+@0
+	1;0;1
+	1;1;1
+	1;2;2
+@60
+	15;2;2;8;2;-1
+	16;How are you not getting lost in this 
+	16;bamboo forest...
+	4;500
+@61
+	17;0;2
+	16;We're just following you.
+	16;You can't escape.
+	4;500
+@62
+	17;2;2
+	16;You surprised me by both attacking at once.
+	16;Now I'm ready.
+	4;500
+@63
+	17;2;6
+	16;Lose yourselves in the gap of my boundary!
+	4;500
+	5;0;5
+	5;1;5
+	13;0
+@93
+	0
+	13;1
+@0
+	0
+	0

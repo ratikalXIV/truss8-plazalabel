@@ -1,0 +1,270 @@
+entry 0
+@0
+	1;2;2
+@60
+	17;2;6
+	16;You're so persistent.
+	4;500
+	1;0;1
+	1;1;1
+	15;0;2;2;-2;-1
+	16;Think what you want.
+	4;500
+@61
+	17;0;6
+	16;A human village was supposed to be here, right?
+	4;500
+@62
+	17;0;6
+	16;But there's nothing here. What happened to the
+	16;humans and their houses and everything!?
+	4;500
+@63
+	17;2;2
+	16;Nothing.
+	4;500
+@64
+	17;2;8
+	16;I merely hid the village from your kind.
+	8;2;0;Keine Kamishirasawa
+	4;500
+@65
+	17;1;2
+	16;Reimu, we don't have time to stick around here.
+	4;500
+@66
+	17;1;8
+	16;The moon sinks lower with every moment.
+	4;500
+@67
+	17;0;8
+	16;We're not exactly sticking, but hold on.
+	4;500
+@68
+	17;0;6
+	16;I can't just ignore a youkai that destroyed
+	16;a whole village.
+	4;500
+@69
+	17;2;3
+	16;"Humans never settled here in the first place."
+	4;500
+@70
+	17;2;2
+	16;All I did was make it look that way.
+	4;500
+@71
+	17;2;3
+	16;I'll protect the humans from this dangerous 
+	16;night.
+	4;500
+@72
+	17;1;5
+	16;Hey, you know.
+	4;500
+@73
+	17;1;2
+	16;I can see humans whenever I want.
+	4;500
+@74
+	17;1;2
+	16;This little trick of yours isn't useful
+	16;at all.
+	4;500
+@75
+	17;2;9
+	16;!
+	4;500
+@76
+	17;2;9
+	16;What exactly are you two?
+	4;500
+@77
+	17;0;7
+	16;Don't worry. It's invisible enough to me.
+	4;500
+@78
+	17;2;8
+	16;Uu. Your pity isn't helping.
+	4;500
+@79
+	17;1;2
+	16;And you.
+	4;500
+@80
+	17;1;2
+	16;You're a half-beast, right?
+	4;500
+@81
+	17;2;6
+	16;I'm human when the moon isn't full.
+	4;500
+@82
+	17;1;2
+	16;Not much different from a human-faced-dog
+	16;or human-faced-rock, then.
+	4;500
+@83
+	17;2;8
+	16;Why does everything except my face have to 
+	16;change? It's a complete transformation.
+	4;500
+@84
+	17;1;2
+	16;Oh, but you could have a head of a horse or cow.
+	16;Just transform your head to a beast if you want.
+	4;500
+@85
+	17;2;6
+	16;...Fine.
+	4;500
+@86
+	17;2;2
+	16;If you're going to say that much,
+	16;I'll make sure you won't be able to take it back.
+	4;500
+@87
+	17;2;3
+	16;I will feast upon your history tonight!
+	7;1
+	4;500
+@88
+	17;1;3
+	16;Myself aside, I'd say her history would amount 
+	16;to a light snack at best.
+	4;500
+@89
+	17;0;8
+	16;Shut up.
+	16;My days are a cupful of exquisite Chinese tea.
+	4;500
+	5;0;5
+	5;1;5
+	5;2;5
+	13;0
+@119
+	0
+	13;1
+@0
+	0
+entry 1
+@0
+	1;0;1
+	1;1;1
+	1;2;2
+@60
+	15;0;4;8;10;-1
+	16;Restore that human village, now!
+	4;500
+@61
+	17;1;5
+	16;It's fine either way.
+	16;The humans here don't think much of you.
+	4;500
+@62
+	17;2;-2
+	16;Tell me, where are you trying to go anyway?
+	4;500
+@63
+	17;1;3
+	16;That way.
+	4;500
+@64
+	17;0;3
+	16;This way.
+	4;500
+@65
+	17;2;-2
+	16;...
+	4;500
+@66
+	17;2;-2
+	16;If you're after the ones behind the abnormal
+	16;moon, it's that way.
+	4;500
+@67
+	17;0;2
+	16;Hah, I was right. 
+	4;500
+@68
+	17;1;3
+	16;Reimu, your finger is off from hers by 70 
+	16;degrees.
+	4;500
+@69
+	17;0;3
+	16;But you're off by 110-- 
+	16;Wow, you're sharp, figuring out our destination.
+	4;500
+@70
+	17;1;8
+	16;I'd be more surprised if she didn't notice.
+	4;500
+	13;0
+@130
+	9;0
+	12
+@190
+	4;800
+	11
+	10
+@0
+	0
+entry 2
+@0
+	1;2;2
+	1;0;1
+	1;1;1
+@60
+	15;0;2;2;2;-1
+@61
+	17;2;2
+	16;So, it's you two who are trying to attack
+	16;the village in the middle of the night.
+	4;500
+@62
+	17;0;6
+	16;Are you the one who did this?
+	16;Where did you hide the humans and their village?
+	4;500
+@63
+	17;2;6
+	16;I can't hand over the humans to you youkai.
+	4;500
+@64
+	17;2;2
+	16;I'll make sure this night never happened!
+	4;500
+	5;0;5
+	5;1;5
+	5;2;5
+	13;0
+@94
+	0
+	13;1
+@0
+	0
+entry 3
+@0
+	1;2;2
+	1;0;1
+	1;1;1
+@60
+	15;0;2;2;3;-1
+@61
+	17;2;9
+	16;Wha... what the heck are you?
+	4;500
+@62
+	17;0;6
+	16;Hey, bring the village back!
+	4;500
+	5;0;5
+	5;1;5
+	5;2;5
+	13;0
+@92
+	0
+	13;1
+@0
+	0
