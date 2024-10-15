@@ -31,10 +31,8 @@ jobs:
         
       - name: Pack .anm files. Use ${{github.workspace}} as it requires the full path
         run: |
-          thanm -l ${{github.workspace}}\th08-dat\player00.anm | Out-File ${{github.workspace}}\th08-dat\specs.txt
-          thanm -c ${{github.workspace}}\th08-dat\player00.anm ${{github.workspace}}\th08-dat\specs.txt
           thanm -l ${{github.workspace}}\th08-dat\face_rm00.anm | Out-File ${{github.workspace}}\th08-dat\specs.txt
-          thanm -c ${{github.workspace}}\th08-dat\face_rm00.anm ${{github.workspace}}\th08-dat\specs.txt
+          Start-Process -WorkingDirectory ${{github.workspace}}\th08-dat thanm -c ${{github.workspace}}\th08-dat\face_rm00.anm ${{github.workspace}}\th08-dat\specs.txt
           
       # Clean up before packing
       - name: Remove data folder and *.txt files 
