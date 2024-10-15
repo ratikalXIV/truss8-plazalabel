@@ -31,7 +31,7 @@ jobs:
         
       - name: Pack .anm files.
         run: |
-          thanm -r player00.anm data/player00/player00.png .\data\player00\player00.png
+          thanm -r ${{github.workspace}}\th08-dat\player00.anm data/player00/player00.png .\data\player00\player00.png
           
       # Clean up before packing
       - name: Remove data folder and *.txt files 
