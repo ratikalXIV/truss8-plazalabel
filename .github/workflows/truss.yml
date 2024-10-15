@@ -11,17 +11,17 @@ jobs:
     name: Setup
     runs-on: windows-latest
     steps:
+      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+      - name: Checkout repo
+        uses: actions/checkout@v4
+        
       - name: Download, extract, and delete 2hu toolkit
         run: |
           Invoke-WebRequest https://github.com/thpatch/thtk/releases/download/12/thtk-bin-12.zip -OutFile thtk.zip 
           Expand-Archive thtk.zip -DestinationPath ${{ runner.temp }} && Remove-Item thtk.zip
       - name: Variable
         run: |
-          $THDAT = '${{ runner.temp}}\thtk-bin-12\thdat.exe' 
-
-      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
-      - name: Checkout repo
-        uses: actions/checkout@v4
+          $THDAT = '${{ runner.temp }}\thtk-bin-12\thdat.exe' 
       
       # thdat pack
       - name: Pack (will be messy)
