@@ -21,7 +21,7 @@ jobs:
           Expand-Archive thtk.zip -DestinationPath ${{github.workspace}} && Remove-Item thtk.zip
       - name: Adds THTK to PATH ${{runner.temp}}
         run: |
-          echo "$((Get-Item ${{github.workspace}}}).FullName)\thtk-bin-12" | Out-File -FilePath $env:GITHUB_PATH -Encoding utf8 -Append
+          echo "$((Get-Item ${{github.workspace}}).FullName)\thtk-bin-12" | Out-File -FilePath $env:GITHUB_PATH -Encoding utf8 -Append
       
       # All the build shit now.
       - name: Change directory
