@@ -23,10 +23,13 @@ jobs:
         run: |
           $THDAT = '${{ runner.temp }}\thtk-bin-12\thdat.exe' 
           Get-ChildItem
-
+      - name: Remove folders 
+        run: |
+          Remove-Item -Recurse -Force ${{github.workspace}}\th08-dat\data\
+          
       # thdat pack
       - name: Pack (will be messy)
-        run: \&$THDAT -c8 th08.dat .\th08-dat\*
+        run: ${{runner.temp}}\thtk-bin-12\thdat.exe -c8 th08.dat .\th08-dat\*
           
       # Build artifact of th08.dat
       - name: Upload th08.dat
