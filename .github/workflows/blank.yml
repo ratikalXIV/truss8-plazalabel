@@ -7,6 +7,17 @@ on:
 
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
+  setup:
+    name: Setup
+    runs-on: windows-latest
+    steps:
+      - name: Download, extract, and delete 2hu toolkit
+        run: |
+          Invoke-WebRequest https://github.com/thpatch/thtk/releases/download/12/thtk-bin-12.zip -OutFile thtk.zip 
+          Expand-Archive thtk.zip -DestinationPath ${{ runner.temp }} && Remove-Item thtk.zip
+          Get-ChildItem -Path ${{ runner.temp}}\thtk-bin-12
+          ${{ runner.temp}}\thtk-bin-12\thanm.exe
+  
   # This workflow contains a single job called "build"
   build:
     # The type of runner that the job will run on
