@@ -18,7 +18,7 @@ jobs:
       - name: Download, extract, and delete 2hu toolkit
         run: |
           Invoke-WebRequest https://github.com/thpatch/thtk/releases/download/12/thtk-bin-12.zip -OutFile thtk.zip 
-          Expand-Archive thtk.zip -DestinationPath ${{github.workspace}}} && Remove-Item thtk.zip
+          Expand-Archive thtk.zip -DestinationPath ${{github.workspace}} && Remove-Item thtk.zip
       - name: Adds THTK to PATH ${{runner.temp}}
         run: |
           echo "$((Get-Item ${{github.workspace}}}).FullName)\thtk-bin-12" | Out-File -FilePath $env:GITHUB_PATH -Encoding utf8 -Append
