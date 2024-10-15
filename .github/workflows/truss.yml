@@ -29,7 +29,7 @@ jobs:
         
       - name: Pack .anm files.
         run: |
-          thanm -l player00.anm > specs.txt
+          thanm -l player00.anm | Out-File specs.txt
           thanm -c player00.anm specs.txt
           
       # Clean up before packing
