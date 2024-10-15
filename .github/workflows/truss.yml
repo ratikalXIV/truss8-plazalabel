@@ -19,10 +19,19 @@ jobs:
         run: |
           Invoke-WebRequest https://github.com/thpatch/thtk/releases/download/12/thtk-bin-12.zip -OutFile thtk.zip 
           Expand-Archive thtk.zip -DestinationPath ${{ runner.temp }} && Remove-Item thtk.zip
-      - name: Variable
+      - name: Adds THTK to PATH
         run: |
           echo "$((Get-Item ${{runner.temp}}).FullName)\thtk-bin-12" | Out-File -FilePath $env:GITHUB_PATH -Encoding utf8 -Append
       
+      # All the build shit now.
+      - name: Change directory
+        run: cd ${{github.workspace}}\th08-dat\
+        
+      - name: Pack .anm files.
+        run: |
+          thanm -l player00.anm > specs.txt
+          thanm -c player00.anm specs.txt
+          
       # Clean up before packing
       - name: Remove data folder and *.txt files 
         run: |
@@ -32,11 +41,11 @@ jobs:
       # Final packing step
       - name: Pack (will be messy)
         run: thdat -c8 th08.dat .\th08-dat\*
-      #  run: ${{runner.temp}}\thtk-bin-12\thdat.exe -c8 th08.dat .\th08-dat\*
+
           
       # Build artifact of th08.dat. UNCOMMENT when done
-      #- name: Upload th08.dat
-      #  uses: actions/upload-artifact@v4
-      #  with:
-      #    name: th08.dat
-      #    path: ${{ github.workspace}}\th08.dat
+      - name: Upload th08.dat
+        uses: actions/upload-artifact@v4
+        with:
+          name: th08.dat
+          path: ${{ github.workspace}}\th08.dat
