@@ -26,7 +26,7 @@ jobs:
 
       # thdat pack
       - name: Pack (will be messy)
-        run: ${{ runner.temp }}\thtk-bin-12\thdat.exe -c8 th08.dat .\th08-dat\*
+        run: \&$THDAT -c8 th08.dat .\th08-dat\*
           
       # Build artifact of th08.dat
       - name: Upload th08.dat
