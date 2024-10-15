@@ -21,8 +21,8 @@ jobs:
           Expand-Archive thtk.zip -DestinationPath ${{ runner.temp }} && Remove-Item thtk.zip
       - name: Variable
         run: |
-          '${{ runner.temp }}\thtk-bin-12\thdat.exe' >> $GITHUB_PATH
-          Write-Host $GITHUB_PATH
+          '${{ runner.temp }}\thtk-bin-12\thdat.exe' >> $env:GITHUB_PATH
+          Write-Host $env:GITHUB_PATH
       
       # Clean up before packing
       - name: Remove data folder and *.txt files 
@@ -34,9 +34,9 @@ jobs:
       - name: Pack (will be messy)
         run: ${{runner.temp}}\thtk-bin-12\thdat.exe -c8 th08.dat .\th08-dat\*
           
-      # Build artifact of th08.dat
-      - name: Upload th08.dat
-        uses: actions/upload-artifact@v4
-        with:
-          name: th08.dat
-          path: ${{ github.workspace}}\th08.dat
+      # Build artifact of th08.dat. UNCOMMENT when done
+      #- name: Upload th08.dat
+      #  uses: actions/upload-artifact@v4
+      #  with:
+      #    name: th08.dat
+      #    path: ${{ github.workspace}}\th08.dat
