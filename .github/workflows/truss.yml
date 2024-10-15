@@ -25,7 +25,9 @@ jobs:
       
       # All the build shit now.
       - name: Change directory
-        run: cd ${{github.workspace}}\th08-dat\
+        run: | 
+          cd ${{github.workspace}}\th08-dat\
+          Get-ChildItem 
         
       - name: Pack .anm files.
         run: |
@@ -37,11 +39,12 @@ jobs:
       - name: Remove data folder and *.txt files 
         run: |
           Remove-Item -Recurse -Force ${{github.workspace}}\th08-dat\data\
-          Remove-Item -Force ${{github.workspace}}\th08-dat\*.txt
           
-      # Final packing step
+      # Remove-Item -Force ${{github.workspace}}\th08-dat\*.txt
+          
+      # Final packing step. might need to change directory back
       - name: Pack (will be messy)
-        run: thdat -c8 th08.dat .\th08-dat\*
+        run: thdat -c8 th08.dat ${{github.workspace}}\th08-dat\*
 
           
       # Build artifact of th08.dat. UNCOMMENT when done
@@ -50,3 +53,9 @@ jobs:
         with:
           name: th08.dat
           path: ${{ github.workspace}}\th08.dat
+
+      - name: Upload text
+        uses: actions/upload-artifact@v4
+        with:
+          name: text
+          path: ${{ github.workspace}}\th08-dat\specs.txt        
