@@ -21,13 +21,16 @@ jobs:
           Expand-Archive thtk.zip -DestinationPath ${{ runner.temp }} && Remove-Item thtk.zip
       - name: Variable
         run: |
-          $THDAT = '${{ runner.temp }}\thtk-bin-12\thdat.exe' 
-          Get-ChildItem
-      - name: Remove folders 
+          '${{ runner.temp }}\thtk-bin-12\thdat.exe' >> $GITHUB_PATH
+          Write-Host $GITHUB_PATH
+      
+      # Clean up before packing
+      - name: Remove data folder and *.txt files 
         run: |
           Remove-Item -Recurse -Force ${{github.workspace}}\th08-dat\data\
+          Remove-Item -Force ${{github.workspace}}\th08-dat\*.txt
           
-      # thdat pack
+      # Final packing step
       - name: Pack (will be messy)
         run: ${{runner.temp}}\thtk-bin-12\thdat.exe -c8 th08.dat .\th08-dat\*
           
