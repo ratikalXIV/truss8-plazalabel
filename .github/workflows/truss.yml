@@ -31,8 +31,7 @@ jobs:
         
       - name: Pack .anm files.
         run: |
-          thanm -l player00.anm
-          thanm -l title01.anm
+          thanm -r player00.anm data/player00/player00.png .\data\player00\player00.png
           
       # Clean up before packing
       - name: Remove data folder and *.txt files 
