@@ -29,19 +29,21 @@ jobs:
           cd ${{github.workspace}}\th08-dat\
           Get-ChildItem 
         
-      - name: Pack .anm files.
+      - name: Pack .anm files. Use ${{github.workspace}} as it requires the full path
         run: |
-          thanm -r ${{github.workspace}}\th08-dat\player00.anm data/player00/player00.png ${{github.workspace}}\th08-dat\data\player00\player00.png
+          thanm -l ${{github.workspace}}\th08-dat\player00.anm | Out-File ${{github.workspace}}\th08-dat\specs.txt
+          thanm -c ${{github.workspace}}\th08-dat\player00.anm ${{github.workspace}}\th08-dat\specs.txt
+          thanm -l ${{github.workspace}}\th08-dat\face_rm00.anm | Out-File ${{github.workspace}}\th08-dat\specs.txt
+          thanm -c ${{github.workspace}}\th08-dat\face_rm00.anm ${{github.workspace}}\th08-dat\specs.txt
           
       # Clean up before packing
       - name: Remove data folder and *.txt files 
         run: |
           Remove-Item -Recurse -Force ${{github.workspace}}\th08-dat\data\
-          
-      # Remove-Item -Force ${{github.workspace}}\th08-dat\*.txt
+          Remove-Item -Force ${{github.workspace}}\th08-dat\*.txt
           
       # Final packing step. might need to change directory back
-      - name: Pack (will be messy)
+      - name: Pack
         run: thdat -c8 th08.dat ${{github.workspace}}\th08-dat\*
 
           
