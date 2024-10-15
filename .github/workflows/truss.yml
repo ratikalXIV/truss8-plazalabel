@@ -25,11 +25,11 @@ jobs:
       
       # thdat pack
       - name: Pack (will be messy)
-        run: ${{ runner.temp }}\thtk-bin-12\thdat.exe -c8 th08.dat $GITHUB_WORKSPACE\th08-dat\*
+        run: ${{ runner.temp }}\thtk-bin-12\thdat.exe -c8 th08.dat ${{ github.workspace}}\th08-dat\*
           
       # Build artifact of th08.dat
       - name: Upload th08.dat
         uses: actions/upload-artifact@v4
         with:
           name: th08.dat
-          path: $GITHUB_WORKSPACE\th08.dat
+          path: ${{ github.workspace}}\th08.dat
