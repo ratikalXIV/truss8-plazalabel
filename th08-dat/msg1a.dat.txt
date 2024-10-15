@@ -3,25 +3,26 @@ entry 0
 	1;0;1
 @60
 	15;0;6;-1;-1;-1
-	16;See, there's nothing here!
+	16;That's not what I said! I told you,
+	16;I don't play Touhou! It's been 2 weeks-
 	4;500
 	1;1;1
 @61
 	15;1;2;5;-1;-1
-	16;The night's only just started.
-	16;No need to hurry.
+	16;Oh shut up Baf, FAKE INTEREST!
+	16;Next thing you'll say is "Im too old for bread"
 	4;500
 @62
 	17;0;7
-	16;So you agree there's nothing here, then.
-	16;You're the one who dragged me out in a hurry.
+	16;Yeah, yeah, I'm bald, I have no job, same jokes..
 	4;500
 @63
 	17;0;6
-	16;Don't forget, you owe me big time for this.
+	16;Fucking always saying FAKE INTEREST this,
+	16;FAKE INTEREST that, grow up Rezardi..!
 	4;500
 	15;2;-2;-2;-1;-1
-	3;2;0;"Nothing here"...
+	3;2;0;The name's CATPAT!
 @64
 	4;60
 	13;0
@@ -30,57 +31,57 @@ entry 0
 	1;2;2
 	13;1
 	15;2;-2;-2;6;-1
-	3;2;1;I was here the whole time!
+	3;2;1;Fake Interest in Retrospect!
 	8;2;0;The Insect of Light Crawling in the Dark
 	4;500
 @125
 	17;1;8
-	16;Don't worry, Reimu...
+	16;Oh my god it's this fucking grifter again
 @126
 	4;500
 	15;1;7;5;6;-1
-	16;You'll be compensated.
-	16;I'm not you, after all.
+	16;OH MY GOD DUDE, even in truss I get milked!
+	16;I thought it was bad enough I'm with baf.
 @127
 	4;500
 	15;2;-2;-2;2;-1
-	16;Hey, hey, hey.
+	16;Have you guys seen my retrospectives?
 @128
 	4;500
 	15;2;-2;-2;2;-1
-	16;You've got some guts, not being bugged
-	16;in the slightest.
+	16;I just released one on Ketsui!
+	16;I did two whole playthroughs of it!
 @129
 	4;500
 	15;2;-2;2;3;-1
-	16;I hope you've got the determination to
-	16;go with that!
+	16;Did you know:
+	16;DOOM has a 2 minute 30 second timer?!
 @130
 	4;500
 	15;0;7;-2;-2;-1
-	16;Was that a pun?
+	16;Rez I think you're-a right...
 @131
 	4;500
 	15;1;-2;7;-2;-1
-	16;Was it?
+	16;I'm always right about SHMIGGERS.
 @132
 	4;500
 	15;0;2;2;-2;-1
-	16;Oh yeah, I left behind a vital tool for 
-	16;night walks. It's still at the shrine.
+	16;Rez, I think we need-a to work together 
+	16;I have a job interview tomorrow!
 @133
 	4;500
 	15;2;-2;-2;2;-1
-	16;?
+	16;What's a shmigger?
 @134
 	4;500
 	15;1;2;3;-2;-1
-	16;I know what you're trying to say.
-	16;An anti-mosquito incense, right?
+	16;SHUT UP BAF.
+	16;Let's just deal with this grifter.
 @135
 	4;500
 	15;2;-2;-2;6;-1
-	16;I'm a firefly!
+	16;I'm Mark's newest BUTT BOY.
 @136
 	4;500
 	7;1
@@ -99,27 +100,24 @@ entry 1
 	1;1;1
 @60
 	15;1;4;5;-1;-1
-	16;Really, it's awful at night with all these
-	16;bugs around.
+	16;Fuck me man, I'm stuck in truss aren't I?
 	4;500
 @61
 	17;0;7
-	16;Funny thing for you to say considering you're
-	16;only awake at night.
+	16;Maybe if-a you play them for once, you'll
+	16;enjoy them? I really like Great Fairy Wars!
 	4;500
 @62
 	17;1;3
-	16;Yes, because nature thrives during the night.
+	16;Yeah, nice milk faggot. Keep milking me.
 	4;500
 @63
 	17;0;2
-	16;There've been lots of fireflies, lately...
-	16;Makes me worry a little about the outside world.
+	16;Shut the fuck up..
 	4;500
 @64
 	17;1;9
-	16;See, you understand what I'm saying.
-	16;But it's unlike you to worry.
+	16;Fine I'm sorry little ol' baf. Let's go.
 @65
 	4;500
 	13;0

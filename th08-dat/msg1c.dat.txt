@@ -3,20 +3,20 @@ entry 0
 	1;1;1
 @60
 	15;1;2;8;-1;-1
-	16;Sakuya, I didn't ask you to follow me.
+	16;You're not part of the "GANG", are you?
 	4;500
 	1;0;1
 @61
 	15;0;2;-2;-1;-1
-	16;What are you saying? I worry about your safety.
+	16;No Ric, I'm a shmigger.
 	4;500
 @62
 	15;0;8;-2;-1;-1
-	16;Moreover, what if the bug we saw earlier shows 
-	16;up again...
+	16;Not some fucking antifun jew psyop trying
+	16;to kill the shmup scene...
 	4;500
 	15;2;-2;-2;-1;-1
-	16;Indeed, as they say, "speak of the bug!"
+	16;The name's CATPAT!
 @63
 	4;60
 	13;0
@@ -25,54 +25,52 @@ entry 0
 	1;2;2
 	13;1
 	15;2;2;2;3;-1
-	16;Well, I showed up. Perhaps you'll hand over the
-	16;Lady of the mansion to me!
+	16;Fake Interest in Retrospect!
 	8;2;0;The Bug of Light Wriggling in the Dark
 	8;2;1;           Wriggle Nightbug
 @124
 	4;500
 	15;0;8;-2;-2;-1
-	16;Even if you show up... who would pity a bug
-	16;that much?
+	16;Oh shit! It's him!
 @125
 	4;500
 	15;0;8;-2;-2;-1
-	16;Don't they say that if you put enough bugs 
-	16;together, even they will have a small soul?
+	16;"Never cleared a game!"
+	16;"Just got a boss one on one credt!"
 @126
 	4;500
 	15;1;8;7;-2;-1
-	16;80 percent smaller, actually.
+	16;"Milking every non-player!
+	16;"Another wiggerpedia review!"
 @127
 	4;500
 	15;2;-2;-2;6;-1
-	16;Are you trying to intimidate me?
+	16;...Quit stealing my show!
 @128
 	4;500
 	15;0;2;-2;-2;-1
-	16;No, we're trying to kill you.
+	16;You retarded pigeon, we ARE the show.
 @129
 	4;500
 	15;1;-2;8;-2;-1
-	16;Don't worry, I'm not interested in non-humans
-	16;anyway.
+	16;He's not part of the shmup gang, but he's
+	16;a fake interest shmigger just the same.
 @130
 	4;500
 	15;0;8;-2;-2;-1
-	16;Her disinterest is just more reason to worry.
+	16;There he goes with his schizo-shit again...
 @131
 	4;500
 	15;0;2;-2;-2;-1
-	16;If you were human, you'd at least be treated 
-	16;as food.
+	16;Whatever...this pussy has ran out of milk.
 @132
 	4;500
 	15;0;8;-2;-2;-1
-	16;She's the Lady without mercy, after all.
+	16;I suggest you do a quick Wikipedia read on us!
 @133
 	4;500
 	15;2;8;2;2;-1
-	16;Awwww...
+	16;Huh!?
 @134
 	4;500
 	7;1
@@ -91,22 +89,23 @@ entry 1
 	1;1;1
 @60
 	15;0;5;2;-1;-1
-	16;Ah, the increase in fireflies lately makes
-	16;everything so beautiful.
+	16;Damn, we won't be able to milk any
+	16;more content out of him now...
 	4;500
 @61
 	17;1;8
-	16;Sakuya, that comment totally clashes with 
-	16;the situation.
+	16;It's better some stupid fake interest
+	16;shmigger isn't infesting the scene.
 	4;500
 @62
 	17;0;4
-	16;I changed the subject, Lady.
+	16;...Do you hear our album playing in the
+	16;distance?
 	4;500
 @63
 	17;1;2
-	16;I only heard the second half.
-	16;What were you trying to say?
+	16;Yes, I hear [redacted]. Let's go Enjimmy,
+	16;we got some fishpogtane's to fry.
 @64
 	4;500
 	13;0
