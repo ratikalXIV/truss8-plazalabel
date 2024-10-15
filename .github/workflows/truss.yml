@@ -15,8 +15,11 @@ jobs:
         run: |
           Invoke-WebRequest https://github.com/thpatch/thtk/releases/download/12/thtk-bin-12.zip -OutFile thtk.zip 
           Expand-Archive thtk.zip -DestinationPath ${{ runner.temp }} && Remove-Item thtk.zip
+      - name: Tests
           Get-ChildItem -Path ${{ runner.temp}}\thtk-bin-12
           ${{ runner.temp}}\thtk-bin-12\thanm.exe
+          $THDAT = ${{ runner.temp}}\thtk-bin-12\thdat.exe
+          & $THDAT
   
   # This workflow contains a single job called "build"
   build:
@@ -30,11 +33,11 @@ jobs:
 
       # Runs a single command using the runners shell
       - name: Run a one-line script
-        run: Write-Host Hello, world!
+        run: Write-Host Hello, world! The files are on ${{ runner.temp }} or $THDAT
 
       # Runs a set of commands using the runners shell
-      - name: Run a multi-line script
+      - name: Current directory
         run: |
-          Write-Host How am I going to get this
-          Write-Host thing to package efficiently?
+          Get-ChildItem
+          
       # Build artifact of th08.dat
