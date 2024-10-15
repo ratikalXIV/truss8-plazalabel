@@ -16,6 +16,7 @@ jobs:
           Invoke-WebRequest https://github.com/thpatch/thtk/releases/download/12/thtk-bin-12.zip -OutFile thtk.zip 
           Expand-Archive thtk.zip -DestinationPath ${{ runner.temp }} && Remove-Item thtk.zip
       - name: Tests
+        run: |
           Get-ChildItem -Path ${{ runner.temp}}\thtk-bin-12
           ${{ runner.temp}}\thtk-bin-12\thanm.exe
           $THDAT = ${{ runner.temp}}\thtk-bin-12\thdat.exe
