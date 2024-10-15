@@ -31,9 +31,11 @@ jobs:
         
       - name: Pack .anm files.
         run: |
+          Get-Acl
           thanm -l player00.anm | Out-File specs.txt
           Get-Content specs.txt | Write-Output
           thanm -c player00.anm specs.txt
+          Get-ChildItem
           
       # Clean up before packing
       - name: Remove data folder and *.txt files 
