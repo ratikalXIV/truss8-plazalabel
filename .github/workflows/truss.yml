@@ -32,4 +32,4 @@ jobs:
         uses: actions/upload-artifact@v4
         with:
           name: th08.dat
-          path: ${{ GITHUB_WORKSPACE}}\th08.dat
+          path: $GITHUB_WORKSPACE\th08.dat
