@@ -5,12 +5,13 @@ entry 0
 	5;0;1
 @60
 	15;0;2;-1;-1;-1
-	16;Ah, the moon sure is beautiful tonight.
+	16;in general unironically see japanese arcade games
+	16;and how they with their stories and dilligent remarks
 	4;500
 @61
 	1;1;1
 	15;1;2;9;-1;-1
-	16;What?  Are you kidding me?
+	16;What?  Are you kidding me? #surprised
 	4;500
 @62
 	15;0;5;-2;-1;-1

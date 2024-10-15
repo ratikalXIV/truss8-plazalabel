@@ -3,98 +3,99 @@ entry 0
 	1;2;2
 @60
 	17;2;9
-	16;Wait, waaaait!!
+	16;WHUUUUT, HUUUUUUUUH?
 	4;500
 	1;0;1
 	1;1;1
 	15;0;2;2;-2;-1
-	16;What?
+	16;I-a know that voice from anywhere...
 	4;500
 	17;2;9
-	16;Aw, I thought some hasty-tasty humans finally
-	16;came around.
+	16;This shit game just has this
+	16;lag between switching!
 @61
 	4;500
 	17;2;2
-	16;So who exactly are you two?
+	16;The shmup community is full of so
+	16;many elitists and bigots.	
 	8;2;0;Mystia Lorelei
 @62
 	4;500
 @63
 	17;1;8
-	16;Um... non-humans.
+	16;God even in troonhou, this jeet doesn't
+	16;shut the fuck up.
 	4;500
 	17;2;9
-	16;Non-humans?
+	16;Rezardiiiii!! I told you we were DONE!
 @64
 	4;500
 @65
 	17;0;7
-	16;Well, human or not, it's fine with me either way.
+	16;Aktane, how's your day? You should-a try this
+	16;game out, it's called Gundemonium!
 	4;500
 	17;2;2
-	16;It's not every day that youkai travel along this
-	16;pass.
+	16;Shut up baf.
 @66
 	4;500
 	17;1;2
-	16;Really. You seem to be a night sparrow.
+	16;Shut up baf.
 @67
 	4;500
 	17;1;3
-	16;If you attack humans too often,
+	16;My condition is so fucking low.
+	16;I can smell his beard from here!
 @68
 	4;500
 	17;1;8
-	16;there won't be any more left around here.
+	16;My fake interest is immeasurable
+	16;and my day is fucking ruined.
 @69
 	4;500
 @70
 	17;0;7
-	16;That might be so, but I don't think she'd
-	16;start attacking youkai instead of humans.
+	16;*mumbles*
 	4;500
 	17;2;2
-	16;Oh, shut up. Besides, nothing human-like has 
-	16;shown upon this night road for a long time.
+	16;How can you even hear what this guy says?
 @71
 	4;500
 	17;2;2
-	16;Even if there were any, they'd be in a rush, or
-	16;have some urgent business, or turn out to be non-human.
+	16;Baf, can you speak up?
+	16;We can't hear you.
 @72
 	4;500
 	17;1;2
-	16;Listen. I'll say this once more. We are in a 
-	16;hurry, have an important mission, and aren't human.
+	16;It's 5am in Italy right now, he'll wake
+	16;his mom up if he talks at an audible level.
 @73
 	4;500
 	17;1;2
-	16;We don't have time to waste here.
-	16;Will you let us pass?
+	16;BAF. SPEAK THE FUCK UP.
+	16;STOP MUMBLING.
 @74
 	4;500
 	17;0;8
-	16;It's not common for youkai like Yukari to visit
-	16;the place ahead, though...
+	16;I'm-a not mumbling!! I'm talking at
+	16;a normal volume!
 @75
 	4;500
 	17;2;2
-	16;But it's been so long since the last time I
-	16;played...
+	16;Yeah, whatever you say Baf.
 @76
 	4;500
 	17;2;3
-	16;Hey, why don't we go to that village and toy 
-	16;around with the humans together?
+	16;So why are you two here?
+	16;I banned you from my 'cord months ago!
 @77
 	4;500
 	17;0;6
-	16;Ah, sheesh, I've already said this before!
+	16;THAT'S NOT-A TRUE!
 @78
 	4;500
 	17;1;9
-	16; ?
+	16;??
 @79
 	4;500
 	17;2;2
@@ -102,15 +103,15 @@ entry 0
 @80
 	4;500
 	17;0;6
-	16;I can see in the dark!
+	16;I left it a year ago!
 @81
 	4;500
 	17;2;3
-	16;Ah, human-sighted.
+	16;Are you just ASKING for a ban?
 @82
 	4;500
 	17;2;3
-	16;I'll make you night-blind myself!
+	16;Bigotry is NOT allowed in my community.
 @83
 	4;500
 	7;1
@@ -129,37 +130,34 @@ entry 1
 	1;1;1
 @60
 	15;1;4;8;-1;-1
-	16;Goodness, it was only a night sparrow.
+	16;Eugh, I can still smell him.
 @61
 	4;500
 	17;1;5
-	16;A weakling acting mighty leads to despair 
-	16;all the faster.
+	16;This feels like a nightmare. Everywhere I go
+	16;it's faggots and milkers.
 @62
 	4;500
 	17;0;7
-	16;...Was that really a sparrow?
-	16;It was dark, and I couldn't see well.
+	16;Come on Rez,
+	16;I'm your friend aren't I?
 @63
 	4;500
 	17;1;3
-	16;If you see a small bird at night, that's usually
-	16;a night sparrow.
+	16;Yes Baf, I'm sorry for being a dick to you.
 @64
 	4;500
 	17;1;2
-	16;If you're not careful around them, you won't be
-	16;able to see at all around dark places.
+	16;We need to make this quick.
+	16;You have your job interview tomorrow.
 @65
 	4;500
 	17;0;7
-	16;(...is that really what sparrows are like?
-	16; Well, I couldn't see so she's right.)
+	16;What do you mean interview?
 @66
 	4;500
 	17;0;2
-	16;Ah, I can see the human village now. 
-	16;But I didn't really want to bring you along...
+	16;It's Saturday tomorrow, there's no interview!
 @67
 	4;500
 	13;0
