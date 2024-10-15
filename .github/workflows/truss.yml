@@ -31,11 +31,8 @@ jobs:
         
       - name: Pack .anm files.
         run: |
-          Get-Acl
-          thanm -l player00.anm | Out-File specs.txt
-          Get-Content specs.txt | Write-Output
-          thanm -c player00.anm specs.txt
-          Get-ChildItem
+          thanm -l player00.anm
+          thanm -l title01.anm
           
       # Clean up before packing
       - name: Remove data folder and *.txt files 
@@ -54,10 +51,4 @@ jobs:
         uses: actions/upload-artifact@v4
         with:
           name: th08.dat
-          path: ${{ github.workspace}}\th08.dat
-
-      - name: Upload text
-        uses: actions/upload-artifact@v4
-        with:
-          name: text
-          path: ${{ github.workspace}}\th08-dat\specs.txt        
+          path: ${{ github.workspace}}\th08.dat     
