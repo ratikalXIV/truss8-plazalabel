@@ -30,6 +30,7 @@ jobs:
         
       - name: Pack .anm files. Use ${{github.workspace}} as it requires the full path
         run: |
+          [System.Environment]::CurrentDirectory = (Get-Location)
           $files = Get-ChildItem ${{github.workspace}}\anmlist | ForEach-Object {$_.Name}
           foreach ($file in $files) {
           $lines = Get-Content $file
