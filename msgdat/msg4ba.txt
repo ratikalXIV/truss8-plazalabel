@@ -22,7 +22,7 @@ entry 0
 	16;What're you doing here, Marisa?
 	4;500
 @122
-	17;2;2
+	17;1;6
 	16;Oh, you know, just hunting some troublesome 
 	16;youkai as usual.
 	8;2;0;Marisa Kirisame
