@@ -27,7 +27,6 @@ jobs:
       - name: Change directory
         run: | 
           cd ${{github.workspace}}\th08-dat\
-          Get-ChildItem 
         
       - name: Pack .anm files. Use ${{github.workspace}} as it requires the full path
         run: |
@@ -35,7 +34,7 @@ jobs:
           foreach ($file in $files) {
           $lines = Get-Content $file
           foreach ($line in $lines) {
-          thanm -r ${{github.workspace}}\th08-dat\$file $line ${{github.workspace}}\th08-dat\$line
+          thanm -r ${{github.workspace}}\th08-dat\$file $line ${{github.workspace}}\th08-dat\$line}}
           
       # Clean up before packing
       - name: Remove data folder and *.txt files 
