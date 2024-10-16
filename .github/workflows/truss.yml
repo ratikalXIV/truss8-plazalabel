@@ -18,10 +18,10 @@ jobs:
       - name: Download, extract, and delete 2hu toolkit
         run: |
           Invoke-WebRequest https://github.com/thpatch/thtk/releases/download/12/thtk-bin-12.zip -OutFile thtk.zip 
-          Expand-Archive thtk.zip -DestinationPath ${{github.workspace}} && Remove-Item thtk.zip
+          Expand-Archive thtk.zip -DestinationPath ${{runner.temp}} && Remove-Item thtk.zip
       - name: Adds THTK to PATH ${{runner.temp}}
         run: |
-          echo "$((Get-Item ${{github.workspace}}).FullName)\thtk-bin-12" | Out-File -FilePath $env:GITHUB_PATH -Encoding utf8 -Append
+          echo "$((Get-Item ${{runner.temp}}).FullName)\thtk-bin-12" | Out-File -FilePath $env:GITHUB_PATH -Encoding utf8 -Append
       
       # All the build shit now.
       - name: Change directory
@@ -31,8 +31,11 @@ jobs:
         
       - name: Pack .anm files. Use ${{github.workspace}} as it requires the full path
         run: |
-          thanm -l ${{github.workspace}}\th08-dat\face_rm00.anm | Out-File ${{github.workspace}}\th08-dat\specs.txt
-          Start-Process -WorkingDirectory ${{github.workspace}}\th08-dat -NoNewWindow thanm -c ${{github.workspace}}\th08-dat\face_rm00.anm ${{github.workspace}}\th08-dat\specs.txt
+          $files = Get-ChildItem ${{github.workspace}}\anmlist | ForEach-Object {$_.Name}
+          foreach ($file in $files) {
+          $lines = Get-Content $file
+          foreach ($line in $lines) {
+          thanm -r ${{github.workspace}}\th08-dat\$file $line ${{github.workspace}}\th08-dat\$line
           
       # Clean up before packing
       - name: Remove data folder and *.txt files 
