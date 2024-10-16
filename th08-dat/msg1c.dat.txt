@@ -12,8 +12,8 @@ entry 0
 	4;500
 @62
 	15;0;8;-2;-1;-1
-	16;Not some fucking antifun jew psyop trying
-	16;to kill the shmup scene...
+	16;Not some fucking antifun dickhead psyop trying
+	16;to kill the shmup scene with your stupi--
 	4;500
 	15;2;-2;-2;-1;-1
 	16;The name's CATPAT!
@@ -31,7 +31,7 @@ entry 0
 @124
 	4;500
 	15;0;8;-2;-2;-1
-	16;Oh shit! It's him!
+	16;Holy shit! It's CatPat!
 @125
 	4;500
 	15;0;8;-2;-2;-1
@@ -45,7 +45,7 @@ entry 0
 @127
 	4;500
 	15;2;-2;-2;6;-1
-	16;...Quit stealing my show!
+	16;Hey...this is my show!
 @128
 	4;500
 	15;0;2;-2;-2;-1
@@ -58,19 +58,21 @@ entry 0
 @130
 	4;500
 	15;0;8;-2;-2;-1
-	16;There he goes with his schizo-shit again...
+	16;(There he goes with his schizo-shit again...)
 @131
 	4;500
 	15;0;2;-2;-2;-1
-	16;Whatever...this pussy has ran out of milk.
+	16;Come on, Ric! It's not like this cat knows
+	16;how to play shmups.
 @132
 	4;500
-	15;0;8;-2;-2;-1
-	16;I suggest you do a quick Wikipedia read on us!
+	15;1;-2;8;-2;-1
+	16;Yeah, get ready shmiggie!
 @133
 	4;500
 	15;2;8;2;2;-1
-	16;Huh!?
+	16;I'll have you know, I got to stage 2 on
+	16;Ketsui in only one credit!
 @134
 	4;500
 	7;1

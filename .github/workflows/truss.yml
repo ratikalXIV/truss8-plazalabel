@@ -1,0 +1,59 @@
+name: CI
+
+# Controls when the workflow will run
+on:
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+jobs:
+  setup:
+    name: Setup
+    runs-on: windows-latest
+    steps:
+      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+      - name: Checkout repo
+        uses: actions/checkout@v4
+        
+      - name: Download, extract, and delete 2hu toolkit
+        run: |
+          Invoke-WebRequest https://github.com/thpatch/thtk/releases/download/12/thtk-bin-12.zip -OutFile thtk.zip 
+          Expand-Archive thtk.zip -DestinationPath ${{runner.temp}} && Remove-Item thtk.zip
+      - name: Adds THTK to PATH ${{runner.temp}}
+        run: |
+          echo "$((Get-Item ${{runner.temp}}).FullName)\thtk-bin-12" | Out-File -FilePath $env:GITHUB_PATH -Encoding utf8 -Append
+      
+      # All the build shit now.
+      - name: Change directory
+        run: | 
+          cd ${{github.workspace}}\th08-dat\
+        
+      - name: Pack .anm files. Use ${{github.workspace}} as it requires the full path
+        run: |
+          $files = Get-ChildItem ${{github.workspace}}\anmlist | ForEach-Object {$_.Name}
+          foreach ($file in $files) {
+          Set-Location ${{github.workspace}}\anmlist
+          $lines = Get-Content $file
+          foreach ($line in $lines) {
+          thanm -r ${{github.workspace}}\th08-dat\$file $line ${{github.workspace}}\th08-dat\$line}}
+
+      # - name: Pack .msg files
+      #   run: 
+          
+      # Clean up before packing
+      - name: Remove data folder and *.txt files 
+        run: |
+          Remove-Item -Recurse -Force ${{github.workspace}}\th08-dat\data\
+          Remove-Item -Exclude ${{github.workspace}}\th08-dat\musiccmt.txt -Force ${{github.workspace}}\th08-dat\*.txt
+          
+      # Final packing step. might need to change directory back
+      - name: Pack
+        run: thdat -c8 th08.dat ${{github.workspace}}\th08-dat\*
+
+          
+      # Build artifact of th08.dat. UNCOMMENT when done
+      - name: Upload th08.dat
+        uses: actions/upload-artifact@v4
+        with:
+          name: th08.dat
+          path: ${{ github.workspace}}\th08.dat     
