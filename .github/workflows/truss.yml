@@ -36,12 +36,15 @@ jobs:
           $lines = Get-Content $file
           foreach ($line in $lines) {
           thanm -r ${{github.workspace}}\th08-dat\$file $line ${{github.workspace}}\th08-dat\$line}}
+
+      # - name: Pack .msg files
+      #   run: 
           
       # Clean up before packing
       - name: Remove data folder and *.txt files 
         run: |
           Remove-Item -Recurse -Force ${{github.workspace}}\th08-dat\data\
-          Remove-Item -Force ${{github.workspace}}\th08-dat\*.txt
+          Remove-Item -Exclude ${{github.workspace}}\th08-dat\musiccmt.txt -Force ${{github.workspace}}\th08-dat\*.txt
           
       # Final packing step. might need to change directory back
       - name: Pack
