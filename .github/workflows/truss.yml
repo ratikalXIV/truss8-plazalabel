@@ -32,10 +32,10 @@ jobs:
         run: |
           $files = Get-ChildItem ${{github.workspace}}\anmlist | ForEach-Object {$_.Name}
           foreach ($file in $files) {
+          Set-Location .\anmlist
           $lines = Get-Content $file
           foreach ($line in $lines) {
           thanm -r ${{github.workspace}}\th08-dat\$file $line ${{github.workspace}}\th08-dat\$line}}
-          working-directory: ${{github.workspace}}\anmlist
           
       # Clean up before packing
       - name: Remove data folder and *.txt files 
