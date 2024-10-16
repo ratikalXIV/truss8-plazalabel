@@ -3,140 +3,144 @@ entry 0
 	1;2;2
 @60
 	17;2;6
-	16;You're so persistent.
+	16;You fucking Touhou fans are so persistent.
 	4;500
 	1;0;1
 	1;1;1
-	15;0;2;2;-2;-1
-	16;Think what you want.
+	17;0;6
+	16;I DON'-
 	4;500
 @61
-	17;0;6
-	16;A human village was supposed to be here, right?
+	17;1;3
+	16;GOOOOOD, SHUT UP.
 	4;500
 @62
-	17;0;6
-	16;But there's nothing here. What happened to the
-	16;humans and their houses and everything!?
+	17;1;9
+	16;EC, my neighbor. What were you saying back there?
+	16;I didn't catch it over this child.
 	4;500
 @63
 	17;2;2
-	16;Nothing.
+	16;It's Mork.
 	4;500
 @64
 	17;2;8
-	16;I merely hid the village from your kind.
+	16;I've been nooticing something on the mod chat.
+	16;But I can't say much, it's confidential, ha.
 	8;2;0;Keine Kamishirasawa
 	4;500
 @65
 	17;1;2
-	16;Reimu, we don't have time to stick around here.
+	16;For fuck's sake. I stopped watching Mork
+	16;AGES ago, I just want to get out of this game.
 	4;500
 @66
 	17;1;8
-	16;The moon sinks lower with every moment.
+	16;Spill it, Lieutenant Columbo.
 	4;500
 @67
 	17;0;8
-	16;We're not exactly sticking, but hold on.
+	16;Hold on a second Rez..
+	16;Something seems off about this.
 	4;500
 @68
 	17;0;6
-	16;I can't just ignore a youkai that destroyed
-	16;a whole village.
+	16;EC, How's your day?
 	4;500
 @69
 	17;2;3
-	16;"Humans never settled here in the first place."
+	16;My day was fantastic Baf, thank you for asking.
 	4;500
 @70
 	17;2;2
-	16;All I did was make it look that way.
+	16;But something is up with Mork, something bad.
+	16;I think it's about that shitty CAVE game.
 	4;500
 @71
 	17;2;3
-	16;I'll protect the humans from this dangerous 
-	16;night.
+	16;I'd rather play GayCrisis stage 1 for hours
+	16;before touching DoDonPachi.
 	4;500
 @72
 	17;1;5
-	16;Hey, you know.
+	16;Stop tick-point milking me EC.
 	4;500
 @73
 	17;1;2
-	16;I can see humans whenever I want.
+	16;Tell us what Mork is doing with DDP,
+	16;and make it QUICK.
 	4;500
 @74
 	17;1;2
-	16;This little trick of yours isn't useful
-	16;at all.
+	16;I'm losing so much money from this conversation!
+	16;I could be hiring jeets on fiverr right now.
 	4;500
 @75
 	17;2;9
-	16;!
+	16;Hmmm! Well well..
 	4;500
 @76
 	17;2;9
-	16;What exactly are you two?
+	16;Do y'all remember that shitty romhack of DDP?
 	4;500
 @77
 	17;0;7
-	16;Don't worry. It's invisible enough to me.
+	16;Trap Label?
 	4;500
 @78
 	17;2;8
-	16;Uu. Your pity isn't helping.
+	16;Ooh, so close lil' ol' Baf. But it's Blue Label.
+	16;And he's trying to 2-ALL it..
 	4;500
 @79
 	17;1;2
-	16;And you.
+	16;FAKE INTEREST Oh my GOD dude.
 	4;500
 @80
 	17;1;2
-	16;You're a half-beast, right?
+	16;Who CARES about that shitty romhack.
+	16;Why is this important?
 	4;500
 @81
 	17;2;6
-	16;I'm human when the moon isn't full.
+	16;You guys didn't hear of the legends?
 	4;500
 @82
-	17;1;2
-	16;Not much different from a human-faced-dog
-	16;or human-faced-rock, then.
+	17;1;9
+	16;Legends?
 	4;500
 @83
 	17;2;8
-	16;Why does everything except my face have to 
-	16;change? It's a complete transformation.
+	16;"The one who can 2-ALL Blue, will have his
+	16;wishes granted true."
 	4;500
 @84
-	17;1;2
-	16;Oh, but you could have a head of a horse or cow.
-	16;Just transform your head to a beast if you want.
+	17;1;9
+	16;If Mork gets his 2-ALL credential...
 	4;500
 @85
 	17;2;6
-	16;...Fine.
+	16;The shmup community as we know it,
+	16;will be overtaken by The Electric Underground.
 	4;500
 @86
 	17;2;2
-	16;If you're going to say that much,
-	16;I'll make sure you won't be able to take it back.
+	16;But I've said too much.
+	16;It's not like you'll get to Mork in time!
 	4;500
 @87
 	17;2;3
-	16;I will feast upon your history tonight!
+	16;Afterall, I am a $5 Patreon supporter!
 	7;1
 	4;500
 @88
 	17;1;3
-	16;Myself aside, I'd say her history would amount 
-	16;to a light snack at best.
+	16;Why the fuck would you give him money!?
 	4;500
 @89
 	17;0;8
-	16;Shut up.
-	16;My days are a cupful of exquisite Chinese tea.
+	16;I-a always knew you supported Mork too much..
+	16;By the way there is a safespot on Spell 3.
 	4;500
 	5;0;5
 	5;1;5
@@ -154,51 +158,50 @@ entry 1
 	1;2;2
 @60
 	15;0;4;8;10;-1
-	16;Restore that human village, now!
+	16;EC, tell me where Mork has going.
 	4;500
 @61
 	17;1;5
-	16;It's fine either way.
-	16;The humans here don't think much of you.
+	16;Nice bafglish faggot.
 	4;500
 @62
 	17;2;-2
-	16;Tell me, where are you trying to go anyway?
+	16;Do you even know where to find Mork?
 	4;500
 @63
 	17;1;3
-	16;That way.
+	16;Through the boonies into Boise, Idaho?
 	4;500
 @64
 	17;0;3
-	16;This way.
+	16;North?
 	4;500
 @65
 	17;2;-2
-	16;...
+	16;...*sigh*
+	16;You zoomers.
 	4;500
 @66
 	17;2;-2
-	16;If you're after the ones behind the abnormal
-	16;moon, it's that way.
+	16;If you paid ANY attention to the latest
+	16;Shmup Slams, you'd know it was in Meridian.
 	4;500
 @67
 	17;0;2
-	16;Hah, I was right. 
+	16;That sounds like a city in Italy!
 	4;500
 @68
 	17;1;3
-	16;Reimu, your finger is off from hers by 70 
-	16;degrees.
+	16;Baf why the fuck would Mork go to Italy?
+	16;It was hard enough for him to go to Chicago.
 	4;500
 @69
 	17;0;3
-	16;But you're off by 110-- 
-	16;Wow, you're sharp, figuring out our destination.
+	16;There's so much to do here! 
 	4;500
 @70
 	17;1;8
-	16;I'd be more surprised if she didn't notice.
+	16;baaaf cap baaaaf cap
 	4;500
 	13;0
 @130
@@ -219,21 +222,22 @@ entry 2
 	15;0;2;2;2;-1
 @61
 	17;2;2
-	16;So, it's you two who are trying to attack
-	16;the village in the middle of the night.
+	16;Look's like I've just been joined by my young
+	16;pal, the man with the cap, Touhou Baffo.
 	4;500
 @62
 	17;0;6
-	16;Are you the one who did this?
-	16;Where did you hide the humans and their village?
+	16;That's not-a what the TH stands for!
+	16;It stands for THE!
 	4;500
 @63
 	17;2;6
-	16;I can't hand over the humans to you youkai.
+	16;Whatever you say, Baf.
 	4;500
 @64
 	17;2;2
-	16;I'll make sure this night never happened!
+	16;I'll make sure you never get on another
+	16;Shmup Slam again!
 	4;500
 	5;0;5
 	5;1;5
@@ -253,11 +257,13 @@ entry 3
 	15;0;2;2;3;-1
 @61
 	17;2;9
-	16;Wha... what the heck are you?
+	16;That gay Radiant Shittercunt pattern didn't work?
+	16;Whatever, it'll be the end for you two soon, ha.
 	4;500
 @62
 	17;0;6
-	16;Hey, bring the village back!
+	16;Rezardi! Why didn't you use the safespot?
+	16;It was right in the middle of the screen!
 	4;500
 	5;0;5
 	5;1;5
