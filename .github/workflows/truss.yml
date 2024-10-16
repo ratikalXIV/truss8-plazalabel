@@ -24,9 +24,9 @@ jobs:
           echo "$((Get-Item ${{runner.temp}}).FullName)\thtk-bin-12" | Out-File -FilePath $env:GITHUB_PATH -Encoding utf8 -Append
       
       # All the build shit now.
-      - name: Change directory
-        run: | 
-          cd ${{github.workspace}}\th08-dat\
+      #- name: Change directory
+      #  run: | 
+      #    cd ${{github.workspace}}\th08-dat\
         
       - name: Pack .anm files. Use ${{github.workspace}} as it requires the full path
         run: |
@@ -39,13 +39,15 @@ jobs:
 
       - name: Pack .msg files (only for msg3a.dat atm)
         run: |
-          thmsg -c8 ${{github.workspace}}/th08-dat/msg3a.dat.txt ${{github.workspace}}/th08-dat/msg3a.dat
+          $files = Get-ChildItem ${{github.workspace}}\msgdat | ForEach-Object {$_.BaseName}
+          foreach ($file in $files) {
+          thmsg -c8 ${{github.workspace}}/msgdat/$file.txt ${{github.workspace}}/th08-dat/$file.dat
+          }
           
       # Clean up before packing
       - name: Remove data folder and *.txt files 
         run: |
-          Remove-Item -Recurse -Force ${{github.workspace}}\th08-dat\data\
-          Remove-Item -Exclude ${{github.workspace}}\th08-dat\musiccmt.txt -Force ${{github.workspace}}\th08-dat\*.txt
+          Remove-Item -Recurse -Force ${{github.workspace}}\th08-dat\data
           
       # Final packing step. might need to change directory back
       - name: Pack
