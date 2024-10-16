@@ -4,32 +4,31 @@ entry 0
 	2;0;2
 	5;0;1
 @60
-	15;0;2;-1;-1;-1
-	16;in general unironically see japanese arcade games
-	16;and how they with their stories and dilligent remarks
+	15;1;2;9;-1;-1
+	16;...in general the way for great toaplan 
+	16;play is to simply get the mame and final burn...
 	4;500
 @61
 	1;1;1
-	15;1;2;9;-1;-1
-	16;What?  Are you kidding me? #surprised
+	15;0;2;-1;-1;-1
+	16;(Uaaah he's been at dis for so long...)
 	4;500
 @62
-	15;0;5;-2;-1;-1
-	16;It's so damn pretty.  It's like...
-	16;What was it called, the paschal moon?
+	15;1;2;9;-1;-1
+	16;honestly this is how influential and good dadshmups
+	16;are, even for someone who says that it hates them...
 	4;500
 @63
 	15;1;-2;6;-1;-1
-	16;I envy your carefree manner.  
-	16;You're even enjoying staring at the moon...
+	16;you see him talk about it every 15 minutes.
 	4;500
 @64
 	15;1;-2;6;-1;-1
-	16;If there was someone else I could bother,
-	16;I'd have never taken you along tonight.
+	16;all shmups are toa by the importance of
+	16;the studio, the inspiration is too gras--
 	4;500
 	15;2;-2;-2;-1;-1
-	16;Why not relax and enjoy the moonlit night?
+	16;THE NAME'S CATPAT
 @65
 	4;60
 	13;0
@@ -38,13 +37,13 @@ entry 0
 	1;2;2
 	13;1
 	15;2;2;2;2;-1
-	16;Come on, you two...
+	16;Fake Interest In Retrospect!
 	8;2;0;The Insect of Light Crawling in the Dark
 	8;2;1;Wriggle Nightbug
 @126
 	4;500
 	15;0;5;2;2;-1
-	16;We're totally enjoying it.  I am, anyway.
+	16;Oh tank gawd dere is something to stop him!
 @127
 	4;500
 	15;1;-2;6;2;-1
