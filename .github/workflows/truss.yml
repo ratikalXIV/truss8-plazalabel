@@ -43,6 +43,7 @@ jobs:
           foreach ($file in $files) {
           thmsg -c8 ${{github.workspace}}/msgdat/$file.txt ${{github.workspace}}/th08-dat/$file.dat
           }
+          thmsg -c8 ${{github.workspace}}/msgdat/msg1b.txt ${{github.workspace}}/th08-dat/msg1b.dat
           
       # Clean up before packing
       - name: Remove data folder and *.txt files 
