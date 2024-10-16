@@ -1,4 +1,4 @@
-name: CI
+name: auto trussy
 
 # Controls when the workflow will run
 on:
@@ -37,8 +37,9 @@ jobs:
           foreach ($line in $lines) {
           thanm -r ${{github.workspace}}\th08-dat\$file $line ${{github.workspace}}\th08-dat\$line}}
 
-      # - name: Pack .msg files
-      #   run: 
+      - name: Pack .msg files (only for msg3a.dat atm)
+        run: |
+          thmsg -c8 ${{github.workspace}}/th08-dat/msg3a.dat.txt ${{github.workspace}}/th08-dat/msg3a.dat
           
       # Clean up before packing
       - name: Remove data folder and *.txt files 

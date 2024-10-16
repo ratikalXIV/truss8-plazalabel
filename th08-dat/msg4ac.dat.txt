@@ -3,7 +3,7 @@ entry 0
 	15;2;-1;-1;-1;-1
 @60
 	15;2;-1;-1;-1;-1
-	16;Stop right there!
+	16;Quit stalking me!!
 @61
 	4;60
 	13;0
@@ -12,49 +12,46 @@ entry 0
 	1;2;2
 	13;1
 	17;2;6
-	16;It was you after all.
+	16;(baf: rant about ric and ngmi "stalking")
 	4;500
-	16;No wonder I thought the flow of time seemed 
-	16;weird. 
+	16;(baf: rant about the ai songs and images)
 	4;500
 	1;0;1
 	1;1;1
 	15;0;2;2;-2;-1
-	16;What are you talking about?
+	16;Baf, you ran into US...
 	4;500
 @122
 	17;1;5
-	16;You're always doing weird things, right?
-	16;That's Sakuya for you.
+	16;What's the matter baf? You can't take
+	16;the bantz? It's just a joke...
 	4;500
 @123
 	17;0;7
-	16;Ah, you're cruel.
+	16;Baffo cappo
 	4;500
 @124
 	17;2;2
-	16;Yeah, you always do weird things.
-	16;But this time you went too far.
+	16;I'm not-a cappin' this time! I'm tired
+	16;of you spreading lies about me!
 	4;500
 @125
 	17;2;2
-	16;You know, this reminds me of the Scarlet Mist...
+	16;I don't play Touhou, I wake up early,
+	16;and I got a new job 1 day a week!
 	8;2;0;Reimu Hakurei
 	4;500
 @126
 	17;1;8
-	16;But, even though Sakuya's doing weird things,
-	16;they're not the weirdest by far.
+	16;...
 	4;500
 @127
 	17;0;2
-	16;Right now, we're on our way to punish the 
-	16;real culprit.
+	16;..."So hows your day?"
 	4;500
 @128
-	17;2;2
-	16;Maybe you could fool a bird with your lame 
-	16;excuse. You won't trick me, though.
+	17;2;6
+	16;(triggered rant)(try to change portrait in angry)
 	4;500
 @129
 	17;2;6

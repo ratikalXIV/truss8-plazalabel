@@ -3,84 +3,86 @@ entry 0
 	1;2;2
 @60
 	17;2;9
-	16;Wait, waaaait! 
+	16;WHUUUUT, HUUUUUUUUH?
 	4;500
 	1;0;1
 	1;1;1
 	17;0;2
-	16;We're in a hurry. 
-	16;I'll listen if you follow us.
+	16;fake interest
 	4;500
 	17;2;9
-	16;So you won't stop even if I ask.
-	16;...A human and a bat? That's an unusual pair.
+	16;(react to fake interest)
 @61
 	4;500
 	17;2;2
-	16;Humans are what I'm after, though, not bats.
+	16;(another react)
 	8;2;0;Mystia Lorelei
 @62
 	4;500
 @63
 	17;1;5
-	16;Shit. Is it the brats' night out?
+	16;I can't believe a pigeon like you is
+        16;still trying to milk social credit. 
 	4;500
 	17;2;9
-	16;But of course.
-	16;Well-behaved children sleep during the day...
+	16;I'm doing better than you! What's your follower
+	16;count!?
 @64
 	4;500
 	17;2;3
-	16;The night is for man-hunting!
+	16;(more arrogance about clout)
 @65
 	4;500
 @66
 	17;1;3
-	16;Too bad we're in a hurry.
-	16;So, mind getting shot down right now?
+	16;The players with REAL interest don't care
+	16;about clout. 
 	4;500
 	17;2;6
-	16;Didn't I say to wait? 
+	16;Who are you to say that to me!? Especially,
+	16;that frog? "Fake interest"! Ack!
 @67
 	4;500
 	17;0;8
-	16;My Lady.
+	16;Two words...
+	16;It only takes two words...
 @68
 	4;500
 	17;0;2
-	16;We shouldn't stoop to this thing's level; 
-	16;there isn't time.
+	16;(ai song quote)
+	16;
 @69
 	4;500
 	17;1;2
-	16;True.
+	16;(ai song quote follow-up)
 @70
 	4;500
 	17;2;6
-	16;Don't joke around!
+	16;(start crying about being mocked by ai songs)
 @71
 	4;500
 	17;2;6
-	16;Aren't you scared by birds flying in the night? 
+	16;(mention words childish, stalker, doxxed
+	16;act like a victim)
 @72
 	4;500
 	17;1;2
-	16;You mean fried chicken?
-	16;I prefer human.
+	16;(mention Aktane being part of the gang)
+	16;(insult him)
 @73
 	4;500
 	17;0;7
-	16;(What does she mean?)
-	16;My Lady, she said "fly", not "fry".
+	16;(Ric doesn't stop with this "gang" nonsense)
 @74
 	4;500
 	17;2;3
 	16;Whatever.
-	16;I'll show you the true terror of darkness!
+	16;I'll show you why you're both exiles!
 @75
 	4;500
 	17;0;8
-	16;"Terror of darkness", hmm...
+	16;And we'll show you why you'll always
+	16;be a joke!
 @76
 	4;500
 	7;1
@@ -99,25 +101,26 @@ entry 1
 	1;1;1
 @60
 	15;1;4;5;-1;-1
-	16;Now, Sakuya. To fry that bird, or go on ahead, 
-	16;which shall we do?
+	16;One less shmigger in the wild. The more
+	16;we get rid of, the better.
 @61
 	4;500
 	17;0;7
-	16;Let's ignore that small fry and get back to
+	16;"Fishpogtane, (fishpogtane song quote)
 	16;work.  The night is short.
 @62
 	4;500
 	17;0;2
-	16;By the way, why are we heading this way?
+	16;(another fishpogtane song quote)
 @63
 	4;500
 	17;1;3
-	16;Hm? Refuelling.
+	16;Oh shit, I just thought of a good concept
+	16;for another bearded milker song.
 @64
 	4;500
 	17;0;2
-	16;......
+	16;Let's hear it when we get back!
 @65
 	4;500
 	13;0
