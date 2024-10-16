@@ -32,7 +32,7 @@ jobs:
         run: |
           $files = Get-ChildItem ${{github.workspace}}\anmlist | ForEach-Object {$_.Name}
           foreach ($file in $files) {
-          Set-Location .\anmlist
+          Set-Location ${{github.workspace}}\anmlist
           $lines = Get-Content $file
           foreach ($line in $lines) {
           thanm -r ${{github.workspace}}\th08-dat\$file $line ${{github.workspace}}\th08-dat\$line}}
