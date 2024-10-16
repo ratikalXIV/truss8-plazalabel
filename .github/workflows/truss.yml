@@ -21,7 +21,7 @@ jobs:
           Expand-Archive thtk.zip -DestinationPath ${{github.workspace}} && Remove-Item thtk.zip
       - name: Adds THTK to PATH ${{runner.temp}}
         run: |
-          echo "$((Get-Item ${{github.workspace}}}).FullName)\thtk-bin-12" | Out-File -FilePath $env:GITHUB_PATH -Encoding utf8 -Append
+          echo "$((Get-Item ${{github.workspace}}).FullName)\thtk-bin-12" | Out-File -FilePath $env:GITHUB_PATH -Encoding utf8 -Append
       
       # All the build shit now.
       - name: Change directory
@@ -29,19 +29,19 @@ jobs:
           cd ${{github.workspace}}\th08-dat\
           Get-ChildItem 
         
-      - name: Pack .anm files.
+      - name: Pack .anm files. Use ${{github.workspace}} as it requires the full path
         run: |
-          thanm -r player00.anm data/player00/player00.png .\data\player00\player00.png
+          thanm -l ${{github.workspace}}\th08-dat\face_rm00.anm | Out-File ${{github.workspace}}\th08-dat\specs.txt
+          Start-Process -WorkingDirectory ${{github.workspace}}\th08-dat -NoNewWindow thanm -c ${{github.workspace}}\th08-dat\face_rm00.anm ${{github.workspace}}\th08-dat\specs.txt
           
       # Clean up before packing
       - name: Remove data folder and *.txt files 
         run: |
           Remove-Item -Recurse -Force ${{github.workspace}}\th08-dat\data\
-          
-      # Remove-Item -Force ${{github.workspace}}\th08-dat\*.txt
+          Remove-Item -Force ${{github.workspace}}\th08-dat\*.txt
           
       # Final packing step. might need to change directory back
-      - name: Pack (will be messy)
+      - name: Pack
         run: thdat -c8 th08.dat ${{github.workspace}}\th08-dat\*
 
           
