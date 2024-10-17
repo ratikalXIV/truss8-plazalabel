@@ -1,9 +1,9 @@
-entry 0
+﻿entry 0
 @0
 	15;2;-1;-1;-1;-1
 @60
 	15;2;-1;-1;-1;-1
-	16;Freeze!
+	16;STAHP!
 @61
 	4;60
 	13;0
@@ -12,120 +12,120 @@ entry 0
 	1;2;2
 	13;1
 	17;2;6
-	16;I was wondering who was behind all this
-	16;trouble tonight.
+	16;The milk in both of you is strong, i wilL
 	4;500
-	16;So it was you, Marisa!
+	16;Do the garegga interrogations
 	4;500
 	1;0;1
 	1;1;1
 	15;0;2;2;-2;-1
-	16;Hey, don't slander me.
-	16;The villain's this girl over here.
+	16;Plz don’t do that.
+	16;We don’t have milk.
 	4;500
 @122
 	17;1;6
-	16;What?!
-	16;You're no different, Marisa!
+	16;We actually want to fight it
+	16;If you let us pass we can gi-
 	4;500
 @123
 	17;2;2
-	16;What are you thinking, coming out
-	16;and doing such terrible things?
-	8;2;0;MIKOSAN MIKOSAN
+	16;STOP! It seems that you are a
+	16;part of the CULT!
+	8;2;0;MIKOSAN MIKOSA
 	4;500
 @124
 	17;0;7
-	16;Er... not really...
-	16;Reimu, we're just...
+	16;BAF, we are outside of it
+	16;We were fighting it 30 seconds a-
 	4;500
 @125
 	17;1;8
-	16;Why all the stuttering?
-	16;Just yell at her like you always do.
+	16;BAF, we literally are going to destroy
+	16;the cult! We don’t have much time!
 	4;500
 @126
 	17;1;2
-	16;"Bitch, get out of the way!"
-	16;Like that.
+	16;STOP CAPPING AND LET US PASS!
+	16;DO IT
 	4;500
 @127
 	17;0;2
-	16;No, don't!
-	16;We'll be in for it if she gets mad!
+	16;Jheng, you don’t know how he milks
+	16;when he gets angry, don-
 	4;500
 @128
 	17;2;6
-	16;Cat's got your tongue, eh?
+	16;Ok, you will be broken
 	4;500
 @129
 	17;2;2
-	16;Get over here.  Tonight, I'll
-	16;teach you a lesson you won't forget!
+	16;”..s ss s s s s”
+	16;”d. D .d  d s.d. k. n. k. y”
 	4;500
 @130
 	17;1;6
-	16;Silly shrine maiden.
-	16;Can't you see what's wrong with the moon?
+	16;YOU ARE LITERALLY MUMBLING! the cult has
+	16;a wish pcb and bullet hell propaganda 
 	4;500
 @131
 	17;1;2
-	16;It's so obvious by now,
-	16;even you could notice it!
+	16;by the signs i investigated.
+	16;stop thinking with your ego!
 	4;500
 @132
 	17;2;2
-	16;Ahh!
+	16;CAP
 	4;500
 @133
 	17;2;6
-	16;Corrupting the moon, too?  How dare you?!
+	16;You are being deceptive to hide the cult!
 	4;500
 @134
 	17;0;2
-	16;Okay, okay, I give up.
+	16; Ok BAF.
 	7;1
 	4;500
 @135
 	17;0;5
-	16;You're right.
-	16;The endless night, and stealing the full moon,
+	16;we have info from ec and he showed proof
+	16;We literally have the logs, take THEM!
 	4;500
 @136
 	17;0;2
-	16;and hiding the human village,
-	16;and putting funny hats on stone statues...
+	16;We need to pass and unless you want to help
+	16;you are just shmigging
 	4;500
 @137
 	17;0;8
-	16;It's all Alice's fault.
+	16;Jheng, that was insane as well, you
+	16;are being schizo 
 	4;500
 @138
 	17;0;3
-	16;Now, bitch, get out of the way!
+	16;Now move aside baf
 	4;500
 @139
 	17;2;8
-	16;All right, if that's how you want it.
+	16;You are concealing, you are trying try-
 	4;500
 @140
 	17;2;2
-	16;In this luminous soil, under the moonlight...
+	16;trying to insult me behind my back
 	4;500
 @141
 	17;2;2
-	16;You two will make such a beautiful pair
-	16;when I grind you both into it.
+	16;while working with the CULT
+	16;i will destroy your manipulations
 	4;500
 @142
 	17;1;3
-	16;I must confess, you've taken
-	16;the words right out of my mouth.
+	16;so this is what you believe?
+	16;STOP CAPPING
 	4;500
 @143
 	17;2;3
-	16;Come on!
-	16;Let's settle this and stop the endless night!
+	16;Your manipulations won’t let me destroy your
+	16;cult, let’s fight.
 	4;500
 	5;0;5
 	5;1;5
@@ -143,40 +143,41 @@ entry 1
 	1;2;2
 @60
 	15;0;4;8;10;-1
-	16;Okay, let's move on.
+	16;Let’s run now!
 	4;500
 @61
 	17;1;2
-	16;Our goal is finally in sight.
+	16;We are getting there!
 	4;500
 @62
 	17;2;-2
-	16;If you really insist...
-	16;Just don't go too far, okay?
+	16;BAF CAP BAF CAP
+	16;”.e” “re”.”r.e”
 	4;500
 @63
 	17;1;3
-	16;Sorry, did you say something?
+	16;Stop baf plz, you can be at peace
+	16;just accept your errors and follow onward!
 	4;500
 @64
 	17;0;3
-	16;Wow, I didn't know there was such a big
-	16;mansion in the middle of this bamboo forest.
+	16;What?! A FUCKING AIRBNB?
+	16;This can’t be the real location.
 	4;500
 @65
 	17;2;-2
 	16;Huh?
-	16;Oh, neither did I...
+	16;O-o-ok, i fucked up after analyzing what i did
 	4;500
 @66
 	17;1;2
-	16;Bye bye, now.  It's time for little
-	16;children and losers to go home.
+	16;It’s ok baf!
+	16;Just stop being a fat mumbling retard.
 	4;500
 @67
 	17;0;3
-	16;Looks like game over for you, Reimu.
-	16;See ya later!
+	16;Now let’s go!
+	16;We have to defeat the cult!
 	4;500
 	13;0
 @127
@@ -194,12 +195,12 @@ entry 2
 	1;1;1
 @60
 	15;0;2;2;-1;-1
-	16;Oh?
-	16;It's unusual for her to retreat.
+	16;Eh, it’s sleeping! (6 am)
+	16;Predictable!
 	4;500
 @61
 	17;1;2
-	16;Keep going, Marisa.
+	16;Let’s run now!
 	4;500
 	5;0;5
 	5;1;5
@@ -216,16 +217,17 @@ entry 3
 	1;2;2
 @60
 	15;2;2;8;2;-1
-	16;Now, I'll show you two the true
-	16;power of my boundary!
+	16;I slept a bit more
+	16;now i have to defeat the cult
 	4;500
 @61
 	17;0;2
-	16;What's the point of doing it again?
+	16;Baf, come to your senses, you are just 
+	16;being retarded
 	4;500
 @62
 	17;2;6
-	16;There's two of you, so I get two tries!
+	16;I will do everything to stop you!
 	4;500
 	5;0;5
 	5;1;5

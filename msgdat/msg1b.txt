@@ -11,7 +11,7 @@ entry 0
 @61
 	1;1;1
 	15;1;2;9;-1;-1
-	16;Thank you for taking me with you master 
+	16;Thank you for taking me with you 
 	16;CPS. In general. I hope to be a 
 	4;500
 @62
@@ -21,7 +21,7 @@ entry 0
 @63
 	15;0;2;-1;-1;-1
 	16;It takes time little Jheng but soon you will
-	16;learn the ways of the MILK.
+	16;learn da ways of the MILK.
 	4;500
 @64
 	15;0;5;2;2;-1
@@ -106,21 +106,20 @@ entry 1
 	1;1;1
 @60
 	15;0;7;4;-1;-1
-	16;You realize firefly hunting is about catching
-	16;them, not beating them up, right?
+	16;Little Jheng...dat was a little overmilk...
 	4;500
 @61
 	17;1;6
-	16;Aw, I wanted to catch it
-	16;but you went and squashed it!
+	16;Sorry
 	4;500
 @62
 	17;0;2
-	16;Geez, this is lame...
+	16;Uaaahah! I teach you to milk better
 	4;500
 @63
 	17;0;2
-	16;Don't get me wrong, I was just dodging it!
+	16;I see pigeon in distance. I show you how dis is
+	16;done. 
 @64
 	4;500
 	13;0
