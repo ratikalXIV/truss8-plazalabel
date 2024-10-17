@@ -4,28 +4,29 @@ entry 0
 	2;0;2
 	5;0;1
 @60
-	15;1;2;9;-1;-1
-	16;...in general the way for great toaplan 
-	16;play is to simply get the mame and final burn...
+	15;0;2;-1;-1;-1
+	16;Heey Jheng, Social Credit is best
+	16;collected in jars.
 	4;500
 @61
 	1;1;1
-	15;0;2;-1;-1;-1
-	16;(Uaaah he's been at dis for so long...)
+	15;1;2;9;-1;-1
+	16;Thank you for taking me with you 
+	16;CPS. In general. I hope to be a 
 	4;500
 @62
 	15;1;2;9;-1;-1
-	16;honestly this is how influential and good dadshmups
-	16;are, even for someone who says that it hates them...
+	16;milking master like you!
 	4;500
 @63
-	15;1;-2;6;-1;-1
-	16;you see him talk about it every 15 minutes.
+	15;0;2;-1;-1;-1
+	16;It takes time little Jheng but soon you will
+	16;learn da ways of the MILK.
 	4;500
 @64
-	15;1;-2;6;-1;-1
-	16;all shmups are toa by the importance of
-	16;the studio, the inspiration is too gras--
+	15;0;5;2;2;-1
+	16;Uaah! I see yootoober coming now, you can have
+	16;dis one little Jheng. Good luck!
 	4;500
 	15;2;-2;-2;-1;-1
 	16;THE NAME'S CATPAT
@@ -37,43 +38,56 @@ entry 0
 	1;2;2
 	13;1
 	15;2;2;2;2;-1
+	16;THE NAME'S CATPAT
 	16;Fake Interest In Retrospect!
 	8;2;0;The Insect of Light Crawling in the Dark
 	8;2;1;Wriggle Nightbug
 @126
 	4;500
 	15;0;5;2;2;-1
-	16;Oh tank gawd dere is something to stop him!
+	16;Do it just like I taught yoo.
 @127
 	4;500
-	15;1;-2;6;2;-1
-	16;Well, I'm enjoying myself, too!
-	16;At least more than you, Marisa!
+	15;1;2;9;-1;-1
+	16;I must not let master CPS down...!
+	16;*inhales*
 @128
 	4;500
-	15;2;-2;-2;6;-1
-	16;Didn't you just say the exact opposite?
+	15;2;2;2;2;-1
+	16;Did you guys catch my Ketsui Retrospect-
 @129
 	4;500
-	15;1;-2;8;6;-1
-	16;Of course not.
-	16;I'm not watching the moon, I'm...
+	15;1;5;3;-2;-1
+	16;have understanding of the mechanics by going
+	16;forward without understanding the nuance, thus you
+	16;The thing is that you cannot care enough
+	16;of playing those games because you don't
 @130
 	4;500
-	15;0;5;-2;2;-1
-	16;Firefly watching, right?
+	15;1;5;3;-2;-1
+	16;correctly, it would be like saying that you can 
+	16;criticize rock music when you cannot pick an
+	16;	analysis cannot be complete because you
+	16;cannot see the depth that it has 
 @131
 	4;500
-	15;1;-2;8;2;-1
-	16;Almost, but not quite.  Very perceptive of you.
+	15;1;5;3;-2;-1
+	16;them, the simple fact that a person cannot
+	16;recognize the gameplay means that it loses the
+	16;instrument or that you can analyze
+	16;movies when you don't know how to direct
 @132
 	4;500
-	15;2;-2;8;3;-1
-	16;C'mon, I'll shoot first if you don't!
+	15;1;5;3;-2;-1
+	16;depth and characterization that those 
+	16;things reflect by the gameplay thus 
+	16;giving a disservice to the games and ironically
+	16;losing the profound parts of the story which... 
 @133
 	4;500
-	15;1;5;3;-2;-1
-	16;It's more like firefly HUNTING.
+	15;2;-2;8;3;-1
+	16;Holy shit...this is the guy who made that
+	16;essay in my comments...
 @134
 	4;500
 	7;1
@@ -92,21 +106,20 @@ entry 1
 	1;1;1
 @60
 	15;0;7;4;-1;-1
-	16;You realize firefly hunting is about catching
-	16;them, not beating them up, right?
+	16;Little Jheng...dat was a little overmilk...
 	4;500
 @61
 	17;1;6
-	16;Aw, I wanted to catch it
-	16;but you went and squashed it!
+	16;Sorry
 	4;500
 @62
 	17;0;2
-	16;Geez, this is lame...
+	16;Uaaahah! I teach you to milk better
 	4;500
 @63
 	17;0;2
-	16;Don't get me wrong, I was just dodging it!
+	16;I see pigeon in distance. I show you how dis is
+	16;done. 
 @64
 	4;500
 	13;0
