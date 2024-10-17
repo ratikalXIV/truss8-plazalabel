@@ -5,26 +5,26 @@ entry 0
 	5;0;1
 @60
 	15;0;2;-1;-1;-1
-	16;(Uaaah he's been at dis for so long...)
+	16;(Uaaah, Jheng is overmilk...)
 	4;500
 @61
 	1;1;1
 	15;1;2;9;-1;-1
-	16;remarks made a critique to the issues of 
-	16;japanese society for ab example, giving a
-	16;in general unironically see japanese arcade games
-	16;and how they with their stories and dilligent
+	16;dilligent remarks made a critique to the issues
+	16;of japanese society for ab example, giving a..
+	16;in general unironically see japanese arcade
+	16;games and how they with their stories and
 	4;500
 @62
 	15;1;2;9;-1;-1
-	16;through propaganda is a thing which generates
-    16;unironically this lack of perspective just like
-	16;blind sideline to that by seeing meaningful art 
-	16;pieces as meaningless thanks to their new medium
+	16;new medium through propaganda is a thing which 
+	16;generates unironically this lack of perspective
+	16;blind sideline to that by seeing meaningful
+	16;art pieces as meaningless thanks to their
 	4;500
 @63
 	15;1;-2;6;-1;-1
-	16;disregarding any lesson made by anyone
+	16;just like disregarding any lesson made by anyone.
 	4;500
 @64
 	15;1;-2;6;-1;-1
