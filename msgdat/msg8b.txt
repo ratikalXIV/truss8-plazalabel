@@ -5,18 +5,16 @@ entry 0
 	15;0;2;2;-1;-1
 @60
 	15;0;2;2;-1;-1
-	16;Nothing's happening... how eerie.
-	16;It's almost absurd.
+	16;Is dat who eye tink it is?
 @61
 	4;400
 	15;2;2;2;-1;-1
-	16;True terror exists far beyond
-	16;ordinary fear.
+	16;Cactu, is that you? I did my 5 hours
+	16;of books today.
 @62
 	4;400
 	15;2;2;2;-1;-1
-	16;A haunted house with nobody in it acting
-	16;like a ghost... Nothing's more terrifying.
+	16;Cactu? 
 @63
 	4;400
 	13;0
@@ -25,113 +23,118 @@ entry 0
 	1;2;2
 	13;1
 	17;2;5
-	16;Even Night Sparrows are drowned in the silence.
-	16;I didn't expect to meet any humans here.
+	16;Wait, CPS Brah! How did you get
+	16;here? Who is that with you?
 	4;500
 @124
 	17;0;2
-	16;Who are you?
+	16;Goose! Eet really is yoo.
 	4;500
 @125
 	17;1;8
-	16;Marisa, this girl...
+	16;honestly not what i imagined him to
+	16;look like.
 	4;500
 @126
 	17;2;2
-	16;I'm a human who's lived here a long time.
-	16;Don't worry, I don't want to eat you.
+	16;Boys, boys! Welcome to #ultramasochism!
+	16;Who is that guy behind you?
 	8;2;0;Cutemokou is Cute
 	4;500
 @127
 	17;0;8
-	16;A human?
-	16;You sure don't look like one.
+	16;Dis ees my pupil, little Jheng.
 	4;500
 @128
 	17;1;8
-	16;She's definitely human, Marisa...
-	16;But be careful.
+	16;hi gus.
 	4;500
 @129
 	17;2;2
-	16;So, what are you doing out this late?
+	16;So, what brings you here brah?
 	4;500
 @130
 	17;0;2
-	16;Harvesting bamboo shoots.
+	16;Eye am looking for more Social Credit.
 	4;500
 @131
 	17;1;2
-	16;A trial of guts.
+	16;same! same! same!
 	4;500
 @132
 	17;2;7
-	16;Uh, which one is it?
+	16;Nothing has changed with you, CPS
+	16;...Are you sure your boy is worthy?
 	4;500
 @133
 	17;0;2
-	16;That should've been obvious...
+	16;Wait till yoo see his walls.
 	4;500
 @134
 	17;2;5
-	16;A human and a youkai, under the full moon...
+	16;Anyways, brahs. That EoSD is something else.
 	4;500
 @135
 	17;2;2
-	16;Does the human have any guts?
+	16;Cactu got me on that good training regimen.
 	4;500
 @136
 	17;2;3
-	16;Maybe her guts are hard and stiff.
-	16;Or maybe she's just a fool.
+	16;I just stay indoors and grind books for
+	16;weeks. I'll get 800m next year.
 	4;500
 @137
 	17;0;7
-	16;Are you really human?
+	16;Goose...come back to da plaza.
 	4;500
 @138
 	17;0;8
-	16;Humans aren't usually so fond of eating
-	16;guts... Well, unless they're zombies.
+	16;Weethout Ulltooramaneeyah, eye only ave
+	16;seven playsis to post my runs.
 	4;500
 @139
 	17;1;2
-	16;Do you think she's alive?
+	16;honestly it would be nice to have a stream
+	16;relay again as it foster community growth
 	4;500
 @140
 	17;1;2
-	16;She looks dead to me, somehow...
-	16;Or was she revived?
+	16;i played daisenpuu for the TOAPOWER. do you know
+	16;what toapower is gus? toa power is th-
+	16;and when i did one with ricardo
+	16;he let me talk it was really fun 
 	4;500
 @141
 	17;2;6
-	16;How rude, treating me like a ghost...
+	16;Brah, what the fuck are you on about?
 	4;500
 @142
 	17;2;5
-	16;However, that's almost correct.  Your
-	16;ability to see through illusions is impressive.
+	16;Anyways, Cactu said I could do another
+	16;Ultramania when I hit 900m.
 	4;500
 @143
 	17;0;2
-	16;So, you ARE a zombie, then?
+	16;Uuaaaah! Dat ees eemposseebol
 	4;500
 @144
 	17;2;2
-	16;Actually...
+	16;Yeah brah...
+	16;Such is the life of Gusyphus.
 	4;500
 @145
 	17;2;2
-	16;Death is no longer part of my existence.
+	16;Cactu gave me some of that cocaine to keep
+	16;me grinding.
 	4;500
 @146
 	17;2;2
-	16;To be without death is to be without life.
+	16;Them druggy playin MMO's were sure on to
+	16;something.
 	4;500
 @147
 	17;2;2
-	16;Free from the boundaries of life and death...
-	16;I'm as human as they come.
+	16;My mom also sent me like 
 	4;500
 @148
 	17;2;3
@@ -430,14 +433,14 @@ entry 2
 	13;0
 @60
 	15;2;2;2;2;-1
-	3;2;0;I've been waiting for you.
+	3;2;0;Only Touhou players are allowed here.
 @140
-	3;2;0;Challenging me on the full moon?  You have guts.
+	3;2;0;Take your toapower and dadshit elsewhere. 
 @230
-	3;0;0;Well, good, we're on a trial of guts anyway.
+	3;0;0;But we een Eeemparasheball Night...
 	15;0;7;2;2;-1
 @320
-	3;2;0;I won't let you lay a finger on her!
+	3;2;0;I didn't hear "Embodiment of Scarlet Devil"!
 	15;2;2;2;2;-1
 @400
 	5;0;5
