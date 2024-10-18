@@ -3,125 +3,127 @@ entry 0
 	1;2;2
 @60
 	17;2;6
-	16;Mmm, I can't retreat any farther.
+	16;I should've used the Radiant Shittercunt...
 	4;500
 	1;0;1
 	1;1;1
 	15;0;2;2;-2;-1
-	16;C'mon, surrender the humans to us now!
+	16;How aboot yoo use your "GayStorm"?
 	4;500
 @61
 	17;1;9
-	16;Wait, wait, Marisa!
+	16;its too bad you don't know any toa power attacks
 	4;500
 @62
 	17;1;6
-	16;Since when are going to eat the humans?
+	16;honestly, that would be really cool!
 	4;500
 @63
 	17;2;8
-	16;Heh.  It's quite rare that youkai
-	16;would dare to attack this village. 
+	16;Nah, I don't care about that dadshit.
 	8;2;0;History Eater OMG COW
 	4;500
 @64
 	17;2;2
-	16;Is it because of that corrupt moon?
-	16;Everything's been messed up since it appeared.
+	16;However, isn't it curious that the best Toaplan
+	16;games were made by Ikeda?
 	4;500
 @65
-	17;0;7
-	16;Nobody said we were gonna EAT them.
+	17;1;6
+	16;(jheng rant about non-IKD toaplan games)
 	4;500
 @66
 	17;1;2
-	16;Anyways, 
-	16;I'm really in a hurry!
+	16;(jheng rant cont) 
+	16;
 	4;500
 @67
 	17;1;8
-	16;I have no idea who you are,
-	16;but we don't have time to waste on mere humans.
+	16;(jheng rant cont)
 	4;500
 @68
 	17;0;8
-	16;You're mean.
+	16;(My boy is getting better at this.)
 	4;500
 @69
 	17;2;3
-	16;If you were just passing by,
-	16;I wouldn't try to stop you.
+	16;Bro, please shut the fuck up about "muh TOA
+	16;power."
 	4;500
 @70
 	17;2;2
-	16;But you two are really just too disturbing.
+	16;If you do, I'll tell you something "buzzing" in the
+	16;mod chat. 
 	4;500
 @71
 	17;1;8
-	16;There, you see?
+	16;(jheng doesn't listen, continues rant)
 	4;500
 @72
 	17;1;6
-	16;This is why you shouldn't use
-	16;your full power at night, Marisa.
+	16;(continue rant)
 	4;500
 @73
 	17;0;3
-	16;What do you mean?
-	16;Isn't magic best unleashed at night?
+	16;Jheng! Hold on a meenut. What doo yoo meen bye 
+	16;"buzzing" Eee Cee?
 	4;500
 @74
-	17;0;2
-	16;The only thing worth secretly using
-	16;during the day is a camera, if you ask me.
+	17;2;2
+	16;Well, well. The buzz is that Mark got his hands
+	16;on a certain game.
 	4;500
 @75
 	17;2;8
-	16;I had a feeling that something
-	16;terrible was approaching...
+	16;A game created by some maniac who used to wield
+	16;your "TOA power" but ran off to some CAVE.
 	4;500
 @76
 	17;2;2
-	16;Looks like I was right to seal the village.
+	16;Legends say, "The one who can 2-ALL Blue, will
+	16;have his wishes granted true."
 	4;500
 @77
 	17;0;2
-	16;Umm...
+	16;Uaaaahh...
 	4;500
 @78
-	17;0;2
-	16;Listen, I never said I'd attack the village.
+	17;1;7
+	16;honestly sounds like the dodonpachi campaign
+	16;label
 	4;500
 @79
-	17;1;7
-	16;(Didn't you just say to "surrender the humans"?)
+	17;2;8
+	16;(find thinking EC number)
+	16;!!!
 	4;500
 @80
 	17;0;3
-	16;The only one I'm concerned with is you!
+	16;That ees stoopid, Jheng. Dat boahrd has been lost
+	16;to tiem.
 	4;500
 @81
 	17;2;2
-	16;Whatever you say, lying wench.
+	16;Maybe, maybe not. "ha."
 	4;500
 @82
 	17;2;3
-	16;I shall let you touch neither the
-	16;humans nor the history of this village!
+	16;But, I still won't let you go further. Perhaps,
+	16;I've said too much.
 	7;1
 	4;500
 @83
-	17;1;2
-	16;Marisa!
+	17;2;3
+	16;I can't let that Jheng kid bother Mark, and by
+	16;association, neither can you CPS!
 	4;500
 @84
 	17;1;8
-	16;In case you haven't noticed yet...
-	16;She's not an ordinary human...
+	16;(Jheng annoyed he's not getting answers)
 	4;500
 @85
-	17;1;2
-	16;She's a half-beast!
+	17;0;2
+	16;A mod steel has much Social Credit to bee milked.
 	4;500
 	5;0;5
 	5;1;5
@@ -139,44 +141,43 @@ entry 1
 	1;2;2
 @60
 	15;0;4;8;10;-1
-	16;A half-beast that can't transform without
-	16;the full moon is just a human.  Weak!
+	16;Uaah, dat was so tight.
 	4;500
 @61
 	17;1;5
-	16;You DO know you're a human, too, right?
+	16;ec where is mark!
 	4;500
 @62
 	17;2;-2
-	16;Grrr... if it was a full moon tonight...
+	16;Fine, fine. As a proper gentleman, I will hold my
+	16;part of the bargain.
 	4;500
 @63
-	17;1;3
-	16;Oh, yeah.
-	16;We're trying to bring back the true full moon.
+	17;2;-2
+	16;Mark is where he hosted his last Shmup Slam.
+	16;In the far off land of...
 	4;500
 @64
-	17;0;3
-	16;That's right.
-	16;Wasn't that the first thing we said?
+	17;2;-2
+	16;Meridian, Idaho.
 	4;500
 @65
 	17;2;-2
-	16;What?
-	16;You never said that at all!
+	16;I still don't think you'll have a chance against
+	16;him. He's completely stocked on Coke Zeros.
 	4;500
 @66
 	17;1;2
-	16;So, perhaps you know who messed with the moon?
+	16;let's go there and get that rare pcb CPS!
 	4;500
 @67
 	17;0;3
-	16;Right, then, as you promised!
-	16;Tell us who the culprit is!
+	16;Okay, little Jheng.
 	4;500
 @68
 	17;0;3
-	16;(I just made up that promise, though...)
+	16;(Dere is no way dat Mark has that Pee Cee Bee)
+	16;(But Mark steel has IMMENSE Social Credit!)
 	4;500
 	13;0
 @128
@@ -197,21 +198,21 @@ entry 2
 	15;0;2;2;2;-1
 @61
 	17;2;2
-	16;Who are you?
-	16;And why are you attacking the village at night?
+	16;Well, well. Look who it is.
 	4;500
 @62
-	17;0;2
-	16;Uh, we're not.
-	16;We're just passing by.  Don't mind us.
+	17;2;6
+	16;CPS, the wise and powerful mega-milk king
+	16;and Jheng, the mexican Megakid.
 	4;500
 @63
-	17;2;6
-	16;Hah, I won't trust the words of a youkai!
+	17;0;6
+	16;Heey Eee Cee...
 	4;500
 @64
 	17;2;2
-	16;The events of this night are mine to devour!
+	16;No no. No milking here. Not unless you can dodge
+	16;my Castle Shittygaymee!
 	4;500
 	5;0;5
 	5;1;5

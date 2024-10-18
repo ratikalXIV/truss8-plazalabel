@@ -9,7 +9,7 @@ entry 0
 @61
 	4;400
 	15;2;2;2;-1;-1
-	16;Cactu, is that you? I did my 5 hours
+	16;Cactu, is that you? I already did 5 hours
 	16;of books today.
 @62
 	4;400
@@ -23,8 +23,8 @@ entry 0
 	1;2;2
 	13;1
 	17;2;5
-	16;Wait, CPS Brah! How did you get
-	16;here? Who is that with you?
+	16;Wait, CPS Brah! How did you get here? Who is 
+	16;that with you?
 	4;500
 @124
 	17;0;2
@@ -32,13 +32,13 @@ entry 0
 	4;500
 @125
 	17;1;8
-	16;honestly not what i imagined him to
-	16;look like.
+	16;it's gus! You are a degenerate but let me see
+	16;let me see what you want to say.
 	4;500
 @126
 	17;2;2
 	16;Boys, boys! Welcome to #ultramasochism!
-	16;Who is that guy behind you?
+	16;Who is the robot behind you, CPS?
 	8;2;0;Cutemokou is Cute
 	4;500
 @127
@@ -47,11 +47,11 @@ entry 0
 	4;500
 @128
 	17;1;8
-	16;hi gus.
+	16;hi gusto.
 	4;500
 @129
 	17;2;2
-	16;So, what brings you here brah?
+	16;So, what brings you two here brah?
 	4;500
 @130
 	17;0;2
@@ -59,33 +59,34 @@ entry 0
 	4;500
 @131
 	17;1;2
-	16;same! same! same!
+	16;I'm just following him because he wanted a friend
 	4;500
 @132
 	17;2;7
 	16;Nothing has changed with you, CPS
-	16;...Are you sure your boy is worthy?
+	16;But is that guy really worthy of your mentorship? 
 	4;500
 @133
 	17;0;2
-	16;Wait till yoo see his walls.
+	16;Wait till yoo see his walls of text.
 	4;500
 @134
 	17;2;5
-	16;Anyways, brahs. That EoSD is something else.
+	16;Haha!
 	4;500
 @135
 	17;2;2
+	16;Anyways, brahs. That EoSD is something else.
 	16;Cactu got me on that good training regimen.
 	4;500
 @136
 	17;2;3
 	16;I just stay indoors and grind books for
-	16;weeks. I'll get 800m next year.
+	16;weeks. I'll get 800m by next year.
 	4;500
 @137
 	17;0;7
-	16;Goose...come back to da plaza.
+	16;Goose...about dat, come back to da plaza.
 	4;500
 @138
 	17;0;8
@@ -94,24 +95,25 @@ entry 0
 	4;500
 @139
 	17;1;2
-	16;honestly it would be nice to have a stream
-	16;relay again as it foster community growth
+	16;you have the relay for that, you can post your
+	16;runs there if you want too.
 	4;500
 @140
 	17;1;2
-	16;i played daisenpuu for the TOAPOWER. do you know
-	16;what toapower is gus? toa power is th-
-	16;and when i did one with ricardo
-	16;he let me talk it was really fun 
+	16;i did a cool run of flying shark and i w-
+	16;wait, let me see that kf thread
+	16;what the hell is this shit
+	16;this will require something 
 	4;500
 @141
-	17;2;6
-	16;Brah, what the fuck are you on about?
+	17;1;2
+	16;wait, what is this kf thread? what the hell is
+	16;this shit? this will require something...
 	4;500
 @142
 	17;2;5
-	16;Anyways, Cactu said I could do another
-	16;Ultramania when I hit 900m.
+	16;...Anyways, Cactu said I could do another
+	16;Ultramania if I ever can hit 900m in EoSD.
 	4;500
 @143
 	17;0;2
@@ -124,43 +126,43 @@ entry 0
 	4;500
 @145
 	17;2;2
-	16;Cactu gave me some of that cocaine to keep
-	16;me grinding.
+	16;Cactu gave me some of that pre-workout powder
+	16;to keep me awake. Though it gives me headaches...
 	4;500
 @146
 	17;2;2
-	16;Them druggy playin MMO's were sure on to
-	16;something.
+	16;Them MMO playin druggies were definitely onto
+	16;something with that though.
 	4;500
 @147
 	17;2;2
-	16;My mom also sent me like twenty 360
-	16;controllers so I can keep goin.
+	16;My mom also sent me like twenty 360 controllers
+	16;so I can keep goin and goin.
 	4;500
 @148
 	17;2;3
-	16;That and...Cactu helped me with my
-	16;castration and that made me immortal.
+	16;That and...Cactu helped me with my castration
+	16;and that allows me to be immortal.
 	4;500
 @149
 	17;1;9
-	16;unironically i'm a troon scholar and
-	16;gus becoming a troon was not on my list.
+	16;...after reading that shit:
+	16;gus, you deserve a rock thrown to the skull
 	4;500
 @150
 	17;0;7
-	16;Hee ees not a troon Jheng but how ees he
-	16;eemoretall??
+	16;Jheng, hee ees not a troon. But Goose how does
+	16;dat make yoo eemoretall??
 	4;500
 @151
 	17;1;8
-	16;you need toa power gus. thats what you
-	16;should do to cactu who is grooming you
+	16;cactu is grooming you but you aren't someone who
+	16;should be alive
 	4;500
 @152
 	17;1;4
-	16;honestly i kept hearing good stories
-	16;about you and is sad to see.
+	16;i thought that you were good...
+	16;BUT YOU CANNOT BE SAVED!
 	4;500
 @153
 	17;0;2
@@ -168,32 +170,30 @@ entry 0
 	4;500
 @154
 	17;0;2
-	16;Goose, ees eet troo dat yoo can nawt
-	16;diee?
+	16;Goose, ees eet troo dat yoo can nawt diee?
 	4;500
 @155
 	17;2;2
-	16;Of course, brah.
+	16;Of course, brah. Testosterone is a poison in more
+	16;ways than you think. 
 	4;500
 @156
 	17;2;5
-	16;I realized when I was on that
-	16;mountain in Japan...
+	16;I realized when I was on that mountain in Japan..
 	4;500
 @157
 	17;2;2
-	16;If I died, then I couldn't get 
-	16;the 5 billion.
+	16;If I died, then I couldn't get the 5 billion.
 	4;500
 @158
 	17;2;5
-	16;Now that I got all the time in the 
-	16;world, I can grind all day.
+	16;Now that I can never die, I got all the time 
+	16;in the world. I can grind all day.
 	4;500
 @159
 	17;2;3
-	16;I don't even need to take care of
-	16;myself. I will forever, boys!
+	16;I don't even need to take care of myself. I can 
+	16;and I will live forever, boys!
 	4;500
 @160
 	17;0;5
@@ -205,7 +205,7 @@ entry 0
 	4;500
 @162
 	17;0;2
-	16;Yoo can bee milked forever!
+	16;Yoo can also bee milked forever!
 	4;500
 @163
 	17;0;3
@@ -214,12 +214,12 @@ entry 0
 	4;500
 @164
 	17;1;3
-	16;honestly, this is easy work for me because
-	16;even though gus is not technically a trannie
+	16;this isn't a place for milk, it's a place for
+	16;real shmup change
 	4;500
 @165
 	17;1;3
-	16;hes still groomed and (maybe i need jheng)
+	16;sorry gus, but you have to go. forever.
 	4;500
 @166
 	17;2;2
@@ -243,8 +243,8 @@ entry 0
 	4;500
 @170
 	17;1;2
-	16;gus you should play less tranny shit like
-	16;toa power!
+	16;you could have been ungroomed before, but there
+	16;isn't any hope, let's go for toa power
 	4;500
 @171
 	17;0;2
@@ -257,13 +257,13 @@ entry 0
 	4;500
 @173
 	17;2;2
-	16;If you're going to try, go all the way.
-	16;Otherwise, don't even start!
+	16;"If you're going to try, go all the way.
+	16;Otherwise, don't even start!"
 	4;500
 @174
 	17;2;3
-	16;The night will flame with fire! It's the
-	16;only good fight there is!
+	16;"The night will flame with fire!"
+	16;"It's the only good fight there is!"
 	7;1
 	4;500
 	5;0;5

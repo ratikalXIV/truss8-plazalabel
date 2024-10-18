@@ -4,15 +4,15 @@ entry 0
 @60
 	15;0;2;2;9;-1
 	17;2;9
-	16;Wait, waiiiit!
+	16;WHUUUUT, HUUUUUUUUH?
 	4;500
 	1;0;1
 	1;1;1
 	15;0;2;2;-2;-1
-	16;Huh?
+	16;Eye know dees voice anywhere
 	4;500
 	17;2;9
-	16;Where are you going at this time of night?
+	16;CPS! What are you doing here!?
 	8;2;0;Night Sparrow Apparition
 @61
 	4;500
@@ -20,84 +20,89 @@ entry 0
 	4;500
 @63
 	17;0;5
-	16;It's "Marisa's Youkai Extermination Month".
-	16;I'll go wherever youkai live!
+	16;We arr on de search for Social Credit and yoo arr
+	16;a beeg juge.
 	4;500
 	17;2;3
-	16;Wait, what?
-	16;Are you trying to pick a fight with me?
+	16;HUUUUUH? A jug of WHAT?
 @64
 	4;500
 @65
 	17;1;5
-	16;"Marisa's Youkai Extermination"?  Hilarious!  
+	16;unironically milk! 
 	4;500
 @66
 	17;0;6
-	16;Oh?
-	16;Don't you know how awesome I am at that?
+	16; MILK! MILK! MILK! MILK!
 	4;500
 @67
 	17;0;3
-	16;I exterminate youkai and humans
-	16;with Final Spark all the time!
+	16;Eye got a whole 500 views from doing da
+	16;RayStorrrm koomeeteh.
 	4;500
 	17;2;6
-	16;You, human.
+	16;CPS, I know you hang out with Rezardi!
 @68
 	4;500
 	17;2;6
-	16;Don't you have any idea who I am?
+	16;And you! I don't know who you are but you're
+	16;probably just another troll!
 @69
 	4;500
-	17;0;6
-	16;Huh?
+	17;1;5
+	16;i'm the troll master, SHMIGGER!
 @70
 	4;500
 	17;2;2
-	16;All humans fear me in the darkness!
+	16;WAAAHUUUUT! You are just like, ASKING for a ban!
+	16;These stupid games and it's TOXIC community!
 @71
 	4;500
 	17;2;2
-	16;If I wanted to, I could call so many youkai here
-	16;they'd eradicate every human in the land!
+	16;I'm supposed to force myself to enjoy this genre,
+	16;that's an important part of shmups.
 @72
 	4;500
-	17;1;6
-	16;... Heh.  That's enough chirping, you windbag.
+	17;2;2
+	16;These games are too stupidly difficult, I can't
+	16;even clear Garegga with the "easy" ship.
 @73
 	4;500
 	17;0;3
-	16;Hah hah hah...
+	16;Brah, try to not getting 50% rank on BH2 and GS...
 @74
 	4;500
-	17;0;3
-	16;Looks like you still don't get who I am.
+	17;2;2
+	16;Thank you CPS. Thanks for the obvious information,
+	16;appreciate it.
 @75
 	4;500
 	17;1;7
-	16;Human?
+	16;aktane, you literally needed that info by what
+	16;you did. stop being retarded.
 @76
 	4;500
 	17;2;8
-	16;Human.
+	16;That's memo! That shit is poorly defined! I don't
+	16;trust ANYBODY. Especially not Pearl neither you!
 @77
 	4;500
-	17;1;2
-	16;Human all the way.
+	17;0;8
+	16;Little Jheng, hang back. Let me shoo yoo how to
+	16;meelk like a profesheenol.
 @78
 	4;500
-	17;0;8
-	16;Uh... right...
+	17;1;2
+	16;Little Jheng, hang back. Let me shoo yoo how to
+	16;meelk like a profesheenol.
 @79
 	4;500
 	17;2;2
-	16;See?
-	16;Starting tonight, you two...
+	16;CPS, I wish it didn't have to come to this...
 @80
 	4;500
 	17;2;3
-	16;will never again be able to see in the dark!
+	16;but you won't get a drop out of me!
 @81
 	4;500
 	7;1
@@ -116,27 +121,27 @@ entry 1
 	1;1;1
 @60
 	15;0;4;5;-1;-1
-	16;Ah, that's better.
-	16;Got rid of that pesky darkness.
+	16;Uaaaahhh...yum yum...
+	16;Dee Social Credit is deelisheeoous
 @61
 	4;500
 	17;1;6
-	16;Dammit, we gotta hurry up!
-	16;We don't have time to waste on small fry!
+	16;at least you are being happy. you need a better
+	16;self esteem tho.
 @62
 	4;500
 	17;0;8
-	16;But where are you heading, anyway?
-	16;I'm sure there aren't any enemies over that way.
+	16;But dees Social Credit geeves mee liefuh.
 @63
 	4;500
 	17;1;2
-	16;But I sense powerful energy up ahead...
+	16;CPS, you should only talk about things when you
+	16;like talking about those things.
 @64
 	4;500
 	17;0;2
-	16;Only humans live in that direction.
-	16;Totally innocent, just like myself.
+	16;...Come on Little Jheng, I sense moor Social
+	16;Credit een thee laans over dere.
 @65
 	4;500
 	13;0
