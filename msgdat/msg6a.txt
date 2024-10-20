@@ -5,8 +5,8 @@ entry 0
 	15;0;2;2;-1;-1
 @60
 	15;0;2;2;-1;-1
-	16;This is the end of the corridor.
-	16;So, do you give up?
+	16;Wait.. the PCB it turned off!
+	16;where's Mork? I wanted to play Magic-
 @61
 	4;60
 	13;0
@@ -15,180 +15,186 @@ entry 0
 	1;2;2
 	13;1
 	17;2;4
-	16;Ahahaha,
-	16;you're so stupid!
+	16;You two,
+	16;have fallen right into my trap!
 	4;500
 @122
 	17;1;2
-	16;Hey, she just said you were stupid.
-	16;It's because you're a shrine maiden. 
+	16;God fucking damn it dude.
+	16;Where is this shitty cave hack?
 	4;500
 @123
 	17;2;2
-	16;It's almost daybreak.
+	16;You haven't noticed?
 	8;2;0;Eirin Yagokoro
 	4;500
 @124
 	17;2;5
-	16;After that, I'll give the moon back to you.
+	16;Look infront of you.
 	4;500
 @125
 	17;0;5
-	16;Well, you ARE a good listener. 
+	16;What is this, a computer?
 	4;500
 @126
 	17;2;2
-	16;My ritual is already complete.
+	16;What you two were searching for, was the
+	16;mythical Blue PCB..
 	4;500
 @127
 	17;2;2
-	16;No one can take out my princess.
+	16;But, I've played a trick on you.
 	4;500
 @128
 	17;1;8
-	16;A princess? 
-	16;We don't care about a princess.
+	16;Cut to the chase piggy.
 	4;500
 @129
 	17;0;6
-	16;We only want the full moon to return. 
+	16;Always this hivemind behavior, lying about
+	16;everything, doxxing me, now making up legends!
 	4;500
 @130
 	17;2;5
-	16;Don't worry, 
-	16;I'll fix that by morning.
+	16;I've hidden the true Blue Label board..
+	16;Somewhere where Mork can grind in peace!
 	4;500
 @131
 	17;0;6
-	16;That's not good enough.
+	16;Why I'm always black in these songs? even my
+	16;portrait here is black, small and mostly bald!
 	4;500
 @132
 	17;0;6
-	16;We came here to get the moon back
-	16;before the morning. 
+	16;I have a JOB! It's Full TIME!
+	16;Leave me alone, It's almost honeymoon time.
 	4;500
 @133
 	17;2;2
-	16;You're so impatient.
+	16;At this point,
 	4;500
 @134
 	17;2;5
-	16;By the way, do you know
-	16;where we are?
+	16;Mork has achieved his 2-ALL credential.
 	4;500
 @135
 	17;0;8
-	16;??
+	16;(More of those AI songs..!)
 	4;500
 @136
 	17;2;5
-	16;This place is between the fake moon and the
-	16;earth.
+	16;He's almost done, using this scene
+	16;as a stepping stone.
 	4;500
 @137
 	17;2;2
-	16;That long corridor connects the two.
+	16;To where he wanted to be!
 	4;500
 @138
 	17;2;5
-	16;You were fooled by the false moon, and came here.
+	16;In the world of these shitty shooters:
+	16;Now, He'll set his wallet free
 	4;500
 @139
 	17;0;6
-	16;Did we? 
-	16;So what's the problem?
+	16;So that-a means..
 	4;500
 @140
 	17;2;4
-	16;Do you have a way to return home?
+	16;This scene is now controlled by Mork.
 	4;500
 @141
 	17;1;2
-	16;Let's take care of that after beating you.
+	16;That's the last time I ever trust Baf
+	16;on ANYTHING.
 	4;500
 @142
 	17;1;5
-	16;I'm not in a rush. 
+	16;Whatever, FAKE INTEREST!
+	16;It's about time I fucked off from this community.
 	4;500
 @143
 	17;2;6
-	16;How can you think you can win?
+	16;Not so fast.
 	4;500
 @144
 	17;2;2
-	16;You can't even see through my tricks.
+	16;You forget where you are, right?
 	4;500
 @145
 	17;2;5
-	16;Well, I'll be nice and play with you until 
-	16;morning.
+	16;Remember: who's AirBNB are you in now?
 	4;500
 @146
 	17;0;2
-	16;I don't quite understand...
+	16;Rez- the door is locked!
 	4;500
 @147
 	17;0;7
-	16;If we defeat her, everything will be fixed?
+	16;I can't reach the latch! It's too high!
 	4;500
 @148
 	17;1;5
-	16;See, that's why she says you're stupid.
+	16;*sigh*
+	16;Hold on Baf, I'll open it.
 	4;500
 @149
 	17;1;2
-	16;But you're right.
+	16;Wait a fucking second..
 	4;500
 @150
 	17;1;3
-	16;Everything Reimu said was totally correct.
+	16;The door! It's sealed shut!
 	4;500
 @151
 	17;2;2
-	16;None from Earth could ever reach the moon...
+	16;You two are now the intellectual property;
 	4;500
 @152
 	17;2;5
-	16;And none from the moon could reach the Earth.
+	16;Of The Electric Underground, World-Wide!
 	4;500
 @153
 	17;2;4
-	16;Soon it will be impossible.
+	16;By entering this domain, and being affiliated
+	16;with the Shoot Em' Up Scene,
 	4;500
 @154
 	17;2;2
-	16;The Earth will be like a huge sealed room.
+	16;Your rights have been forfeit!
+	16;To MarkMSX.
 	4;500
 @155
 	17;1;3
-	16;That rabbit, and you... 
-	16;You're all crazy.
+	16;I can't keep track of how much fucking money
+	16;I've lost on this gay retarded adventure!
 	4;500
 @156
 	17;0;3
-	16;Yukari, 
-	16;let's beat her up and go home.
+	16;Rez, we have no choices!
+	16;We need to beat BogHog, I know some strats!
 	4;500
 @157
 	17;2;4
-	16;So, you're going to play with me?
+	16;You can fight me, but it's a futile effort.
 	4;500
 @158
 	17;2;2
-	16;I can't do it forever,
+	16;I have a full health bar, and plenty of
+	16;Super-Joy's!
 	4;500
 @159
 	17;2;5
-	16;but until morning...
+	16;But I will humor you.
 	4;500
 @160
 	17;1;3
-	16;That's all right, 
-	16;we can play forever some other time.
+	16;If I don't get out of this fucking AirBNB now,
+	16;my income will be OVER!
 	4;500
 @161
 	17;2;5
-	16;Now, it will be daybreak in Gensokyo! 
+	16;Now, It's the FINAL FIGHT.
 	7;1
 	4;500
 	5;0;5
@@ -209,20 +215,21 @@ entry 2
 @60
 	15;2;2;2;2;-1
 	13;1
-	16;Hahaha.
+	16;I see..
 	4;500
 @61
 	17;2;-2
-	16;Good, so you're following me.
+	16;Of all the planes of existence in this AirBNB..
+	16;I will be the one to abuse this one!
 	4;500
 @62
 	17;1;2
-	16;There's something wrong with this corridor...
-	16;It's too long.
+	16;Baf! You faggot, did you check outside at all?
+	16;Why is Bohoh here!?
 	4;500
 @63
 	17;0;8
-	16;I didn't see it outside...
+	16;I didn't see anything outside...
 	4;500
 	5;0;5
 	5;1;5
@@ -236,26 +243,25 @@ entry 2
 entry 3
 @60
 	15;2;-1;-1;-1;-1
-	16;What are you playing at?!
+	16;Boghog, my guest.
 	6
 	4;500
 @61
 	17;2;-2
-	16;Eirin, I'll use my power to give you
-	16;one more chance.
+	16;I'll use my Patreon Bucks,
+	16;To give you one more chance.
 	4;500
 @62
 	17;2;-2
-	16;If you're defeated this time...
+	16;If you lose this time...
 	4;500
 @63
 	17;2;-2
-	16;You two, human and youkai!
+	16;You two, BAF and REZARDI!
 	4;500
 @64
 	17;2;-2
-	16;My arcane medicine and Eirin's true
-	16;power - you'll never forget this!
+	16;I'd like you, to thank my $5 Patrons.
 	4;500
 	7;2
 	13;0

@@ -12,110 +12,108 @@ entry 0
 	1;2;2
 	13;1
 	17;2;5
-	16;I've sealed all the doors. 
-	16;You'll never reach her now!
+	16;I've locked all of the doors. 
+	16;You'll never stop Mork now!
 	4;500
 	1;0;1
 	1;1;1
 	15;0;2;2;-2;-1
-	16;Is she the one?
+	16;Oh no, it's...
 	4;500
 @122
 	17;1;2
-	16;Don't know, let's blow her up and find out.
+	16;Fucking. King. Charles.
+	16;What's up you troon? 
 	4;500
 @123
 	17;2;2
-	16;What, are you youkai?
+	16;Um, Chud. It's QUEEN Charlene.
 	8;2;0;Reisen
 	4;500
 @124
 	17;2;5
-	16;But youkai can't find their way here to begin 
-	16;with... no worries.
+	16;Please respect my gender identity.
+	16;Or else, you will be removed from this discord.
 	4;500
 @125
 	17;0;7
-	16;Well, you've got a human here.
+	16;We've coming to stop Mork.
 	4;500
 @126
 	17;2;2
-	16;Humans are even less of a worry for me.
+	16;What makes you two think you can stop him now?
+	16;He's No-Miss into 2-4 right now.
 	4;500
 @127
 	17;1;8
-	16;Why worry, when you're the one being evil?
+	16;That fucking grifter...
 	4;500
 @128
 	17;2;2
-	16;Being evil? 
-	16;Like... sealing the earth?
+	16;You two chuds may as well just give up,
+	16;and go back to your transphobic community.
 	4;500
 @129
 	17;0;7
-	16;Maybe it is...?
-	16;...But I don't quite understand.
+	16;Rez.. I-a don't know any safespots on this boss..
+	16;That's atleast.. what Toho Italia told me!
 	4;500
 @130
 	17;1;6
-	16;It must have to do with the moon.
-	16;...But I don't quite get it either.
+	16;STOP PRETENDING YOU DON'T PLAY TOUHOU.
+	16;If we want to stop Mork, you need to drop the CAP.
 	4;500
 @131
 	17;2;2
-	16;Ah, you're talking about the moon? 
-	16;That's my mistress Eirin's strongest charm.
+	16;That's right, th_Baffo..
 	4;500
 @132
 	17;2;5
-	16;It makes Earth one giant, sealed chamber. 
-	16;Do you understand?
+	16;I'm all about HONEST DODGING.
+	16;With my DFK Novice score, I'm unstoppable!
 	4;500
 @133
 	17;0;8
-	16;That doesn't make any sense.
+	16;*mumbles*
 	13;0
 	6
 @193
 	1;3;2
 	13;1
 	17;3;2
-	16;It makes sense,
-	16;humans are just too stupid to understand.
+	16;Can you speak up Baf?
 	4;500
 @194
 	17;3;2
-	16;One correction, though... I DO have stronger
-	16;charms.
+	16;I want to hear your last words before
+	16;The Electric Underground rises to the top.
 	4;500
 @195
 	17;1;3
-	16;Reimu, 
-	16;she's the one. I can feel it. 
+	16;Bohoh, you SWINE! Don't you forget that
+	16;I'm the only one who bothered to play Gunvein?
 	4;500
 @196
 	17;0;2
-	16;Is she? 
-	16;My intuition says "no"...
+	16;I was going to! but-
 	4;500
 @197
 	17;1;3
-	16;Restore the moon to its normal state, 
-	16;now!
+	16;*AIKtane Voice*
+	16;baaaaaf cap baaaaf cap, most baf cap ever.
 	4;500
 @198
 	17;3;2
-	16;...It's too early. I have to keep
-	16;this charm active for a little longer.
+	16;Let's put an end to this. I need to get
+	16;back to work on Armed Decobot.
 	4;500
 @199
 	17;3;2
-	16;Udonge, 
-	16;insanity and conflict are your job.
+	16;Charlene,
 	4;500
 @200
 	17;3;2
-	16;I'll leave this one to you.
+	16;*oink oink*
 	5;3;5
 	13;0
 	6
@@ -124,51 +122,52 @@ entry 0
 	4;500
 @261
 	17;2;2
-	16;All right! 
-	16;I won't let anyone reach her door.
+	16;Yes sir (he/him)
+	16;I won't let these two interfere.
 	4;500
 @262
 	17;0;6
-	16;Running won't stop us. 
-	16;We'll get her after taking you down.
+	16;You forget Charles..
+	16;I have-a LNB in this game!
 	4;500
 @263
 	17;1;2
-	16;Yeah, since beating this one won't
-	16;bring back the moon.
+	16;I thought you don't play Touhou, Baf?
 	4;500
 @264
 	17;2;6
-	16;Heh. I haven't fought in a while, 
-	16;my fingers are itching...
+	16;Beating you two might be harder than
+	16;Crimzon Clover Arrange!
 	4;500
 @265
 	17;2;5
-	16;I'll show you everything I've got.
-	16;The Lunar Insanity!
+	16;But I just got back from the gym.
+	16;Do you two want a selfie?
 	7;1
 	4;500
 @266
 	17;0;2
-	16;Lunar Insanity?
+	16;no..
+	16;And Rez, th08 is good!
 	4;500
 @267
 	17;2;2
-	16;I broke the mind of the human who came to Luna. 
-	16;That one was weak.
+	16;Rezardi, are you ripped enough to
+	16;spar with your new queen?
 	4;500
 @268
 	17;1;8
-	16;This girl... She seems dangerous.
+	16;Uh.. No.
+	16;But atleast I don't have green hair!
 	4;500
 @269
 	17;2;5
-	16;The moon can drive people mad.
+	16;But you don't have any hair.
 	4;500
 @270
 	17;2;2
-	16;So can you really beat me, 
-	16;the rabbit whose eyes contain Luna's power?
+	16;Enough dawdling. Let's end this!
+	16;And remember; Trans Rights are Human Rights!
 	4;500
 	5;0;5
 	5;1;5
@@ -186,36 +185,37 @@ entry 1
 	1;2;2
 @60
 	15;0;4;8;10;-1
-	16;All right, let's go chase it down.
+	16;Irem Token!
 	4;500
 @61
 	17;1;2
-	16;But where did it go? 
-	16;So many doors...
+	16;I can't hear the game sound,
+	16;where did that fucking grifter go!?
 	4;500
 @62
 	17;2;-2
-	16;Hey... 
-	16;My master isn't an "it"...
+	16;I over-estimated them..
+	16;Bested by the chuds...
 	4;500
 @63
 	17;1;3
-	16;The criminal went through THIS door!
+	16;BAF can you fucking help? Mork is
+	16;probably at 2-6 by now!
 	4;500
 @64
 	17;0;3
-	16;We've got to capture it before it commits 
-	16;suicide!! 
+	16;Let's-a go up these stairs
+	16;they remind me of the ones in Italy!
 	4;500
 @65
 	17;2;-2
-	16;Why would she do that?! And she's not a 
-	16;criminal--
+	16;(-)charlenemaximum
+	16;was/were
 	4;500
 @66
 	17;0;7
-	16;Shut up, annoying rabbit, 
-	16;or we'll shoot off the rest of your clothes.
+	16;Rez, up here! To the living room!
+	16;I can hear Taylor Swift!
 	4;500
 	13;0
 @126
@@ -234,36 +234,36 @@ entry 2
 	1;2;2
 @60
 	15;0;4;8;10;-1
-	16;All right, let's go chase it down.
+	16;Irem Token!
 	4;500
 @61
 	17;1;2
-	16;But where'd it go? 
-	16;So many doors...
+	16;I can't hear the game sound,
+	16;where did that fucking grifter go!?
 	4;500
 @62
 	17;0;3
-	16;Yukari.
-	16;Look, that one...
+	16;Rez!
+	16;Look outside!
 	4;500
 @63
 	17;2;-2
 	16;Oh no! 
-	16;I forgot to seal that one--
+	16;Mork built the shed too close to the AirBNB..
 	4;500
 @64
 	17;1;3
-	16;Is the criminal in there?
+	16;It's his fucking cuckshed!
 	4;500
 @65
 	17;0;3
-	16;I can feel it... 
-	16;let's go.
+	16;Jump attack above the shed doorway!
+	16;you get 3HP!
 	4;500
 @66
 	17;2;-2
-	16;Oh no... 
-	16;My master will be mad at me... 
+	16;Mork..
+	16;Beat Hibachi, before it's too late!
 	4;500
 	13;0
 @126
@@ -279,8 +279,8 @@ entry 3
 @120
 	4;1
 @180
-	19;Follow your eyes (FinalA)
-	20;Trust your intuition (FinalB)
+	19;Go to the living room(FinalA)
+	20;Go to the backyard shed(FinalB)
 	21;1200
 @181
 	22

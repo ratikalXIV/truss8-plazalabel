@@ -5,7 +5,7 @@ entry 0
 	15;1;2;2;-1;-1
 @60
 	15;1;2;2;-1;-1
-	16;The full moon, after so long...
+	16;Alright bro, hands off the board.
 @61
 	4;60
 	13;0
@@ -14,163 +14,172 @@ entry 0
 	1;2;2
 	13;1
 	17;2;2
-	16;Yes, the true moon that is seen from the Earth.
+	16;One second guys, I'm almost done. Ha.
 	4;500
 @122
 	17;2;5
-	16;A human and a youkai... 
-	16;Strange guests around here.
+	16;I'm on Hibachi right now!
+	16;Give me just a minute, ha.
 	4;500
 @123
 	17;1;8
-	16;You... 
-	16;What the hell are you?
+	16;Not on my fucking watch, grifter.
+	16;Baf, unplug his controls!
 	4;500
 @124
 	17;2;2
-	16;My name is Kaguya. 
+	16;("Please Continue.")
 	8;2;0;Kaguya Houraisan
 	4;500
 @125
 	17;2;5
-	16;I'm so kind, I won't be mad even 
-	16;if you ask my name before saying yours. 
+	16;...
+	16;...
 	4;500
 @126
 	17;1;5
-	16;That was too minor to be considered "kind".
+	16;Thank fucking god that's over.
+	16;Baf, let's get out of here.
 	4;500
 @127
 	17;2;7
-	16;I didn't mean it that way anyway.
+	16;That's Ok.
+	16;There's a new Tyler the Creator album, anyway!
 	4;500
 @128
 	17;2;2
-	16;Eirin hasn't let me out of this house 
-	16;recently...
+	16;I thought I would finally set my wallet free!
+	16;But, right when I was about to succeed..
 	4;500
 @129
 	17;2;5
-	16;So odd guests like you are most welcomed.
+	16;You two fucking LOSERS, had to show up.
+	16;and ruin EVERYTHING.
 	4;500
 @130
 	17;0;8
-	16;SHOT guests?
+	16;Uh oh.
 	4;500
 @131
 	17;1;7
-	16;Are you obsessed with danmaku shooters?!
+	16;Bro, you already got the glitch-o bounty!
+	16;And hundreds of Patreon Bucks!
 	4;500
 @132
 	17;2;2
-	16;The human body houses a fragile soul...
+	16;Constantly, I'm climbing up each and every
+	16;Stepping stone to where I truly wanted to be.
 	4;500
 @133
 	17;2;2
-	16;Those bodies live upon a huge sphere.
+	16;But it's never enough!
+	16;You fucking shmup people are so god damn naggy!
 	4;500
 @134
 	17;2;3
-	16;And these loyal races live upon...
+	16;Milker this,
+	16;Grifter that..
 	4;500
 @135
 	17;2;5
-	16;That lunar orb behind me.
+	16;I can't fucking take it anymore, ha!
+	16;I was right there, I was soaring high!
 	4;500
 @136
 	17;1;2
-	16;Well, it looks like we'll be dodging 
+	16;I've never seen him..
 	4;500
 @137
 	17;0;3
-	16;Some lunatic orbs ourselves.
+	16;Angry like-a this!
 	4;500
 @138
 	17;2;7
-	16;Don't steal my words. 
-	16;My kindness has limits.
+	16;If I can't milk this scene full time..
+	16;I suppose I'll get my paycheck some other way.
 	4;500
 @139
 	17;0;6
-	16;Who cares about predictable speeches?
+	16;Mork, let's play some Magic Sword.
+	16;On FightCade!
 	4;500
 @140
 	17;0;7
-	16;We're shot guests, right?
+	16;You like Capcom, right?
 	4;500
 @141
 	17;2;2
-	16;You two are so impatient.
+	16;Your funerals,
 	4;500
 @142
 	17;2;5
-	16;Don't worry, I will show you...
+	16;Travel to the afterlife, funded by
+	16;The Electric Underground!
 	4;500
 @143
 	17;2;3
-	16;The miasma of the true moon!
-	16;And my beautiful Impossible Requests too!
+	16;I'm done pretending-
+	16;In this genre, that no one gives a fuck, ha!
 	4;500
 @144
 	17;1;7
-	16;You have too much time on your hands...
-	16;Waiting for someone to play with?
+	16;Wait Mork.. What about all of the
+	16;fun Shmup Slams we had together!
 	4;500
 @145
 	17;2;7
-	16;Don't be such a wet blanket...
+	16;You mean when people complained that I got
+	16;donations? Just another step in the ladder.
 	4;500
 @146
 	17;2;2
-	16;I've been hiding here, so I didn't have the 
-	16;chance to go out and play.
+	16;So let's go, I'll play your Bingo.
 	4;500
 @147
 	17;2;5
-	16;But I'll make up for that today.
+	16;Because when I'm done with you,
+	16;I'll milk you full time, it's true, ha!
 	4;500
 @148
 	17;0;2
-	16;Doesn't matter to me,
-	16;since we've restored the full moon.
+	16;Rez! I got-a Bingo!
 	4;500
 @149
 	17;0;3
-	16;Now, we just need to make this unkind girl pay.
+	16;It's a full diagonal line!
 	4;500
 @150
 	17;2;2
-	16;Too bad you can't see the true full moon anywhere
-	16;but here. 
+	16;It's time to end this.
 	4;500
 @151
 	17;0;9
-	16;What?!
+	16;Something about this shaked me up...
 	4;500
 @152
 	17;0;4
-	16;Well, looks like you're REALLY going to pay then.
+	16;But atleast I have western record
+	16;In Magic Sword!
 	4;500
 @153
 	17;2;2
-	16;Okay then, are you ready?
+	16;Your deaths start now,
 	4;500
 @154
 	17;1;2
-	16;Not at all.
+	16;Don't fucking say it baf.
 	4;500
 @155
 	17;0;2
-	16;Not at all.
+	16;3, 2, 1, GO!
 	4;500
 @156
 	17;2;2
-	16;The Impossible Requests that defeated
-	16;so many humans in the past...
+	16;I'd really appreciate any patreon support.
 	4;500
 @157
 	17;2;3
-	16;How many can you fulfill?! 
+	16;Adios.
 	7;1
 	4;500
 	5;0;5
@@ -191,20 +200,19 @@ entry 2
 @60
 	15;2;2;2;2;-1
 	13;1
-	16;...Geez.
+	16;Fuck.
 	4;500
 @61
 	17;2;-2
-	16;I said not to let you come this way...
+	16;How did you see the cuckshed?
 	4;500
 @62
 	17;1;2
-	16;Reimu, did you hear that?
+	16;My neighbor Baf, is smarter than he looks.
 	4;500
 @63
 	17;0;4
-	16;Of course, looks like we're heading the right 
-	16;way. 
+	16;Irem Token!
 	4;500
 	5;0;5
 	5;1;5
@@ -218,15 +226,15 @@ entry 2
 entry 3
 @60
 	15;2;-1;-1;-1;-1
-	16;What's this?!
+	16;It seems I've been bested, ha.
 	4;500
 @61
 	17;2;-2
-	16;So, the ones who froze the night...
+	16;Well, adios everyone.
 	4;500
 @62
 	17;2;-2
-	16;That was YOU, wasn't it?!
+	16;So thank you, to the $5 patrons:
 	4;500
 	7;2
 	13;0
@@ -257,7 +265,8 @@ entry 5
 entry 6
 @60
 	15;2;-1;-1;-1;-1
-	16;The fragmented eternal evening you've created...
+	16;Dingo, Arcade Hell, Beau, BogHog, CMD,
+	16;DrBossKey, Nathaniel Davis, Framesperhuman,
 	4;500
 	13;0
 @90
@@ -268,7 +277,8 @@ entry 6
 entry 7
 @60
 	15;2;-1;-1;-1;-1
-	16;My eternity manipulation will destroy it...
+	16;Freckle lord, SynthRicardo, TH_Rezardi, wabbylegs
+	16;Jhengalomas, Retroshmupper, hausu, ImFatIRL
 	4;500
 	13;0
 @90
@@ -279,7 +289,8 @@ entry 7
 entry 8
 @60
 	15;2;-1;-1;-1;-1
-	16;Your spell of Imperishable Night will shatter...
+	16;Jaylab, GameboyGuru, kntain, hazylevels, aktane
+	16;legless, DJ420PraiseIt!, MewJAM, RinMari
 	4;500
 	13;0
 @90
@@ -290,7 +301,8 @@ entry 8
 entry 9
 @60
 	15;2;-1;-1;-1;-1
-	16;And the dawn shall come!
+	16;Shump Junkie,TheBootRex,twilightex,visiblyshaken
+	16;Shmup Homie $3 / month - Join
 	4;500
 	13;0
 @90
