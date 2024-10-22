@@ -18,19 +18,17 @@ entry 0
 	1;0;1
 	1;1;1
 	15;0;2;2;-2;-1
-	16;What?
-	16;What're you doing here, Marisa?
+	16;Oh look! A Pineapple!
 	4;500
 @122
-	17;1;6
+	17;2;2
 	16;Oh, you know, just hunting some troublesome 
 	16;youkai as usual.
 	8;2;0;Marisa Kirisame
 	4;500
 @123
-	17;0;2
-	16;Funny, what a coincidence.
-	16;I'm doing some troublesome youkai hunting too.
+	17;1;8
+	16;God, and that fucking Troon Scholar, too?
 	4;500
 @124
 	17;2;2
@@ -39,11 +37,12 @@ entry 0
 	4;500
 @125
 	17;0;7
-	16;No, not really.
+	16;I can't-a believe this guy replaced me!
 	4;500
 @126
 	17;1;8
-	16;What can you do alone, on such a dangerous night?
+	16;If you keep this annoying attitude up Baf,
+	16;You'll be replaced here, too!
 	4;500
 @127
 	17;2;3
@@ -56,7 +55,7 @@ entry 0
 	4;500
 @129
 	17;1;8
-	16;So, who's the troubling youkai? 
+	16;Why are you two after Mork?
 	4;500
 @130
 	17;2;2
@@ -65,13 +64,13 @@ entry 0
 	4;500
 @131
 	17;0;6
-	16;We froze the night.
-	16;But now isn't the time for that!
+	16;Mork musts be stopped!
+	16;He's going to take over the scene!
 	4;500
 @132
 	17;1;2
-	16;Indeed.
-	16;Don't you have eyes on the back of your head?
+	16;THANK YOU BAF.
+	16;For once you say something intelligent!
 	4;500
 @133
 	17;2;8
@@ -79,8 +78,7 @@ entry 0
 	4;500
 @134
 	17;0;8
-	16;I doubt she does.
-	16;That's how it is.
+	16;I actually was an honor student, Rez!
 	4;500
 @135
 	17;2;7
@@ -89,19 +87,21 @@ entry 0
 	4;500
 @136
 	17;0;2
-	16;Looks like nothing is going to get through to
-	16;her.
+	16;EC led us here.
+	16;
 	7;1
 	4;500
 @137
 	17;1;5
-	16;But that warped moon is so dangerous...
+	16;After we kicked his ass.
+	16;Stupid American never saw it coming!
 	4;500
 @138
 	17;0;2
-	16;It's not harmful to humans, though.
+	16;We're going to stop Mork from taking over.
+	16;The scene must be saved!
 	4;500
-@139
+@139 (angry cps about lack of milk)
 	17;2;6
 	16;What? I'm not sure what you're going on about.
 	16;An eternal night has danger written all over it.
@@ -117,7 +117,8 @@ entry 0
 	4;500
 @142
 	17;1;6
-	16;That's not going to happen.
+	16;God these fucking MILKERS!
+	16;No matter what's at stake, its just MILK MILK!
 	4;500
 @143
 	17;2;3
@@ -139,13 +140,13 @@ entry 1
 	1;2;2
 @60
 	15;0;4;8;10;-1
-	16;Looks like we found what we were looking 
-	16;for while chasing Marisa.
+	16;Yes!
+	16;We stop them!
 	4;500
 @61
 	17;1;2
-	16;Amazing, you're really lucky!
-	16;I wish Ran had half your luck.
+	16;Good job lil' Baf.
+	16;Shall we keep going?
 	4;500
 @62
 	17;2;-2
@@ -154,13 +155,13 @@ entry 1
 	4;500
 @63
 	17;1;3
-	16;Thanks to you, we figured out who the culprit is.
-	16;You weren't useless after all.
+	16;Trying to stop that fucking grifter,
+	16;once and for all!!
 	4;500
 @64
 	17;0;3
-	16;Ah, but we haven't figured out exactly who it is.
-	16;At any rate, they're in that mansion.
+	16;I cant tell where-a we are anymore...
+	16;This cornfield is massive!
 	4;500
 @65
 	17;2;-2
@@ -173,11 +174,11 @@ entry 1
 	4;500
 @67
 	17;1;2
-	16;Sleep for all eternity.
+	16;Over there! I see the house!
 	4;500
 @68
 	17;0;7
-	16;Well, try not to catch a cold.
+	16;I-a hope they have peas and tortillas!
 	4;500
 	13;0
 @128
@@ -195,11 +196,11 @@ entry 2
 	1;1;1
 @60
 	15;0;2;2;-1;-1
-	16;Ah, running away?
+	16;They're gettings away!
 	4;500
 @61
 	17;1;2
-	16;We'll chase her to the ends of the earth.
+	16;Follow the trail of milk behind them!
 	4;500
 	5;0;5
 	5;1;5
@@ -220,8 +221,9 @@ entry 3
 	16;What's up?
 	4;500
 @61
-	17;0;2
-	16;There's a limit, even to obvious lies.
+	17;1;2
+	16;I can sense it...
+	16;The thirst for milk!
 	4;500
 @62
 	17;2;6
