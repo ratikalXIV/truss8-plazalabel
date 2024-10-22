@@ -12,9 +12,11 @@ entry 0
 	1;2;2
 	13;1
 	17;2;6
-	16;(baf: rant about ric and ngmi "stalking")
+	16;Why you two keep always stalking me!?
+	16;Always screenshotting me on Twitch!
 	4;500
-	16;(baf: rant about the ai songs and images)
+	16;These childish AI musics.. Why I'm always black?
+	16;And those song.. So annoying!!
 	4;500
 	1;0;1
 	1;1;1
@@ -31,14 +33,14 @@ entry 0
 	16;Baffo cappo
 	4;500
 @124
-	17;2;2
+	17;2;6
 	16;I'm not-a cappin' this time! I'm tired
 	16;of you spreading lies about me!
 	4;500
 @125
-	17;2;2
+	17;2;6
 	16;I don't play Touhou, I wake up early,
-	16;and I got a new job 1 day a week!
+	16;and I got a new job! 1 day a week!
 	8;2;0;Reimu Hakurei
 	4;500
 @126
@@ -50,17 +52,17 @@ entry 0
 	16;..."So hows your day?"
 	4;500
 @128
-	17;2;6
-	16;(triggered rant)(try to change portrait in angry)
+	17;2;2
+	16;Oh my GODDDDD Shut UP BAF!!!!!
 	4;500
 @129
-	17;2;6
-	16;With every move you make, time stops.
-	16;The night becomes longer.
+	17;2;2
+	16;Sorry my shmeighbors, why the hell are
+	16;you two here? I thought Ric hated Truss?
 	4;500
 @130
-	17;2;2
-	16;The mastermind behind this endless night is you!
+	17;2;8
+	16;Don't tell me... you got groomed into it too?
 	4;500
 @131
 	17;1;2
@@ -78,16 +80,18 @@ entry 0
 	4;500
 @134
 	17;2;6
-	16;The moon has nothing to do with this, okay?
+	16;Oh my god...
+	16;I don't play these games! Stop spreading lie!
 	4;500
 @135
-	17;2;2
-	16;Vampires are wandering around during an 
-	16;endless night.
+	17;2;3
+	16;Yeah whatever, Baf cap.
+	16;Listen, we need to stop Mork.
 	4;500
 @136
-	17;2;6
-	16;what could be more dangerous than that?!
+	17;2;-2
+	16;When we get to him, I want to play
+	16;DUNJUN with him! It'd be fun!
 	4;500
 @137
 	17;1;8
@@ -100,12 +104,12 @@ entry 0
 	4;500
 @139
 	17;2;2
-	16;Anyway, I'll restore the normal flow of time.
+	16;I don't know what's gotten into this child..
 	7;1
 	4;500
 @140
 	17;2;6
-	16;It's my duty to defeat these youkai threats!
+	16;*mumbles*
 	4;500
 @141
 	17;0;2
@@ -131,7 +135,8 @@ entry 0
 	4;500
 @146
 	17;2;2
-	16;So, are you ready to go back to your coffin?
+	16;I'm not letting this spic and frenchfag to
+	16;Allow that grifter to get ANY money!
 	4;500
 @147
 	17;1;6
@@ -140,7 +145,7 @@ entry 0
 	4;500
 @148
 	17;2;2
-	16;That windowless, dark and scarlet coffin!
+	16;GOD! FAKE INTERESTTTTT!
 	4;500
 	5;0;5
 	5;1;5
@@ -166,9 +171,9 @@ entry 1
 	16;blood, so go on home.
 	4;500
 @62
-	17;2;-2
-	16;Not yet.
-	16;What was the purpose of stopping the night?
+	17;2;8
+	16;Fine, Whatever, It's about time I fuck off
+	16;from this shite community anyways.
 	4;500
 @63
 	17;0;3
@@ -188,8 +193,7 @@ entry 1
 	4;500
 @67
 	17;2;-2
-	16;Sigh, I'd be disgusted if it were still night 
-	16;tomorrow.
+	16;Atleast, I can get up at 4PM tomorrow!
 	4;500
 @68
 	17;1;2
@@ -232,9 +236,8 @@ entry 3
 	1;1;1
 	1;2;2
 @60
-	15;2;2;8;2;-1
-	16;How are you not getting lost in this 
-	16;bamboo forest...
+	17;2;6
+	16;"2-ALL Before married"
 	4;500
 @61
 	17;0;2
@@ -242,13 +245,13 @@ entry 3
 	16;You can't escape.
 	4;500
 @62
-	17;2;2
-	16;You surprised me by both attacking at once.
-	16;Now I'm ready.
+	17;2;6
+	16;STOP STALKING ME.
+	16;LEAVE ME ALONE.
 	4;500
 @63
-	17;2;6
-	16;Lose yourselves in the gap of my boundary!
+	17;2;8
+	16;I'm starting to think Ricky likes Truss...
 	4;500
 	5;0;5
 	5;1;5
