@@ -3,7 +3,7 @@ entry 0
 	15;2;-1;-1;-1;-1
 @60
 	15;2;-1;-1;-1;-1
-	16;(baf intro dialog)
+	16;-my god, you LITERALLY asked for it!
 @61
 	4;60
 	13;0
@@ -12,10 +12,10 @@ entry 0
 	1;2;2
 	13;1
 	17;2;6
-	16;(more baf)
-	16;(baf nootices Jheng)
+	16;...Great, Discord stalkers!
+    16;Mr. Pineapple and-a the one who replaced me!
 	4;500
-	16;(rezardi, mentions CPS and Jheng
+	16;What are you two doings here?!
 	4;500
 	1;0;1
 	1;1;1
@@ -25,107 +25,109 @@ entry 0
 	4;500
 @122
 	17;1;6
-	16;(jheng)
-	16;(jheng)
+	16;hi baffo eeeh honestly i did not replace you
+	16;you left on your own.
 	4;500
 @123
 	17;2;2
-	16;(rezardi reply)
-	16;(rezardi)
+	16;OH MY GOD dude, I'm about to mute #off-topic
+	16;for the 20th time if these fags don't shut up!
 	8;2;0;MIKOSAN MIKOSAN
 	4;500
 @124
 	17;0;7
-	16;Er... not really...
-	16;Reimu, we're just...
+	16;Why yoo moot me Rezardi, you all ways
+	16;calling me sneetch!
 	4;500
 @125
 	17;1;8
-	16;Why all the stuttering?
-	16;Just yell at her like you always do.
+	16;unironically you are in a lot other discords
+	16;like that madoka magica one
 	4;500
 @126
 	17;1;2
-	16;"Bitch, get out of the way!"
-	16;Like that.
+	16;are you actually a secret groomer CPS?
+	16;is there something you are not telling us?
 	4;500
 @127
 	17;0;2
-	16;No, don't!
-	16;We'll be in for it if she gets mad!
+	16;Shut up eye do nawt want to get banned again
+	16;for the same false accusation.
 	4;500
 @128
 	17;2;6
-	16;Cat's got your tongue, eh?
+	16;It-a just always happens to be from people
+	16;you're-a close with, like Aktane!
 	4;500
 @129
 	17;2;2
-	16;Get over here.  Tonight, I'll
-	16;teach you a lesson you won't forget!
+	16;That's why we call you the fucking
+	16;Indonesian Snitch, dude! ALWAYS snitchin' on us
 	4;500
 @130
 	17;1;6
-	16;Silly shrine maiden.
-	16;Can't you see what's wrong with the moon?
+	16;eeeh honestly don't be mean to cps he just wants
+	16;some friends to hang with.
 	4;500
 @131
 	17;1;2
-	16;It's so obvious by now,
-	16;even you could notice it!
+	16;in general making up lies is honestly like tranny
+	16;behavior. you guys should know better.
 	4;500
 @132
 	17;2;2
-	16;Ahh!
+	16;FAKE INTEREST!! No more fucking TROON TALK
+    16;Every time I check this Discord, its just TROONS
 	4;500
 @133
 	17;2;6
-	16;Corrupting the moon, too?  How dare you?!
+	16;Rez, this is-a who you replaced me with?
+    16;Is this atleast better or worse than dunjun?
 	4;500
 @134
 	17;0;2
-	16;Okay, okay, I give up.
+	16;Heey...Rezardi why aare yoo with baf?
 	7;1
 	4;500
 @135
 	17;0;5
-	16;You're right.
-	16;The endless night, and stealing the full moon,
+	16;In fact, why are yoo guys doing here.
 	4;500
 @136
 	17;0;2
-	16;and hiding the human village,
-	16;and putting funny hats on stone statues...
+	16;Deed EC tell you about da Pee Cee Bee?
 	4;500
 @137
-	17;0;8
-	16;It's all Alice's fault.
+	17;0;8 bert
+	16;Uaaaah! Dat ees not what eye meant too say.
 	4;500
 @138
-	17;0;3
-	16;Now, bitch, get out of the way!
+	17;0;3 
+	16;Dere ees noo Pee Cee Bee 
 	4;500
 @139
 	17;2;8
-	16;All right, if that's how you want it.
+	16;I knew you two shmiggers were hiding something..
 	4;500
 @140
 	17;2;2
-	16;In this luminous soil, under the moonlight...
+	16;EC Told us about that PCB, and I'd rather
+    16;play motherfucking Troonhou before...
 	4;500
 @141
 	17;2;2
-	16;You two will make such a beautiful pair
-	16;when I grind you both into it.
+	16;I let you two eternal Discord milkers
+    16;anywhere near that fucking thing!
 	4;500
 @142
 	17;1;3
-	16;I must confess, you've taken
-	16;the words right out of my mouth.
+	16;honestly i dont care that much about dodonpachi
+	16;cause it is not toa but i can wish for more toa!
 	4;500
 @143
 	17;2;3
-	16;Come on!
-	16;Let's settle this and stop the endless night!
+	16;*groan*
+	16;Fine. Whatever!
 	4;500
 	5;0;5
 	5;1;5
@@ -143,40 +145,37 @@ entry 1
 	1;2;2
 @60
 	15;0;4;8;10;-1
-	16;Okay, let's move on.
+	16;Another clear to da leest!
 	4;500
 @61
 	17;1;2
-	16;Our goal is finally in sight.
+	16;eeeeh its okay
 	4;500
 @62
 	17;2;-2
-	16;If you really insist...
-	16;Just don't go too far, okay?
+	16;CPS, can I make-a the thumbnail?
 	4;500
 @63
 	17;1;3
-	16;Sorry, did you say something?
+	16;aww cps you are a making a friend
 	4;500
 @64
 	17;0;3
-	16;Wow, I didn't know there was such a big
-	16;mansion in the middle of this bamboo forest.
+	16;Eye doo not need friends. 
+	16;All eye need is Social Credit...
 	4;500
 @65
 	17;2;-2
-	16;Huh?
-	16;Oh, neither did I...
+	16;CPS, can I make-a the thumbnail?
 	4;500
 @66
 	17;1;2
-	16;Bye bye, now.  It's time for little
-	16;children and losers to go home.
+	16;CPS you could have made a friend stop
+	16;the fucking milking it is not that important!
 	4;500
 @67
 	17;0;3
-	16;Looks like game over for you, Reimu.
-	16;See ya later!
+	16;Little Jheng, you steel have much to learn...
 	4;500
 	13;0
 @127
@@ -194,12 +193,12 @@ entry 2
 	1;1;1
 @60
 	15;0;2;2;-1;-1
-	16;Oh?
-	16;It's unusual for her to retreat.
+	16;Uaaaaah!
+	16;Dey get away!
 	4;500
 @61
 	17;1;2
-	16;Keep going, Marisa.
+	16;in general running away is again, tranny behavior
 	4;500
 	5;0;5
 	5;1;5
@@ -216,16 +215,18 @@ entry 3
 	1;2;2
 @60
 	15;2;2;8;2;-1
-	16;Now, I'll show you two the true
-	16;power of my boundary!
+	16;Can you faggots just FUCK OFF?
+    16;It's bad enough I'm stuck with BAF!
 	4;500
 @61
 	17;0;2
-	16;What's the point of doing it again?
+	16;Baf, doo yoo want too doo Meetal Slug
+	16;after da adventure?
 	4;500
 @62
 	17;2;6
-	16;There's two of you, so I get two tries!
+	16;CPS... You asked-a me this years ago!
+    16;You milked pigeon clears instead!
 	4;500
 	5;0;5
 	5;1;5

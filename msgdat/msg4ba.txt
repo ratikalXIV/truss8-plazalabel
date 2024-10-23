@@ -30,9 +30,9 @@ entry 0
 	16;God, and that fucking Troon Scholar, too?
 	4;500
 @124
-	17;2;2
-	16;(jheng)
-	16;(jheng)
+	17;2;3
+	16;honestly its not just troons is also toaplan
+	16;and abusive families.
 	4;500
 @125
 	17;0;7
@@ -45,15 +45,18 @@ entry 0
 	4;500
 @127
 	17;2;3
-	16;(jheng)
+	16;unironically no one replaced you baf it was you
+	16;who left and could not get the bants
 	4;500
 @128
-	17;2;2
-	16;(jheng talks about mork having the PCB)
+	17;2;3
+	16;anyways did you hear that mark has the dodonpachi
+	16;blue label pcb that grants wishes?
 	4;500
 @129
 	17;1;8
-	16;Why are you two after Mork?
+	16;SHUT UPPPP, Who fucking cares about that
+	16;shitty romhack? But, what is this about wishes?
 	4;500
 @130
 	17;2;2
@@ -105,7 +108,8 @@ entry 0
 	4;500
 @140
 	17;2;8
-	16;(jheng reply to CPS. mention they could take the board for themselves)
+	16;honestly we could just take the board for
+	16;ourselves and have the social credit in that
 	4;500
 @141
 	17;2;2
@@ -118,7 +122,7 @@ entry 0
 	16;No matter what's at stake, its just MILK MILK!
 	4;500
 @143
-	17;2;3
+	17;2;6
 	16;Little Jheng! No holding back! I need you're BIG
 	16;walls! For Mork and for Social Credit !!
 	4;500
@@ -167,8 +171,9 @@ entry 1
 	16;Little Jheng, tell them where it is...
 	4;500
 @66
-	17;2;-2
-	16;(jheng 4 line wall explaining where AirBnB is)
+	17;2;2
+	16;honestly in general the airbinb is unironically
+	16;just behind you.
 	4;500
 @67
 	17;1;2
@@ -219,7 +224,7 @@ entry 3
 	16;only "DUNGEON"!
 	4;500
 @61
-	17;0;3
+	17;1;2
 	16;*inhales*
 	16;DUNGEON!
 	4;500
