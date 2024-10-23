@@ -162,7 +162,8 @@ entry 0
 	4;500
 @154
 	17;1;6
-	16;(jheng talks about his inevitable defeat)
+	16;change! you are still good at heart, but you
+	16;need to not be controlled by your bias.
 	4;500
 @155
 	17;2;2
@@ -229,7 +230,8 @@ entry 2
 	4;500
 @63
 	17;1;5
-	16;(jheng comment about DEI)
+	16;People should have education, they aren't smoke
+	16;screens for virtue signalling and money launder.
 	4;500
 	5;0;5
 	5;1;5

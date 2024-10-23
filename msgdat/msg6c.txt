@@ -31,8 +31,8 @@ entry 0
 	16;Finally, this retarded community can shatter.
 	4;500
 @125
-	17;0;2
-	16;...(sad pepe)
+	17;0;7
+	16;...
 	4;500
 @126
 	17;1;7
@@ -273,7 +273,7 @@ entry 2
 	4;500
 @61
 	17;2;-2
-	16;Regardless, I'll tank these guys for your Mark!
+	16;Regardless, I'll tank these guys for you Mark!
 	4;500
 @62
 	17;1;2
@@ -302,7 +302,7 @@ entry 3
 	4;500
 @61
 	17;2;-2
-	16;BogHog, I'll use my Patreon Bucks to give you
+	16;I'll use my Patreon Bucks to give you
 	16;one final hurrah! ha
 	4;500
 @62

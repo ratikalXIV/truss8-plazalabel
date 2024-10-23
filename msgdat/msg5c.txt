@@ -223,7 +223,8 @@ entry 1
 	4;500
 @63
 	17;2;-2
-	16;You may have won the battle, but you'll lose the war!
+	16;You may have won the battle, but you'll lose the
+	16;war!
 	4;500
 @64
 	17;2;-2
@@ -247,8 +248,8 @@ entry 1
 	16;You...want us to win?
 	4;500
 @69
-	17;0;6
-	16;*sad pepe face*
+	17;0;7
+	16;...
 	4;500
 	13;0
 @129

@@ -24,20 +24,23 @@ entry 0
 	4;500
 @123
 	17;1;9
-	16;(jheng disappointed these are not uemura/yuge games)
+	16;Those are good choices but they lack some parts
+	16;of varied design like the bottom enemy attacks
 	4;500
 @124
-	17;1;2
-	16;(more explaination)
+	17;1;9
+	16;the interesting enemy formations, the cool enemy
+	16;ai, the varied weapon usage and the mobility.
 	4;500
 @125
 	17;2;2
-	16;(boghog responds to jheng)
+	16;I think what you said is true, but
+	16;I have this to say.
 	8;2;0;TASUKETE
 	4;500
 @126
 	17;2;5
-	16;(another boghog response to jheng)
+	16;The people want slop.
 	4;500
 @127
 	17;0;7
@@ -46,7 +49,8 @@ entry 0
 	4;500
 @128
 	17;1;8
-	16;(jheng berates cps for interupting)
+	16;CPS STOP BEING RETARDED! you are just thinking
+	16;in milk
 	4;500
 @129
 	17;0;7
@@ -106,7 +110,7 @@ entry 0
 	4;500
 @141
 	17;1;2
-	16;(jheng comment about sexual joke)
+	16;Stop being coomers!
 	4;500
 @142
 	17;0;2
@@ -148,11 +152,12 @@ entry 0
 	4;500
 @150
 	17;1;3
-	16;(jheng snaps at boghog for his fake interest in toaplan)
+	16;BOG! I KNOW YOU ARE STILL SHMUP BUT YOU HAVE
+	16;TO STOP BEING CONTROLLED BY MORK!
 	4;500
 @151
 	17;1;3
-	16;(more jheng snapping)
+	16;WAKE UP BOG!
 	4;500
 @152
 	17;0;3
@@ -162,7 +167,7 @@ entry 0
 @153
 	17;1;3
 	16;you know what we do to pigs in mexico? we
-	16;[redacted] them and [redacted] [redacted].
+	16;[redacted].
 	4;500
 @154
 	17;2;5
@@ -203,7 +208,6 @@ entry 2
 	15;2;2;2;2;-1
 	13;1
 	16;Hahaha!
-	16;(I heard you, Charlene. I'll take it from here)
 	4;500
 @61
 	17;2;-2

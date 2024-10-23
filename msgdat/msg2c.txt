@@ -61,12 +61,12 @@ entry 0
 @70
 	4;500
 	17;2;6
-	16;(whine about AI songs)
+	16;Wyaaaaah! Those stupid songs! Stop singing them!
 @71
 	4;500
 	17;2;6
-	16;(mention words childish, stalker, doxxed
-	16;act like a victim)
+	16;I hate you stupid childish stalkers, quit
+	16;doxxing me!
 @72
 	4;500
 	17;1;2
