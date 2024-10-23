@@ -200,7 +200,7 @@ entry 0
 	4;500
 @278
 	17;2;2
-	16;Please. My eyes are omnipresent, there is no
+	16;Please. With my troonatic eyes, there is no
 	16;where you can hide!
 	4;500
 	5;0;5
