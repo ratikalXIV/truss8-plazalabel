@@ -6,6 +6,7 @@ entry 0
 @60
 	15;0;5;2;-1;-1
 	16;Jheng...dis es not da right room!
+	16;Uaaah!
 @61
 	4;60
 	13;0
