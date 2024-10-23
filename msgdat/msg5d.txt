@@ -303,8 +303,8 @@ entry 3
 @120
 	4;1
 @180
-	19;Go where Yuyuko says (Final A)
-	20;Go where Yuyuko says (Final B)
+	19;Talk about trannies. (Final A)
+	20;Talk about trannies.(Final B)
 	21;1200
 @181
 	22
