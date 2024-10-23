@@ -5,8 +5,7 @@ entry 0
 	15;0;5;2;-1;-1
 @60
 	15;0;5;2;-1;-1
-	16;So, appearing and running away
-	16;constantly... are you schizophrenic?
+	16;Jheng...dis es not da right room!
 @61
 	4;60
 	13;0
@@ -15,180 +14,174 @@ entry 0
 	1;2;2
 	13;1
 	17;2;5
-	16;Me, schizophrenic?
-	16;Don't make me laugh.
+	16;Hey, hey, hey! Jheng, right? My favorite Toaplan
+	16;game...that's...uh...right, hmm.
 	4;500
 @122
 	17;2;2
-	16;Haven't you realized that you've
-	16;walked right into my trap?
+	16;Toaplan...! It's on the tip of my tongue...Oh!
+	16;I really liked Batsugun and V-V!
 	4;500
 @123
 	17;1;9
-	16;Marisa, look around!
+	16;(jheng disappointed these are not uemura/yuge games)
 	4;500
 @124
-	17;0;2
-	16;I already did.
-	16;Looks like we're outside now.
+	17;1;2
+	16;(more explaination)
 	4;500
 @125
 	17;2;2
-	16;Yes, the outside.
-	16;I led you here, through that long tunnel.
+	16;(boghog responds to jheng)
 	8;2;0;TASUKETE
 	4;500
 @126
 	17;2;5
-	16;Aren't you happy?
-	16;The air outdoors is so fresh...
+	16;(another boghog response to jheng)
 	4;500
 @127
 	17;0;7
-	16;Yeah, it is.  That's weird.
-	16;I didn't know there was air in space.
+	16;You stoopid peeg, where is Mark? Yoo barely have
+	16;any Social Credit! No milk!
 	4;500
 @128
 	17;1;8
-	16;Marisa!  This is weird!
-	16;That moon... and those stars...
+	16;(jheng berates cps for interupting)
 	4;500
 @129
 	17;0;7
-	16;Don't ask me what's going on.
-	16;Can't you do anything yourself?
+	16;Jheng, that Pee Cee Bee was overvalue!
 	4;500
 @130
 	17;2;4
-	16;Hahahahaha!  You humans were led to the
-	16;false moon in your search for the true one.
+	16;Hahahahaha! To be honest, I don't care about this
+	"Toapower". Ikeda and Cave was better anyways.
 	4;500
 @131
 	17;2;2
-	16;I sealed the passage between the true moon
-	16;and the Earth.
+	16;Toaplan's old news, kid. But, you know what'll be
+	16;the sick, hot, new news on the street? MarkMSX!
 	4;500
 @132
 	17;2;5
-	16;Earthlings will never reach the moon again...
+	16;The Electric Underground!
 	4;500
 @133
 	17;2;4
-	16;And the moon races will never find the princess.
+	16;Buy GunVein on Steam today!
+	16;Now presented by Electric Underground.
+	16;And of course, his majesty's favorite game
+	16;developer and side kick! BogHog!
 	4;500
 @134
 	17;0;8
-	16;Princess?
-	16;Oh, so you're from the moon, too?
+	16;Aaah, fuck shmups! Uaaah!
 	4;500
 @135
 	17;1;7
-	16;What makes you think that?
+	16;gunvein is a good game but it repeats the cave
+	16;formula too much and homogenizes a lot in shmups.
 	4;500
 @136
 	17;0;2
-	16;Well, she's clearly a lunatic, so
-	16;she must be affected by Luna.
+	16;Fuck off, Jheng. 
 	4;500
 @137
 	17;2;5
-	16;Reisen, the princess, and myself...
+	16;That'll all be a reality any moment now! 
 	4;500
 @138
 	17;2;2
-	16;We are all from the moon, but we
-	16;agreed long ago to never return there.
+	16;The sweet sounds of Dodonpachi! The lasers roar,
+	16;the guns flaring, the patterns navigated!
 	4;500
 @139
-	17;0;6
-	16;It doesn't really matter to us
-	16;whether you go back to the moon or not.
+	17;2;2
+	16;Oooo! I sure hope Mark's strat on Hibachi work's
+	16;just as before! He's so close to finishing...
 	4;500
 @140
-	17;0;6
-	16;But haven't you thought about those
-	16;people who like to look at the moon?
+	17;2;2
+	16;And so am I!
 	4;500
 @141
-	17;2;2
-	16;Ah, you say that, but...
+	17;1;2
+	16;(jheng comment about sexual joke)
 	4;500
 @142
-	17;2;5
-	16;If they only watched, it 
-	16;wouldn't be a problem...
+	17;0;2
+	16;Eye can't get any milk from this...
 	4;500
 @143
 	17;2;2
-	16;Instead, they come to the moon themselves...
+	16;Say it ain't so, chap! I keep hearing you say
+	16;there won't be any "milk"!
 	4;500
 @144
 	17;2;2
-	16;And plant a flag on it, as if it 
-	16;belonged to them.
+	16;But, Mark will bring forth a new audience! He
+	16;swears Electric Underground will be well-known!
 	4;500
 @145
 	17;2;6
-	16;Earthlings always have been, are now,
-	16;and eternally will be stupid.
+	16;Shmups will no longer be in the shadows! No more
+	16;will it be, "that" genre of games. New players...
 	4;500
 @146
-	17;1;6
-	16;Hmph.
-	16;We never did any such thing.
+	17;2;6
+	16;"Pigeons", did you call them? They will flock the
+	16;scene. And as you know, pigeons are always on
 	4;500
 @147
-	17;1;6
-	16;Don't forget those who will suffer
-	16;without the presence of the full moon.
+	17;2;6
+	16;the hunt for scraps. Perhaps...your content...
+	16;What do you you think? Mister "CPS", was it?
 	4;500
 @148
-	17;1;2
-	16;Did you think they wouldn't retaliate
-	16;if you stole the moon from them?
+	17;0;2
+	16;...
 	4;500
 @149
 	17;2;2
-	16;Oh, that's not a problem.
-	16;I'm already done in any event.
+	16;More "milk" for you...
+	16;And more "milk" for your friend over there...
 	4;500
 @150
-	17;2;5
-	16;We'll give you back your moon in the morning.
-	16;Of course, it's always truly been ours...
+	17;1;3
+	16;(jheng snaps at boghog for his fake interest in toaplan)
 	4;500
 @151
-	17;0;2
-	16;I see.
+	17;1;3
+	16;(more jheng snapping)
 	4;500
 @152
 	17;0;3
-	16;In that case, all that's left is that
-	16;bit about retaliation.
+	16;Heey BogHog...
+	16;Eye will NOT be scraps!
 	4;500
 @153
 	17;1;3
-	16;Quite so.
-	16;How badly should we beat her up?
+	16;you know what we do to pigs in mexico? we
+	16;[redacted] them and [redacted] [redacted].
 	4;500
 @154
 	17;2;5
-	16;My, my, I don't want to get hurt.
+	16;Gentlemen, is this how you accept a peace
+	16;offering?
 	4;500
 @155
-	17;2;2
-	16;I suppose a minor injury isn't a problem,
-	16;since I happen to know a bit about medicine... 
+	17;0;2
+	16;FUCK peace, FUCK shmups, FUCK Jheng, FUCK Mark,
+	16;and FUCK YOU!
 	4;500
 @156
-	17;0;2
-	16;Well, good for you.
-	16;Isn't that convenient?
+	17;2;5
+	16;Very well. But, we're the shmiggers now!
+	16;You can round up a bunch of pigeons to defeat us!
 	4;500
 @157
 	17;2;5
-	16;And by the way...
-	16;Drugs can be used to attack, too!
+	16;BUT YOU'LL STILL ALL JUST BE PIGEONS!!!
 	7;1
 	4;500
 	5;0;5
@@ -210,19 +203,20 @@ entry 2
 	15;2;2;2;2;-1
 	13;1
 	16;Hahaha!
+	16;(I heard you, Charlene. I'll take it from here)
 	4;500
 @61
 	17;2;-2
-	16;So you're following me.  Good.
+	16;The Toapower is great, isn't it little one!?
 	4;500
 @62
 	17;1;2
-	16;Marisa!
-	16;Shoot her down!
+	16;TOAPOWER! TOAPOWER! TOAPOWER!
+	16;mister boghog what is your favorite game!?
 	4;500
 @63
-	17;0;8
-	16;I don't need an order to do that!
+	17;2;-2
+	16;You'll have to beat me to find out~!
 	4;500
 	5;0;5
 	5;1;5
@@ -236,26 +230,26 @@ entry 2
 entry 3
 @60
 	15;2;-1;-1;-1;-1
-	16;What are you playing at?!
+	16;I have done it. ha
 	6
 	4;500
 @61
 	17;2;-2
-	16;Eirin, I'll use my power to give you
-	16;one more chance.
+	16;BogHog, I'll use my Patreon Bucks to give you
+	16;one final hurrah! ha
 	4;500
 @62
 	17;2;-2
-	16;If you're defeated this time...
+	16;If you succeed, you'll be my first interview.
 	4;500
 @63
 	17;2;-2
-	16;You strays!
+	16;You there! The "milkers"!
 	4;500
 @64
 	17;2;-2
-	16;My arcane medicine and Eirin's true
-	16;power - you'll never forget this!
+	16;Welcome...to the Electric Underground! And thank
+	16;my $5 Patreon's!
 	4;500
 	7;2
 	13;0

@@ -110,16 +110,16 @@ entry 1
 	4;500
 @61
 	17;1;6
-	16;Sorry
+	16;sorry
 	4;500
 @62
 	17;0;2
-	16;Uaaahah! I teach you to milk better
+	16;Uaaahah! It okay little Jheng
 	4;500
 @63
 	17;0;2
-	16;I see pigeon in distance. I show you how dis is
-	16;done. 
+	16;I see old pigeon gamer in distance. we can try
+	16;again.
 @64
 	4;500
 	13;0

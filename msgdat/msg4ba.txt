@@ -3,7 +3,7 @@ entry 0
 	15;2;-1;-1;-1;-1
 @60
 	15;2;-1;-1;-1;-1
-	16;Move and I'll shoot!!
+	16;Monitoring the channels as usual, I see.
 @61
 	4;60
 	13;0
@@ -12,8 +12,7 @@ entry 0
 	1;2;2
 	13;1
 	17;2;6
-	16;I messed up.
-	16;I mean, shoot and I'll move. In a flash.
+	16;Baf, I dought yoo were too old for poohoo.
 	4;500
 	1;0;1
 	1;1;1
@@ -22,8 +21,8 @@ entry 0
 	4;500
 @122
 	17;2;2
-	16;Oh, you know, just hunting some troublesome 
-	16;youkai as usual.
+	16;I didn't expect Rezardi too bee here. Eye also
+	16;have a partner.
 	8;2;0;Marisa Kirisame
 	4;500
 @123
@@ -32,8 +31,8 @@ entry 0
 	4;500
 @124
 	17;2;2
-	16;What I said was "hunting troublesome youkai".
-	16;In YOUR case, it's troublesome "youkai hunting."
+	16;(jheng)
+	16;(jheng)
 	4;500
 @125
 	17;0;7
@@ -46,12 +45,11 @@ entry 0
 	4;500
 @127
 	17;2;3
-	16;Hunt troublesome youkai.
+	16;(jheng)
 	4;500
 @128
 	17;2;2
-	16;I got bored staring at the moon.
-	16;It's about time to make it be tomorrow.
+	16;(jheng talks about mork having the PCB)
 	4;500
 @129
 	17;1;8
@@ -59,8 +57,8 @@ entry 0
 	4;500
 @130
 	17;2;2
-	16;You. You're fooling around with the
-	16;boundary of night and day, right?
+	16;If he 2 ALL, he weel make de Electric Underground
+	16;HUGE cow. 
 	4;500
 @131
 	17;0;6
@@ -74,7 +72,7 @@ entry 0
 	4;500
 @133
 	17;2;8
-	16;What?
+	16;Yes, but...
 	4;500
 @134
 	17;0;8
@@ -82,8 +80,7 @@ entry 0
 	4;500
 @135
 	17;2;7
-	16;Speak in Japanese.
-	16;We're in Gensokyo.
+	16;How deed you guys get here?
 	4;500
 @136
 	17;0;2
@@ -101,28 +98,29 @@ entry 0
 	16;We're going to stop Mork from taking over.
 	16;The scene must be saved!
 	4;500
-@139 (angry cps about lack of milk)
+@139 
 	17;2;6
-	16;What? I'm not sure what you're going on about.
-	16;An eternal night has danger written all over it.
+	16;Uaaah! But den I hav no Shmup Slams to get Social
+	16;Credit from!
 	4;500
 @140
 	17;2;8
-	16;Youkai eat humans during the night.
+	16;(jheng reply to CPS. mention they could take the board for themselves)
 	4;500
 @141
 	17;2;2
-	16;If the night lasts too long, all the youkai will
-	16;overeat and blow up.
+	16;Heey...you may be right...that Pee Cee Bee is
+	16;worth plenty Social Credit...My...milky...dream!!
 	4;500
 @142
 	17;1;6
-	16;God these fucking MILKERS!
+	16;God, these fucking MILKERS!
 	16;No matter what's at stake, its just MILK MILK!
 	4;500
 @143
 	17;2;3
-	16;Gotta exterminate them before they blow up!
+	16;Little Jheng! No holding back! I need you're BIG
+	16;walls! For Mork and for Social Credit !!
 	4;500
 	5;0;5
 	5;1;5
@@ -150,8 +148,8 @@ entry 1
 	4;500
 @62
 	17;2;-2
-	16;Dammit.
-	16;What the heck are you guys trying to do?
+	16;Uaaaah...dat was too tight.
+	16;Tell me Rezardi, what doo yoo dooing?
 	4;500
 @63
 	17;1;3
@@ -165,12 +163,12 @@ entry 1
 	4;500
 @65
 	17;2;-2
-	16;Can't be helped if I lost.
-	16;Time to head home and sleep.
+	16;Crumbs of Social Credit is all dat awaits us...
+	16;Little Jheng, tell them where it is...
 	4;500
 @66
 	17;2;-2
-	16;When I wake up, it'd better be morning.
+	16;(jheng 4 line wall explaining where AirBnB is)
 	4;500
 @67
 	17;1;2
@@ -217,18 +215,18 @@ entry 3
 	1;2;2
 @60
 	15;2;2;8;2;-1
-	16;Oh, if it isn't Reimu!
-	16;What's up?
+	16;Baf, yoo never wanted to coop Metal Slug with me,
+	16;only "DUNGEON"!
 	4;500
 @61
 	17;1;2
-	16;I can sense it...
-	16;The thirst for milk!
+	16;*inhales*
+	16;DUNGEON!
 	4;500
 @62
 	17;2;6
-	16;The last attack was for Yukari.
-	16;This one's for you!
+	16;Rez, back away. Dees attack is just for yoo
+	16;Baf!!
 	4;500
 	5;0;5
 	5;1;5

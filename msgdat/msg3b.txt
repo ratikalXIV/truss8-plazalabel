@@ -232,12 +232,12 @@ entry 3
 	15;0;2;2;2;-1
 @61
 	17;2;9
-	16;Who in the world are you?
+	16;I should've used the Radiant Shittercunt...
 	4;500
 @62
 	17;0;6
-	16;Hmph, what you meant to say is
-	16;"Whoops, I gotta be somewhere else!", right?
+	16;I weel take dis as payment for my Social Credit
+	16;debt you owe from Tunda Force Fahve...
 	4;500
 	5;0;5
 	5;1;5

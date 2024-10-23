@@ -12,87 +12,86 @@ entry 0
 	1;2;2
 	13;1
 	17;2;5
-	16;I've already sealed all the doors.
-	16;You'll never reach her now!
+	16;I've locked all of the doors. 
+	16;You'll never stop Mork now!
 	4;500
 	1;0;1
 	1;1;1
 	15;0;2;2;-2;-1
-	16;Gosh, Alice, wasn't that corridor
-	16;really long?  And so dark, too!
+	16;Charlene, it ees yoo!
 	4;500
 @122
 	17;1;2
-	16;Shouldn't we be dealing with that
-	16;person in front of us?
+	16;thats a tranny cps, dont fall into troon bullshit
 	4;500
 @123
 	17;2;7
-	16;Huh, wait.
-	16;You two are... Earthlings, right?
+	16;Excuse me, little boy. That is Queen Charlene!
 	8;2;0;EVERYONE'S FURRY FOR REISEN
 	4;500
 @124
 	17;2;2
-	16;What are you doing here at this time of night?
+	16;Oh no...I've heard of you. You're that guy who
+	16;kept pinging everyone on the Garegga channel!
 	4;500
 @125
-	17;0;7
-	16;I'll tell you what, it'd take one hell
-	16;of a janitor to clean a hall that long!
+	17;1;7
+    16;Well yeah, i wanted to give a low rank guide
+    16;for real, unlike your fag discord with seals
 	4;500
 @126
 	17;1;8
-	16;Even so, Marisa, it'd still be easier
-	16;than cleaning your house.
+    16;and annoying trannies, like you.
 	4;500
 @127
 	17;1;2
-	16;So, why don't we deal with this person?
+    16;you are a disgusting degen which
+    16;accepts degenerates and hurts based tomboys
 	4;500
 @128
 	17;2;6
-	16;Looks like a couple of weirdoes came to visit.
+	16;Oh god...I'm going to have actually moderate
+	16;the server, aren't I?
 	4;500
 @129
 	17;2;5
-	16;We're busy right now, so if you're
-	16;just here to steal stuff, go home.
+	16;Look, just go home. We've got some hardcore
+	16;gaming you've never even dreamed of!
 	4;500
 @130
 	17;0;8
-	16;Busy?  Only villains would be busy at
-	16;this time of night.
+	16;Jheng, I know yoo got a thing for Charlene but
+	16;eye don't tink dis is da right time...
 	4;500
 @131
 	17;0;5
-	16;Don't you agree, Alice?
+	16;Heey...Jheng...
 	4;500
 @132
 	17;1;6
-	16;If you won't start, I guess I will.
+    16;This is what happens when trannies are
+    16;put as mods, only shit content and
 	4;500
 @133
 	17;1;2
-	16;Hey, you!  Are you involved in the
-	16;current incident regarding the moon?
+    16;bullshit becomes the norm
 	4;500
 @134
 	17;2;2
-	16;Certainly.
+	16;Ha! Your buddy has soft-locked himself. I'm only
+	16;allowing it for now. Anything to slow you down.
 	4;500
 @135
 	17;0;2
-	16;Either return the moon right now, or
-	16;return it after some punishment.
+	16;Jheng, for the love of Toapower...
 	4;500
 @136
 	17;0;3
-	16;Pick one!
+	16;FUCK OFF!!
 	4;500
 @137
 	17;1;7
-	16;Don't steal my moment of coolness...
+	16;sorry
 	4;500
 	13;0
 	6
@@ -100,51 +99,48 @@ entry 0
 	1;3;2
 	13;1
 	17;3;2
-	16;We can't return the moon to normal yet.
+	16;What is this god damn racket!?
 	4;500
 @198
 	17;3;2
-	16;Even now, the conflict within the 
-	16;lunar races escalates.
+	16;Our lord Mark is getting distracted, he just died
+	16;in 2-4 cause he heard the word "troon"!
 	4;500
 @199
 	17;3;2
-	16;All we can do is seal the Earth,
-	16;to allow our princess to escape.
+	16;Charleeene! Who the hell are these guys!?
 	4;500
 @200
 	17;0;9
-	16;What?  Who are you?
+	16;Boghog!
 	4;500
 @201
 	17;1;8
-	16;Watch out, Marisa!  I feel power
-	16;like I've never seen before from her!
+	16;(jheng asks boghog's opinion on toaplan)
 	4;500
 @202
 	17;3;2
-	16;You seem to be using an ancient branch
-	16;of magic.  Ahh, that chaotic power...
+	16;Well, if you SAW my Shmup 101's, I explained that
+	16;Toaplan games have their own sort of pattern.
 	4;500
 @203
 	17;3;2
-	16;It's from the good old days, back
-	16;before the existence of humans.
+	16;The idea is that enemies come out from lanes at 
+	16;the top of the screen, usually opposite sides.
 	4;500
 @204
 	17;3;2
-	16;Of course, such abilities would
-	16;suit some priests, as well.
+	16;This would help force the player to move and give
+	16;a sense a rhythm. I like to call this desig-
 	4;500
 @205
-	17;3;2
-	16;Well, enough of this.
-	16;Udonge, I'll leave this to you.
+	17;2;2
+	16;TOAPOWER !!
 	4;500
 @206
 	17;3;2
-	16;Whatever you do, don't let them take
-	16;our princess out.
+	16;SHHH! Damnit! This guy is good! Charlene, ban
+	16;these idiots before they cause any more deaths!
 	4;500
 	5;3;5
 	13;0
@@ -154,61 +150,58 @@ entry 0
 	4;500
 @267
 	17;2;2
-	16;Affirmative.
-	16;Now, you two will never reach her door!
+	16;Yes, that bot is too loud and too ignorant.
+	16;And you, Pineapple, are guilty by association!
 	4;500
 @268
 	17;0;6
-	16;What?  All that big talk
-	16;and then she just runs away?
+	16;Uaaah, Jheng...I may have taught you too well...
 	4;500
 @269
 	17;0;2
-	16;It's like she's begging us.
-	16;"Please, come beat me up later!"
+	16;But no more dilly-dallying. We need to get past 
+	16;thees Deescord Mod
 	4;500
 @270
 	17;1;2
-	16;She certainly is.
-	16;But whether we do so depends...
+	16;honestly, i want to talk more to that pig guy...
 	4;500
 @271
 	17;1;2
-	16;She may or may not be the one.
-	16;We can't forget our objective.
+	16;but we have to deal with this agp first
 	4;500
 @272
 	17;2;6
-	16;You two are ignoring me too much...
+	16;Is this what those bigot's meant by "milk"?
 	4;500
 @273
 	17;2;2
-	16;See this?
-	16;This endless hypnotic corridor is my trap!
+	16;Whatever, I won't let myself be "milked" by you!
 	7;1
 	4;500
 @274
 	17;2;5
-	16;Now, prepare yourselves to be
-	16;completely blown away by my power!
+	16;I may be "king", but Mark shall be the all-mighty
+	16;emperor! He'll "milk" all of YOU!
 	4;500
 @275
 	17;1;2
-	16;That sounds like something Marisa would say.
+	16;"balls said the queen, 
+	16;if i had them i'd be king"
 	4;500
 @276
 	17;1;3
-	16;You're the one who'll be completely
-	16;blown away by Final Spark, you hogweed.
+	16;but you already have them!!
 	4;500
 @277
 	17;0;8
-	16;Hey, don't steal my moment of coolness...
+	16;Bye our milky powers combined, wee will make yoo
+	16;step down from Moodsheep!
 	4;500
 @278
 	17;2;2
-	16;Big talk, but shall we see how confident
-	16;you are after staring into my mesmerizing eyes?
+	16;Please. My eyes are omnipresent, there is no
+	16;where you can hide!
 	4;500
 	5;0;5
 	5;1;5
@@ -226,48 +219,51 @@ entry 1
 	1;2;2
 @60
 	15;0;4;8;10;-1
-	16;Did the moon return to normal?
+	16;Uaaah! Forgive me, Charlene...
 	4;500
 @61
 	17;1;2
-	16;No, she wasn't the one.
-	16;As expected, I guess.
+    16;Stop wanting milk from trannies, you are
+    16;defending a disgusting agp degen.
 	4;500
 @62
 	17;2;-2
-	16;I may have lost, but do you really
-	16;think you can beat my master?
+	16;This changes nothing...Mark will still 2-ALL
+	16;that game. He did it before! ...I think...?
 	4;500
 @63
 	17;1;3
-	16;Of course we will.
+    16;the ddp trap15 label it's ok but it's too easy.
+    16;Mork took 12 months to 2-all, he won't do it too.
 	4;500
 @64
-	17;0;3
-	16;She looked pretty dinky to me.
+	17;1;3
+    16;I really hate cave dick sucking. boghog tries to not 
+    16;make slop but he repeats cave too much, he needs toa.
 	4;500
 @65
 	17;2;-2
-	16;I'll admit I wasn't strong enough this time...
+	16;(Wait! I can still salvage this!!)
+	16;BogHog is down the hall and to the...LEFT!
 	4;500
 @66
 	17;2;-2
-	16;But my master is the greatest genius
-	16;of the entire moon.
+	16;Follow the Coke Zero's until they veer right. 
+	16;J-just ignore that. No uh, "doapower" that way.
 	4;500
 @67
 	17;2;-2
-	16;You fools will never be a match for her!
+	16;(Master BogHog, don't divert the path. I'm
+	16;sending them your way!)
 	4;500
 @68
 	17;0;6
-	16;Eh?  Who needs brains in danmaku?
-	16;Power, that's all ya need!
+	16;Uaaah, but wee want to se-
 	4;500
 @69
 	17;1;7
-	16;See, you ARE stupid.  Danmaku requires
-	16;brains.  That's just common sense.
+	16;TOA TOA TOA POWER
+	16;LET's GO CPS ILL SHOW YOU TOA POWER!
 	4;500
 	13;0
 @129
@@ -286,43 +282,41 @@ entry 2
 	1;2;2
 @60
 	15;0;4;8;10;-1
-	16;Did the moon return to normal?
+	16;Uaaah! Forgive me, Charlene...
 	4;500
 @61
 	17;1;2
-	16;No, she wasn't the one.
-	16;Hey, check that out...
+	16;you mean king charles, CPS! 
+	16;hey wait, aren't those...
 	4;500
 @62
 	17;0;2
-	16;I know.  That door's open a little bit.
-	16;I sense a strong power inside...
+	16;Coke Zero's!
 	4;500
 @63
 	17;2;-2
-	16;Ahhh, that's...
+	16;No! Wait!
 	4;500
 @64
 	17;1;3
-	16;Stuff to blow up?
+	16;That is where Mark is!
 	4;500
 @65
 	17;0;3
-	16;Stuff to blow up.
+	16;Dat is where MILK is!
 	4;500
 @66
 	17;1;3
-	16;I guess there's no other way.
-	16;Let's get started, then.
+	16;toapower can wait. after we get this pcb...
+	16;we can have all the toapower in the world!
 	4;500
 @67
 	17;0;3
-	16;Absolutely.
-	16;We'll figure it out when we get there.
+	16;MILK! MILK! MILK! MILK!
 	4;500
 @68
 	17;2;-2
-	16;Aww, my master's gonna be mad at me...
+	16;Boghog...Mark...forgive me...
 	4;500
 	13;0
 @128
@@ -338,8 +332,8 @@ entry 3
 @120
 	4;1
 @180
-	19;Go kick Eirin's ass! (FinalA)
-	20;Blow up everything in sight! (FinalB)
+	19;TOAPOWER! (FinalA)
+	20;Fill up jugs of boss milk! (FinalB)
 	21;1200
 @181
 	22

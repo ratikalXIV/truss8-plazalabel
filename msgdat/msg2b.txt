@@ -140,8 +140,8 @@ entry 1
 @64
 	4;500
 	17;0;2
-	16;...Come on Little Jheng, I sense moor Social
-	16;Credit een thee laans over dere.
+	16;Huahahaha, yoo have much to learn Little Jheng,
+	16;but yoo are doing well my toaprince.
 @65
 	4;500
 	13;0

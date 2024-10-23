@@ -3,7 +3,7 @@ entry 0
 	15;2;-1;-1;-1;-1
 @60
 	15;2;-1;-1;-1;-1
-	16;Freeze!
+	16;(baf intro dialog)
 @61
 	4;60
 	13;0
@@ -12,26 +12,26 @@ entry 0
 	1;2;2
 	13;1
 	17;2;6
-	16;I was wondering who was behind all this
-	16;trouble tonight.
+	16;(more baf)
+	16;(baf nootices Jheng)
 	4;500
-	16;So it was you, Marisa!
+	16;(rezardi, mentions CPS and Jheng
 	4;500
 	1;0;1
 	1;1;1
 	15;0;2;2;-2;-1
-	16;Hey, don't slander me.
-	16;The villain's this girl over here.
+	16;Eye am training heem under my weeng so he can bee
+	16;more better milker
 	4;500
 @122
 	17;1;6
-	16;What?!
-	16;You're no different, Marisa!
+	16;(jheng)
+	16;(jheng)
 	4;500
 @123
 	17;2;2
-	16;What are you thinking, coming out
-	16;and doing such terrible things?
+	16;(rezardi reply)
+	16;(rezardi)
 	8;2;0;MIKOSAN MIKOSAN
 	4;500
 @124
