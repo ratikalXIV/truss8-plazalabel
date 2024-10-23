@@ -8,21 +8,22 @@ entry 0
 	1;0;1
 	1;1;1
 	17;0;2
-	16;fake interest
+	16;"FAKE, FAKE, FAKE interest!"
 	4;500
 	17;2;9
-	16;(react to fake interest)
+	16;You got that from Rezardi!
 @61
 	4;500
 	17;2;2
-	16;(another react)
+	16;FUCK REZARDI!
+	16;YOU'RE JUST ASKING FOR A BAAAAAAAAAN!
 	8;2;0;Mystia Lorelei
 @62
 	4;500
 @63
 	17;1;5
 	16;I can't believe a pigeon like you is
-        16;still trying to milk social credit. 
+    16;still trying to milk social credit. 
 	4;500
 	17;2;9
 	16;I'm doing better than you! What's your follower
@@ -30,7 +31,8 @@ entry 0
 @64
 	4;500
 	17;2;3
-	16;(more arrogance about clout)
+	16;Oh no...my viewer count has been going down!
+	16;...Alesta, help!
 @65
 	4;500
 @66
@@ -49,16 +51,17 @@ entry 0
 @68
 	4;500
 	17;0;2
-	16;(ai song quote)
-	16;
+	16;"Takin' voer discords (cords, cords)"
+	16;"He's in control (trol, trol)"
 @69
 	4;500
 	17;1;2
-	16;(ai song quote follow-up)
+	16;"With his beard so wild (wild, wild)
+	16;"He's takin' the credits (Social credits)"
 @70
 	4;500
 	17;2;6
-	16;(start crying about being mocked by ai songs)
+	16;(whine about AI songs)
 @71
 	4;500
 	17;2;6
@@ -67,12 +70,12 @@ entry 0
 @72
 	4;500
 	17;1;2
-	16;(mention Aktane being part of the gang)
-	16;(insult him)
+	16;This stupid pigeon grifter is definitely part of
+	16;the gang. I just know it.
 @73
 	4;500
 	17;0;7
-	16;(Ric doesn't stop with this "gang" nonsense)
+	16;Again with the "gang" nonsense, Ric.
 @74
 	4;500
 	17;2;3
@@ -81,8 +84,10 @@ entry 0
 @75
 	4;500
 	17;0;8
-	16;And we'll show you why you'll always
-	16;be a joke!
+	16;A HUGE FAGGOT: BEARDED MILKER
+	16;IS APPROACHING FAST!
+	16;WARNING
+	16;-------
 @76
 	4;500
 	7;1
@@ -106,12 +111,13 @@ entry 1
 @61
 	4;500
 	17;0;7
-	16;"Fishpogtane, (fishpogtane song quote)
-	16;work.  The night is short.
+	16;"Fake, fake, fake interest~!"
+	16;"Can't stand to play no more~!"
 @62
 	4;500
 	17;0;2
-	16;(another fishpogtane song quote)
+	16;"Fake, fake, fake interest~!"
+	16;"These shmups are suuuuuch aaa boooore~!"
 @63
 	4;500
 	17;1;3
@@ -120,7 +126,8 @@ entry 1
 @64
 	4;500
 	17;0;2
-	16;Let's hear it when we get back!
+	16;Let's hear it when we get back! But it better
+	16;have nothing about a gang in it!
 @65
 	4;500
 	13;0
