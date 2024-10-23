@@ -12,63 +12,63 @@ entry 0
 	1;2;2
 	13;1
 	17;2;5
-	16;I've already sealed all the doors here.
-	16;You'll never reach her now!
+	16;I've already sealed the mork door.
+	16;You won't make it!
 	4;500
 	1;0;1
 	1;1;1
 	15;0;2;2;-2;-1
-	16;Ah, so we've finally found the culprit.
+	16;Well, we found the crux of the issue.
 	4;500
 @122
 	17;1;2
-	16;This is merely a space bird.
-	16;She isn't the last, so don't be impatient.
+	16;Aw. Hi Charlene, how you are doing?
+	16;I found something to milk, wanna do it?
 	4;500
 @123
 	17;2;7
-	16;Huh, it's a ghost.
-	16;Well, don't annoy me.
+	16;What. Are you trannies?
+	16;I will let you pass then. here's a room for you.
 	8;2;0;Risen Reisen, Rabbit Jesus
 	4;500
 @124
 	17;2;2
-	16;If you have no business here, go back.
-	16;We're busy right now.
+	16;You can enjoy everything you see here, just
+	16;tell me what you like so i can give you sauce.
 	4;500
 @125
 	17;0;2
-	16;That's rather poorly worded.
-	16;You're behind the moon incident, aren't you?
+	16;Are you the main culprit of the milk moon?
+	16;I'm terminally ill, give me the wish!
 	4;500
 @126
 	17;0;5
-	16;If you are, I'll slash you.
-	16;If you aren't, I'll slash you and move on.
+	16;Even if you cannot give it to me remove
+	16;this parasite from me please, i beg you.
 	4;500
 @127
 	17;2;2
-	16;The moon incident?
-	16;Ah, you mean the Earth-sealing spell?
+	16;The milk moon?
+	16;Do you mean the shmigger maker?
 	4;500
 @128
 	17;1;6
-	16;That's right.  It's really a very
-	16;troublesome spell.
+	16;Yeah, i can give you something in return
+	16;I will milk Animegirl to death for everyone!
 	4;500
 @129
 	17;1;6
-	16;Please stop it at once.
-	16;Youmu, go on and slash her.
+	16;something better!
+	16;I have desired shmigger blood for so long
 	4;500
 @130
 	17;0;9
-	16;Ehh, should I attack?
+	16;(I need to find a way to escape this)
 	4;500
 @131
 	17;2;6
-	16;Such a rude ghost.  Aren't you
-	16;even going to let us explain?
+	16;Hey Charlene!
+	16;How is the sealing going?
 	4;500
 	13;0
 	6
@@ -76,48 +76,49 @@ entry 0
 	1;3;2
 	13;1
 	17;3;2
-	16;Oh, my, are you meeting someone?  A ghost?
+	16;Mark is close to the 2-ALL and with it 
 	4;500
 @192
 	17;3;2
-	16;I wasn't expecting emissaries here, though.
+	16;we will have shmiggers to enslave!
 	4;500
 @193
 	17;1;8
-	16;Oh, now there's another one.
-	16;Youmu, go slash her as well.
+	16;Boghog! i didn't knew you liked trannies.
+	16;Can i get my prostate prodded?
 	4;500
 @194
 	17;0;9
-	16;Ehhhh, should I be attacking?
+	16;(Maybe i can do something)
 	4;500
 @195
 	17;3;2
-	16;Don't tease the poor girl like that.
+	16;That PCB was easy to obtain, some lies about
+	16;being Kekxa executives was enough for it.
 	4;500
 @196
 	17;3;2
-	16;The business with the moon is a result
-	16;of my spell, yes.
+	16;Now with the PCB mork will get some shmiggers
+	16;and with it we will be more than alive.
 	4;500
 @197
 	17;3;2
-	16;It's on behalf of this girl and the princess.
-	16;Even if you're a ghost, you should be kind.
+	16;What a beautiful blue PCB, BLUE LABEL 
+	16;What a fake interest!
 	4;500
 @198
 	17;0;2
-	16;So you're the culprit?
-	16;I guess you're the one to cut, then.
+	16;I have some food here boghog!
+	16;Can i join?
 	4;500
 @199
 	17;3;2
-	16;Mmm, how impatient you are.
-	16;Udonge, I'll let you handle this.
+	16;You aren't there at all, i just support.
+	16;trannies, i don't like working with them.
 	4;500
 @200
 	17;3;2
-	16;You know what to do.
+	16;Take care of both Charlene!
 	4;500
 	5;3;5
 	13;0
@@ -127,62 +128,61 @@ entry 0
 	4;500
 @261
 	17;2;2
-	16;Leave it to me!  Even if I die, they'll
-	16;never get through a single door!
+	16;It's ok dearies, you aren't part of any-
+	16;of this, enjoy the place and look anywh-
 	4;500
 @262
 	17;0;7
-	16;(Huh, there really isn't much difference
-	16;between that lady and Yuyuko...)
+	16;(Why i had Shar as a friend?)
 	4;500
 @263
 	17;1;2
-	16;The brain has left, and the bird remains.
-	16;We have one target remaining, Youmu.
+	16;You know that you are going to die either
+	16;way, you are fucked, if i cannot get the wish..
 	4;500
 @264
 	17;0;2
-	16;Uh, yes.  I'll slash her, then!
+	16;GO FU--C-K YO-UR-SE-LF!
+	16;This is my body, not yours!
 	4;500
 @265
 	17;2;5
-	16;Hehehehe...
-	16;About the moon...
+	16;Hohoho, so you are from that plaza? I thought
+	16;you were idiots but i have to kill them by this.
 	7;1
 	4;500
 @266
 	17;2;2
-	16;I wonder if you realize that you've
-	16;fallen right into my trap?
+	16;I have everything ready for these situations!
 	4;500
 @267
 	17;0;9
-	16;?!
+	16;WTF!
 	4;500
 @268
 	17;2;2
-	16;I've taken away your sense of direction.
-	16;You can't move in a straight line!
+	16;I will remove your coom mechanisms if you don't
+	16;comply. Fuck from this place!
 	4;500
 @269
 	17;0;2
-	16;Say, Lady Yuyuko, why do you call her a
-	16;bird?  She looks like a rabbit to me...
+	16;You know? I think that i won't comply.
+	16;I have a real  purpose!
 	4;500
 @270
 	17;1;9
-	16;As the old monks say, birds and rabbits are
-	16;the same when skinned and eaten.  Remember that.
+	16;Animegirl, what purpose? You are the reflection
+	16;of a failed male, you know you won't do it.
 	4;500
 @271
 	17;2;7
-	16;Don't tell lies.
-	16;And stop ignoring me!
+	16;You wanna fight then?
+	16;Ok then.
 	4;500
 @272
 	17;2;2
-	16;We'll see if you're still sane
-	16;after looking into my eyes!
+	16;Let me show you my bans and my agp tricks.
+	16;Just like i really am.
 	4;500
 	5;0;5
 	5;1;5
@@ -200,40 +200,40 @@ entry 1
 	1;2;2
 @60
 	15;0;8;8;10;-1
-	16;Ooh, my head is spinning...
-	16;I'm starting to feel sick.
+	16;Ok, i think that's it.
 	4;500
 @61
 	17;1;2
-	16;Oh, my, looks like your human half got
-	16;motion sickness from being shaken.
+	16;How did you survived that?
+	16;You should have died!
 	4;500
 @62
 	17;1;2
-	16;Relax.  After this, we'll eat something
-	16;that's good for your body.
+	16;Ok, i have to do this by myself.
+	16;I have let you live for such fucking long!
 	4;500
 @63
 	17;2;-2
-	16;I can't believe this.
-	16;You're stronger than I thought...
+	16;Oh fuck! I showed misogyny and all disgusting
+	16;degeneracies possible and that wasn't enough.
 	4;500
 @64
 	17;1;3
-	16;Next up, herbal dishes.  And that's the end...
+	16;Don't worry Charles, i'm with you.
 	4;500
 @65
 	17;1;8
-	16;Unfortunately, it won't be dragon after all.
+	16;I will milk him him to death, just wait!
 	4;500
 @66
 	17;0;2
-	16;Lady Yuyuko, that look...
-	16;Do you know something I don't?
+	16;Shar. You are the worst, it's sad that
+	16;you didn't figured what happened!
 	4;500
 @67
 	17;1;9
-	16;Oh, my, who knows?
+	16;What are you trying to say?
+	16;Pass the door Charlene forgot to close already!
 	4;500
 	13;0
 @127
@@ -252,42 +252,42 @@ entry 2
 	1;2;2
 @60
 	15;0;8;8;10;-1
-	16;Ooh, my head is spinning...
-	16;I'm starting to feel sick.
+	16;There's some cans on the ground.
+	16;Maybe it's not the only door which is open!
 	4;500
 @61
 	17;1;2
-	16;Oh, my, looks like your human half got
-	16;motion sickness from being shaken.
+	16;What a genius! You discovered a thing
+	16;which everyone saw, you are retarded!
 	4;500
 @62
 	17;1;2
-	16;Perhaps we can go through that door over
-	16;there and rest for a little while.
+	16;Just take the mental whims of HRT and groom!
+	16;You aren't a male by your weak muscles!
 	4;500
 @63
 	17;2;-2
-	16;Augh!  Damn it!  There was a door
-	16;that wasn't properly sealed?!
+	16;What! Don't go there, i swear it, don't enter
+	16;you don't know what you are messing with
 	4;500
 @64
 	17;0;2
-	16;It's all right.  We should go back to
-	16;the task.  Let's chase her.
+	16;You look horrible, you have a man
+	16;frame, man voice, you aren't HRT enough!
 	4;500
 @65
 	17;1;2
-	16;That's not necessary.  The open door
-	16;is the one we'll go through.
+	16;You are so weak that when life passed you by
+	16;you simply plundered into all of this.
 	4;500
 @66
 	17;1;2
-	16;Our last course awaits us there.
+	16;Finish this and kill yourself!
 	4;500
 @67
 	17;1;2
-	16;I'm certain of it.  Of course, it
-	16;won't actually be a rest...
+	16;You won't be a real tranny, you won't be a male
+	16;either, you are so fucked if you enter that door!
 	4;500
 	13;0
 @127
@@ -312,3 +312,7 @@ entry 3
 	0
 @0
 	0
+@11863
+	2;7170;22296
+@22299
+	54

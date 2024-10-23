@@ -3,7 +3,8 @@ entry 0
 	15;2;-1;-1;-1;-1
 @60
 	15;2;-1;-1;-1;-1
-	16;Stop, or I'll shoot!
+	16;Stop trannies! (Jheng said that all of this 
+    	16;would give me more respect from everyone)
 @61
 	4;60
 	13;0
@@ -12,103 +13,103 @@ entry 0
 	1;2;2
 	13;1
 	17;2;6
-	16;Nevermind.  Shoot, and I'll move.
-	16;Wait, I just moved...
+	16;Wait, it was stop trannies, a rock will come
+	16;Nevermind!
 	4;500
 	1;0;1
 	1;1;1
 	15;0;2;2;-2;-1
-	16;What?  How unexpected, meeting
-	16;you in such a place.
+	16;Huh? Why are you here CPS?
+	16;wanna some love?
 	4;500
 @122
 	17;2;2
-	16;Ah, well, I'm not doing much.  Just
-	16;hunting disturbing youkai as usual.
+	16;Fuck off tranny, i'm on the path of
+	16;getting on the pcb location.
 	8;2;0;ZEZEZEZEZEZE
 	4;500
 @123
 	17;0;7
-	16;Disturbing, you say...  So you know
-	16;who's behind all of this?
+	16;So you know why all of this
+	16;is happening?
 	4;500
 @124
 	17;1;8
-	16;Only fools couldn't figure it out.
+	16;Trannies man.
 	4;500
 @125
 	17;2;6
-	16;Of course I know.  Who else could it be, when
-	16;you two are flying around with such dazzling ki?
+	16;If you want the reasons, someone wants a wish 
+	16;and wants to coerce shmups
 	4;500
 @126
 	17;2;2
-	16;I got bored of staring at tonight's moon.
-	16;Tomorrow's the harvest moon festival.
+	16;At this rate i don't know who is the
+	16;culprit but i won't let him do wicked things
 	4;500
 @127
 	17;1;6
-	16;Oh, you only understand a little bit.
+	16;Hua hua a. wait, i heard that Animegirl wants
 	4;500
 @128
 	17;1;2
-	16;We are the ones who froze the night, but-
+	16;to do some wicked tranny things!
 	4;500
 @129
 	17;2;8
-	16;You don't think I know that already?
+	16;I knew about your wicked paths.
 	4;500
 @130
 	17;2;6
-	16;That's why I came out to kick your butts!
+	16;So i will say this: Fuck you Shar and Animegirl!
 	4;500
 @131
 	17;0;2
-	16;Black-clothed one, don't you sense anything
-	16;wrong with the moon behind you?
+	16;Ok, Ok. You don't need to get so angry
+	16;I will use the wish for good.
 	4;500
 @132
 	17;2;8
-	16;Didn't I already say so?  It's boring me.
+	16;One thing Animegirl: Fuck you.
 	4;500
 @133
 	17;0;3
-	16;You have to face reality here.
+	16;CPS.
 	7;1
 	4;500
 @134
 	17;0;5
-	16;Every moment we waste arguing, the
-	16;corrupt moon sinks lower in the sky.
+	16;Fuck you! Wanna a garegga scrim!?
+	16;I'm so pretty and i'm dying.
 	4;500
 @135
 	17;0;2
-	16;How can we leave things like this, when
-	16;the entire world's in serious trouble?
+	16;I will have to box your face now
+	16;you will be minced meat in seconds!
 	4;500
 @136
 	17;2;6
-	16;Ehh?  An endless night will cause far
-	16;more trouble, for sure.
+	16;Ok. explain to me why you want the wish.
+	16;no tranny shit plz.
 	4;500
 @137
 	17;2;8
-	16;For instance, the bamboo here will grow
-	16;eternally if the night lasts too long.
+	16;No answer?
+	16;Fucking agp degen.
 	4;500
 @138
 	17;2;2
-	16;It might even reach the moon.
+	16;I will have to use TOA POWER on you!.
 	4;500
 @139
 	17;1;6
-	16;The tallest trees catch the most wind.  And
-	16;speaking of catching, weren't you going to move?
+	16;hey jhengfag clone. nigger iq sperg, wanna fight?
+	16;i will give you the proding you need!
 	4;500
 @140
 	17;2;3
-	16;Oh, I'll move, all right.
-	16;I'll keep moving till I see the dawn!
+	16;Oh fucking homo degenerate pedophile!
+	16;you won't see shit after this!
 	4;500
 	5;0;5
 	5;1;5
@@ -126,37 +127,40 @@ entry 1
 	1;2;2
 @60
 	15;0;4;8;10;-1
-	16;Milady, we've wasted so much time...
+	16;That was a lot of walls.
 	4;500
 @61
 	17;1;2
-	16;There's no such thing as wasted time for a
-	16;ghost.  Everything is going as planned.
+	16;Hua hua ua. wait, jhengfag. 
+	16;Suck my s-
 	4;500
 @62
 	17;2;-2
-	16;Crap...
-	16;What on earth are you guys doing?
+	16;Shar...
+	16;Why are you so disgusting?
 	4;500
 @63
 	17;1;3
-	16;A moment lasts forever, an eternity passes in an
-	16;instant. The time we spent here was inevitable.
+	16;You fell onto my tr-hua, i won, i may be a pedo
+	16;tranny but i won by you telling me i am o-ack.
 	4;500
 @64
 	17;0;3
-	16;Huh?  Look!  There's a giant mansion in
-	16;the middle of the bamboo forest!
+	16;You are so pathetic Shar. Ok animegirl. I will
+	16;listen to anime once to see his intentions
+	16;Shar won't do shit if he got hit like that.
 	4;500
 @65
 	17;1;2
-	16;Youmu, didn't I say that only fools
-	16;wouldn't be able to figure it out?
+	16;Ok, I want to remove Shar from me. 
+	16;Give me the directions of the PCB!
+	16;I will annoy jheng next time with
+        16;voice traning shit, he won't expect it!
 	4;500
 @66
 	17;1;3
-	16;Inside that place is...
-	16;the dragon dish I've been searching for!
+	16;.......Eh Animegirl.
+	16;cute voice, that's a good thought ..eh..
 	4;500
 	13;0
 @126
@@ -174,13 +178,13 @@ entry 2
 	1;1;1
 @60
 	15;0;2;2;-1;-1
-	16;Lady Yuyuko, she's running away.
-	16;Shall we pursue?
+	16;Ok, i survived that flurry of attacks, Shar,
+	16;are you ok? You really got your shit pushed
 	4;500
 @61
 	17;1;2
-	16;I don't see why not.
-	16;Our goal is in this direction, too.
+	16;Huh? Where i am? i'm in the weed heaven?
+	16;Do i have my loli harem? where is the HRT?
 	4;500
 	5;0;5
 	5;1;5
@@ -197,18 +201,18 @@ entry 3
 	1;2;2
 @60
 	15;2;2;8;2;-1
-	16;Okay, you shot, I moved.
-	16;Now let's start the real battle!
+	16;Ok, the location misdirection worked, Great!
+	16;You won't escape this.
 	4;500
 @61
 	17;0;2
-	16;You still want to fight?  Do you
-	16;honestly think you're a match for us?
+	16;Are you still on this?
+	16;I will explain why i want the pcb.
 	4;500
 @62
 	17;2;6
-	16;Er, well...
-	16;There's two of you, so I get two tries!
+	16;I don't care tranny.
+	16;I can do two birds with one stone, let's go.
 	4;500
 	5;0;5
 	5;1;5

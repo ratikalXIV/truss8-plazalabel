@@ -5,8 +5,8 @@ entry 0
 	15;0;8;2;-1;-1
 @60
 	15;0;8;2;-1;-1
-	16;Well, well...
-	16;Now where did she go?
+	16;hiya, hiya.
+	16;So where's the PCB?
 @61
 	4;60
 	13;0
@@ -19,128 +19,137 @@ entry 0
 	4;500
 @122
 	17;2;2
-	16;Now, that's rather sad, don't you think?
-	16;You lost sight of me in such a short time.
+	16;Now that's sad.
+	16;The cave domination is soon too come!
 	4;500
 @123
 	17;1;9
-	16;What are you playing at?
-	16;Youmu, is your ghost half there for nothing?
+	16;Get Gunvein for 9.99$
+	16;It's patterns are wicked!
 	4;500
 @124
 	17;0;7
-	16;It's not for chasing people, you know...
+	16;I like cave, but i think that toaplan is ok too.
 	4;500
 @125
 	17;2;2
-	16;Well, this is a false pathway I created.
+	16;I don't care about your opinion.
+	16;Mork is close to finishing the 2-ALL of blue
 	8;2;0;Eirin Irene
 	4;500
 @126
 	17;2;5
-	16;It's no wonder you lost track of me.
+	16;label and with it i will have money
+	16;and lot's of shmiggers!
 	4;500
 @127
 	17;0;2
-	16;A false pathway?
+	16;Shmiggers?
 	4;500
 @128
 	17;1;2
-	16;A false moon in a false sky.
+	16;Yes, shmiggers!
+	16;Do you think i care about shmups?
 	4;500
 @129
 	17;1;3
-	16;It's an overly elaborate creation.
+	16;Don't you see i never talk about them!
+	16;Grooming people is my motto, not shmucks.
 	4;500
 @130
 	17;2;2
-	16;Ah, impressive.  So you noticed
-	16;that this moon is an illusion.
+	16;In summary:
+	16;I have made the red herring.
 	4;500
 @131
 	17;1;2
-	16;It's an old-fashioned moon, one
-	16;that's been in the heavens before.
+	16;And thus made the way for making slop
+	16;from it?
 	4;500
 @132
 	17;0;2
-	16;Old-fashioned?
+	16;Slop?
 	4;500
 @133
 	17;1;8
-	16;A rotten old moon, with mold on it.
+	16;Yes. Now no one will be able to stop the
+	16;cave slop! 
 	4;500
 @134
 	17;1;5
-	16;There are no rabbits on the moon these days.
+	16;I will be able to put needles and have
+	16;my Rhythm game hitbox to work!
 	4;500
 @135
 	17;2;4
-	16;Not quite.  There are rabbits, even now.
+	16;So you want to make Rhythm games?
 	4;500
 @136
 	17;2;5
-	16;The rabbits and people of the moon have
-	16;been living quietly on the far side.
+	16;Well duh, they are action games, but
+	16;they will have zero cool weapons
 	4;500
 @137
 	17;2;2
-	16;Unseen, protected by barriers... it's
-	16;much like your own Gensokyo.
+	16;zero wings, zero fun, zero nuance, they will be
+	16;about tapping all day long, that's my end goal!
 	4;500
 @138
 	17;0;3
-	16;The moon's Gensokyo?
+	16;For what reason?
 	4;500
 @139
 	17;2;2
-	16;This illusory moon is a memory of the past.
+	16;Well, the real reason is that it gets annoying
+	16;to change direction on a hitbox.
 	4;500
 @140
 	17;2;5
-	16;That's why it looks so old and worn.
+	16;So i have to adapt my games for i-.
+	16;Don't think about it!
 	4;500
 @141
 	17;0;2
-	16;So, what's the point of showing this
-	16;stinking old moon to us?
+	16;Ok, I see that you are in dire need of
+	16;real freedom!
 	4;500
 @142
 	17;2;2
-	16;My task is already coming to an end.
+	16;I think that after all that asking i will give
+	16;you a deal, i will give you some shmiggers
 	4;500
 @143
 	17;2;2
-	16;The moon and the Earth are connected
-	16;only during the full moon.
+	16;You will muster enough social credit for
+	16;Jaimers to notice, he had some gun in his veins
 	4;500
 @144
 	17;2;5
-	16;If the full moon is prevented, pursuers
-	16;from the moon can't come to the Earth.
+	16;So he will notice and talk about CRT'S
+	16;with you.
 	4;500
 @145
 	17;2;4
-	16;And now, they chase us to an illusory Earth...
-	16;Likewise an old, putrid memory.
+	16;You can be happy and thus give me
+	16;my happiness too!
 	4;500
 @146
 	17;1;2
-	16;In short, you are a criminal.
+	16;Take the offer Anime.
 	4;500
 @147
 	17;1;3
-	16;People who try to escape from everything
-	16;are always guilty of something.
+	16;You have already won, you will
+	16;give me shmiggers so i won't eat you
 	4;500
 @148
 	17;1;3
-	16;Same goes for those who go into hiding.
+	16;And you will have your Jaimers dreams
 	4;500
 @149
 	17;1;2
-	16;And a criminal who admits their own
-	16;crime always has some sort of excuse.
+	16;You aren't attractive, but you will have
+	16;the only happiness you can muster.
 	4;500
 @150
 	17;0;2
@@ -148,124 +157,125 @@ entry 0
 	4;500
 @151
 	17;2;7
-	16;It's not the same.
+	16;Listen to Bog.
 	4;500
 @152
 	17;2;5
-	16;I simply didn't want to go back to the
-	16;moon, since this place is very comfortable.
+	16;Do you think i wanted to be this at first?
+	16;I wanted something and i don't care about
 	4;500
 @153
 	17;2;2
-	16;You can relax.  When the morning comes,
-	16;the full moon will be returned.
+	16;what it turned me, it's part of playing
+	16;the game!
 	4;500
 @154
 	17;0;2
-	16;Lady Yuyuko, give me a command.
+	16;If you are going to kill shmups i will fight.
+	16;even if i die.
 	4;500
 @155
 	17;1;9
-	16;Oh, Youmu, now you get what I was saying?
+	16;I understand you, but this is the end road.
 	4;500
 @156
 	17;1;3
-	16;Well, then...  First, be my shield.
+	16;You cannot even accept yourself as a dude
 	4;500
 @157
 	17;0;5
-	16;Affirmative.  I will be the hardest
-	16;shield in all the Netherworld.
+	16;I don't know who i am but i think i have
+	16;an answer to this.
 	4;500
 @158
 	17;1;2
-	16;I'll back you up if I feel like it.
+	16;Whatever you want to think.
 	4;500
 @159
 	17;2;4
-	16;Ahahaha...
+	16;hog hog hog...
 	4;500
 @160
 	17;2;2
-	16;A shield can only stop an attack from
-	16;outside.
+	16;You will see how i use IKD genius to
+	16;the MAX! I thought that the magic
 	4;500
 @161
 	17;2;5
-	16;We of the moon have the power to affect
-	16;you directly.
+	16;virtues where bullshit, a superplayer
+	16;joke, but after seeing how it made the pigeons
 	4;500
 @162
 	17;2;5
-	16;And while your hard shield is defending your
-	16;outside, you're slowly decaying inside...
+	16;appear i knew it was something powerful.
+	16;Something to control all social credit!
 	4;500
 @163
 	17;2;2
-	16;Yes, carefree girl, I must say your hard
-	16;shield is quite useless.
+	16;You will be punished for getting out of
+	16;the place, by not being an useful idiot.
 	4;500
 @164
 	17;1;2
-	16;Don't worry, Youmu.
-	16;I'm not alive, so I can't rot.
+	16;I know that everyone saw me as an useful idiot.
+	16;A degenerate which was there for accepting worse
 	4;500
 @165
 	17;0;7
-	16;I know, I know.
-	16;You're rotten already, yeah?
+	16;behaviors, but i'm not less of a person
+	16;I just wanted to be someone, someone which
 	4;500
 @166
 	17;0;3
-	16;Rotten or not, however, it's my duty
-	16;to protect you!
+	16;they cared for what i am rather than what
+	16;they wanted me to be for the worse
 	4;500
 @167
 	17;1;7
-	16;I said I CAN'T ROT.
+	16;stop being a fag, just let boghog talk
 	4;500
 @168
 	17;2;5
-	16;We'll see how long it takes to get
-	16;rid of that carefree attitude.
+	16;You know you are going to be killed by this.
+	16;What a pointless endeavor!
 	4;500
 @169
 	17;2;2
-	16;The endless memory of the moon...
+	16;I gave you a lot of time for you to speak
 	4;500
 @170
 	17;2;4
-	16;None from Earth could escape this with
-	16;their minds intact.
+	16;But i think that's enough time
+	16;for it.
 	4;500
 @171
 	17;1;3
-	16;So, Youmu, make sure that you
-	16;don't go crazy.
+	16;Well, it's time for you to die.
+	16;Good riddance, Animegirl.
 	4;500
 @172
 	17;2;2
-	16;Ah, you're a ghost, not a human.
-	16;No wonder you won't rot.
+	16;Yes t-
+	16;What is your name? I forgot.
 	4;500
 @173
 	17;1;2
-	16;Things are most delicious when they're
-	16;about to rot!
+	16;I HAVE ULTRAMANIA CREDIT AND A ROOM!
+	16;I'M SPECIAL!
 	4;500
 @174
 	17;0;7
-	16;What does that have to do with anything?!
+	16;Oh for fuck sake, let's end this now!
 	4;500
 @175
 	17;2;2
-	16;No, she's right.
-	16;Fermentation is a gift of the gods.
+	16;So your balls dropped already?
+	16;OK, take a taste of my BOG POWERS!
 	4;500
 @176
 	17;2;5
-	16;And ghosts, unable to rot...
-	16;are completely forsaken by the gods!
+	16;Let's make a Satanic Surfer 
+	16;Reference!
 	7;1
 	4;500
 	5;0;5
@@ -286,20 +296,20 @@ entry 2
 @60
 	15;2;2;2;2;-1
 	13;1
-	16;Hahaha...
+	16;Eh Eh Eh Eh...
 	4;500
 @61
 	17;2;-2
-	16;So you're coming this way, as planned.
+	16;So you want to be a shmuck dev?
 	4;500
 @62
 	17;1;4
-	16;We've caught up with you.
-	16;You can't escape now.
+	16;Just deal with it
+	16;I don't really care anymore.
 	4;500
 @63
 	17;0;5
-	16;Yes, you won't get away this time!
+	16;I will stop the milking boggy!
 	4;500
 	5;0;5
 	5;1;5
@@ -313,26 +323,27 @@ entry 2
 entry 3
 @60
 	15;2;-1;-1;-1;-1
-	16;What are you playing at?!
+	16;What is all this fuss BOG?!
 	6
 	4;500
 @61
 	17;2;-2
-	16;Eirin, I'll use my power to give you
-	16;one more chance.
+	16;BOG, Kill that tranny or i will
+	16;send you to the thumbnail prison!
 	4;500
 @62
 	17;2;-2
-	16;If you're defeated this time...
+	16;Just stop these trannies from stopping
+	16;my MILK. And before you ask me BOG:
 	4;500
 @63
 	17;2;-2
-	16;You ghosts!
+	16;You are such a pathetic gang shit.
 	4;500
 @64
 	17;2;-2
-	16;My arcane medicine and Eirin's true
-	16;power - you'll never forget this!
+	16;Always defending shmiggers while destroying
+	16;your dreams, keep going slave!
 	4;500
 	7;2
 	13;0

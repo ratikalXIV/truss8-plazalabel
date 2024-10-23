@@ -3,119 +3,122 @@ entry 0
 	1;2;2
 @60
 	17;2;3
-	16;What are you doing in this place?
+	16;What the fuck is happening Animegirl?
 	4;500
 	1;0;1
 	1;1;1
 	15;1;2;2;-2;-1
-	16;You attacked us first, right?
-	16;We're merely responding.
+	16;I'm very thirsty.
+	16;Come here so i can eat you!
 	4;500
 @61
 	17;2;2
-	16;There's nothing around here.
-	16;Just move along already.
+	16;Go fuck yourself Shar! Animegirl.
+	16;Wanna know why the milk moon started?
 	8;2;0;Ribbon usun de!
 	4;500
 @62
 	17;0;7
-	16;But honestly, we have no idea
-	16;where we're headed.
+	16;Yeah. It appeared out of nowhere and
+	16;i don't know what to do anymore.
 	4;500
 @63
 	17;2;9
-	16;Are you wandering around without purpose?
+	16;Ok. There's a cult of three individuals
+	16;which have obtained an artifact for evil purposes.
 	4;500
 @64
 	17;1;9
-	16;No, no, Youmu.
+	16;I don't care. I love the milk!
 	4;500
 @65
 	17;1;2
-	16;We're certainly heading the right way.
-	16;All you need to do is follow me.
+	16;We are getting onto CatPat again!
+	16;That was much more exciting than PC-
 	4;500
 @66
 	17;2;2
-	16;What is your purpose?
+	16;What do you want to do?
 	4;500
 @67
 	17;0;2
-	16;To restore the corrupted moon.
+	16;I want to remove the milk and to find
+	16;a way for Jaimers contacts me.
 	4;500
 @68
 	17;1;9
-	16;No, no, Youmu.
+	16;NO, NO!.
 	4;500
 @69
 	17;0;2
-	16;?!?!
+	16;????
 	4;500
 @70
 	17;1;5
-	16;It's a wonderful midnight snack tour
-	16;across the land!
+	16;I have the purpose of milking
+	16;across all servers with some benefits.
 	4;500
 @71
 	17;2;8
-	16;You two are quite suspicious.
+	16;Ok Animegirl.
 	4;500
 @72
 	17;2;3
-	16;Even more suspicious than normal ghosts.
+	16;I will have to remove this retard
 	4;500
 @73
 	17;0;6
-	16;Hey, I can't let you get away with saying
-	16;that!  Ghosts in general aren't suspicious!
+	16;I don't care about him that much
+	16;so do it, i don't care.
 	4;500
 @74
 	17;1;9
-	16;No, no, -
+	16;*25 pings later*
 	4;500
 @75
 	17;0;7
-	16;Shut up!
+	16;Hell no!
 	4;500
 @76
 	17;2;2
-	16;As I expected, you two are really dangerous.
-	16;I have to drive you out of here somehow.
+	16;Ok animegirl, don't worry that much.
+	16;This will be an easy operation, jus-
 	4;500
 @77
 	17;2;8
-	16;Still, I don't know what you're doing here...
+	16;Oh, fuck, that shit now has teeth!
 	4;500
 @78
 	17;1;2
-	16;Hey, Youmu...
+	16;I have to eat you, it's
 	4;500
 @79
 	17;1;3
-	16;We've had a bird, a bug, and next 
-	16;up is a beast.
+	16;self care and it will feel awesome. 
+	16;Don't worry!
 	4;500
 @80
 	17;0;2
-	16;What are you trying to say, milady?
+	16;Help me EC!
 	4;500
 @81
 	17;2;2
-	16;Damn it!  All of your history will be mine!
+	16;For fuck sake, where's the flamethrower?!
 	4;500
 @82
 	17;2;3
-	16;Including your deaths!
+	16;I found it!
 	7;1
 	4;500
 @83
 	17;1;2
-	16;I bet a dragon will be next.
+	16;I know something more delicious it's going
+	16;to come but i'm really hungry!
 	4;500
 @84
 	17;0;3
-	16;Lady Yuyuko, please concentrate on NOW,
-	16;not what happens next...
+	16;Just burn him ec.
+	16;It has stitched on my body!
 	4;500
 	5;0;5
 	5;1;5
@@ -133,50 +136,51 @@ entry 1
 	1;2;2
 @60
 	15;0;4;8;10;-1
-	16;Milady, you said a beast, but a human
-	16;is not a beast.
+	16;Ec, did you got to burn him?
+	16;i don't know who i am anymore!
 	4;500
 @61
 	17;1;9
-	16;No, no, Youmu.
+	16;Hey Hey Hey!.
 	4;500
 @62
 	17;1;4
-	16;She looks like a normal human now,
-	16;but in reality she's a half-beast.
+	16;Some pesky flamethrower won't destroy
+	16;me, i need something stronger
 	4;500
 @63
 	17;1;2
-	16;Well, humans are a kind of beast anyhow,
-	16;so doesn't that make her a full beast?
+	16;Animegirl, what about you
+	16;being my food!?
 	4;500
 @64
 	17;2;-2
-	16;Grr... If the moon hadn't been corrupted,
-	16;such ghosts wouldn't be...
+	16;Fuck, there's only one option for you
+	16;to survive Animegirl! *Injects Shar*
 	4;500
 @65
 	17;0;9
-	16;Oh, yes, yes.
-	16;We're here to restore the full moon.
+	16;Did you gave him horse tranquilizer?
+	16;It's ok, now i feel more free!
 	4;500
 @66
 	17;1;4
-	16;The next meal should be a dragon dish.
-	16;I can't wait, Youmu!
+	16;UUH, UUH, UUH.
+	16;loli posting on discord!
 	4;500
 @67
 	17;0;2
-	16;Lady Yuyuko, didn't you say you knew
-	16;where to go next?
+	16;Now i have to find a way to remove
+	16;this parasite! *EC tells animegirl* 
 	4;500
 @68
 	17;0;7
-	16;I'm becoming slightly concerned...
+	16; That PCB grants wishes?
+	16; Tell me where i can find it!
 	4;500
 @69
 	17;1;8
-	16;Ah, but a dragon would have many scales...
+	16;UA UA. 13 years o-...
 	4;500
 	13;0
 @129
@@ -197,22 +201,22 @@ entry 2
 	15;0;2;2;2;-1
 @61
 	17;2;2
-	16;Who are you, and why are you attacking
-	16;the village this late at night?
+	16;Why are you running? I need to
+	16;explain something to you.
 	4;500
 @62
 	17;1;2
-	16;Oho?
-	16;It seems that we've lost our way.
+	16;hey! a face, now tell me where
+	16;to find some wellfare che-
 	4;500
 @63
 	17;0;2
-	16;Yeah, where are we?
+	16;Ok, tell me what you want to say.
 	4;500
 @64
 	17;2;6
-	16;There's no point in feigning 
-	16;innocence.  I can tell you're evil ghosts.
+	16;Ok, i will on a bi-. 
+	16;Shar stop stealing my pants!
 	4;500
 	5;0;5
 	5;1;5
@@ -232,13 +236,13 @@ entry 3
 	15;0;2;2;2;-1
 @61
 	17;2;9
-	16;Crap!
-	16;These ghosts are really something!
+	16;Fuck! Animegirl. Tell Shar
+	16;to return the pants or i will fuck off.
 	4;500
 @62
 	17;1;6
-	16;How cruel.  So this is how ghosts
-	16;are treated in the outside world...
+	16;I just don't want pants, i want
+	16;your blood and ranch too, give it to me!
 	4;500
 	5;0;5
 	5;1;5

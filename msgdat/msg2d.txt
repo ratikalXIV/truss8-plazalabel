@@ -3,83 +3,83 @@ entry 0
 	1;2;2
 @60
 	17;2;9
-	16;Wait, waiiiit!
+	16;Huh. HUH!11!
 	4;500
 	1;0;1
 	1;1;1
 @61
 	17;0;2
-	16;Step aside, then.
+	16;We are pleased to meet you, where is jaimers?
 	4;500
 	17;2;2
-	16;Aren't you affected by my song at all?
+	16;Why aren't you stroking my beard already?
 @62
 	4;500
 	17;2;2
-	16;Hmm, perhaps you're not human?
+	16;You aren't being welcoming for my milks.
 	8;2;0;A SNACK APPROACHES
 @63
 	4;500
 @64
 	17;1;9
-	16;My ears catch a sparrow's song.
-	16;Are there really sparrows awake at night, Youmu?
+	16;You aren't on the Kuumite, come tomorrow.
+	16;We aren't for the kuumite, we are milking.
 	4;500
 	17;0;8
-	16;Lady Yuyuko,
-	16;please don't be distracted by this song.
+	16;Shar.
+	16;Don't fall for bad milks!
 @65
 	4;500
 	17;0;2
-	16;That's the song of a night sparrow.  It's
-	16;one of the most accursed sounds in the world.
+	16;We need to have a bit of common sense!
+	16;There is a way to return, but this isn't how.
 @66
 	4;500
 	17;2;6
-	16;How very rude of you.
+	16;You aren't being kind.
 @67
 	4;500
 	17;2;6
-	16;At the very least, my singing is better
-	16;than the noise of approaching ghosts.
+	16;For that you need to enter into
+	16;some "services" for me.
 @68
 	4;500
 @69
 	17;1;5
-	16;Yes indeed, it's no contest at all.
+	16;Oh ok, if you get me milk it's ok.
 	4;500
 	17;0;8
-	16;You aren't supposed to AGREE with her...
+	16;Why you are destroying yourself so much...
 @70
 	4;500
 	17;1;9
-	16;Youmu, the song is getting louder.
-	16;Where is it coming from?
+	16;Animegirl, Make it stop!.
+	16;He is now moaning!
 @71
 	4;500
 	17;2;2
-	16;Well, I don't care if you're human or not.
+	16;You gave me the milk Alesta didn't gave me
 @72
 	4;500
 	17;2;2
-	16;Now, let's get this youkai party started!
+	16;Now i can GROOM MORE
 @73
 	4;500
 	17;1;5
-	16;Okay, Youmu, let's move on.
+	16;Job done Animegirl, let's go out n-.
 @74
 	4;500
 	17;0;9
-	16;Eh?  Er, yes ma'am.  But actually, before
-	16;we can leave, we have to shoot down that bird.
+	16;This is wrong, you are a monster Aktane.
+	16;This cannot be present at all, let's fight.
 @75
 	4;500
 	17;1;2
-	16;I don't like sparrows.  They're too bony.
+	16;But my su-.
 @76
 	4;500
 	17;2;3
-	16;You shall not pass!
+	16;Wanna get a ban!?
 @77
 	4;500
 	7;1
@@ -98,25 +98,26 @@ entry 1
 	1;1;1
 @60
 	15;0;2;5;-1;-1
-	16;That night sparrow's song is going to
-	16;attract a lot of youkai.
+	16;I think that he is done for
+	16;We need to run now, 
 @61
 	4;500
 	17;0;2
-	16;Let's move on before they arrive.
-	16;We must hurry.
+	16;I don't know where but i think that
+	16;if we go to the greats we can get answers.
 @62
 	4;500
 	17;1;8
-	16;Hold on, a small bone got stuck in my throat.
+	16;HOARK! HOARK! HOARK!
 @63
 	4;500
 	17;0;7
-	16;Wait, didn't you say you didn't like sparrows?
+	16;Why are you sucking a cadaver?!
 @64
 	4;500
 	17;1;2
-	16;Youmu, it's not good to be so fussy.
+	16;You don't dismiss anything even if
+	16;it isn't hard.
 @65
 	4;500
 	13;0
