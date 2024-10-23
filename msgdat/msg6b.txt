@@ -60,7 +60,7 @@ entry 0
 @130
 	17;2;4
 	16;Hahahahaha! To be honest, I don't care about this
-	"Toapower". Ikeda and Cave was better anyways.
+	16;"Toapower". Ikeda and Cave was better anyways.
 	4;500
 @131
 	17;2;2
