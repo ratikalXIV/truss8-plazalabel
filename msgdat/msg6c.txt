@@ -5,8 +5,8 @@ entry 0
 	15;0;5;2;-1;-1
 @60
 	15;0;5;2;-1;-1
-	16;Looks like we've passed through the 
-	16;corridor, but where are we...?
+	16;What the hell is this? How does an AirBnb
+	16;go into space?
 @61
 	4;60
 	13;0
@@ -15,7 +15,7 @@ entry 0
 	1;2;2
 	13;1
 	17;2;5
-	16;That's enough.
+	16;It's the byproduct of Mark's ascension.
 	4;500
 @122
 	17;2;2
@@ -23,228 +23,232 @@ entry 0
 	4;500
 @123
 	17;1;9
-	16;Damn it!
-	16;We've been tricked, Sakuya!
+	16;BogHog, take us to Mark. I want to have front
+	16;row seats to this.
 	4;500
 @124
 	17;1;2
-	16;That isn't the moon!
+	16;Finally, this retarded community can shatter.
 	4;500
 @125
 	17;0;2
-	16;Certainly, it's a little on the large side.
+	16;...(sad pepe)
 	4;500
 @126
 	17;1;7
-	16;Well, it's because we're closer to it,
-	16;I guess.
+	16;Well, what are you waiting for, Jarpig?
 	4;500
 @127
 	17;2;2
-	16;Yes, you've come down this corridor
-	16;to a counterfeit moon.
+	16;No can do.
 	8;2;0;Eirin
 	4;500
 @128
 	17;2;4
-	16;The full moon is the key linking 
-	16;the earth and the moon.
+	16;You think some pitiful exiles are worthy of my
+	16;lord's presence? Think again.
 	4;500
 @129
 	17;2;5
-	16;If that link is destroyed, nothing can 
-	16;come or go between the earth and the moon.
+	16;He's never heard of either of you, and he'll
+	16;make sure trash like you are wiped clean.
 	4;500
 @130
 	17;2;2
-	16;See? Everyone's deceived by the illusion, 
-	16;just like you.
+	16;A clean slate for Shmups, for retro gaming...
+	16;Now buried into the Electric Underground!
 	4;500
 @131
 	17;0;2
-	16;Ah, it's an illusion. I wonder if that absurdly
-	16;long corridor was also an illusion.
+	16;So, Mark isn't here? Damn, even if I could
+	16;try to defeat him, I can't.
 	4;500
 @132
 	17;1;2
-	16;It seems like an illusion.
+	16;Why would you want to? What have we been fighting
+	16;for this whole time?
 	4;500
 @133
 	17;1;8
-	16;With such a long corridor, no cleaning mop
-	16;would stand a chance.
+	16;A clean slate...no gang, fake content, everyday
+	16;people will see that shmups have nothing.
 	4;500
 @134
 	17;0;5
-	16;Well, I guess you'd need a wet rag, not a
-	16;mop.  That would give you a backache, though.
+	16;What is your major malfunction, Ric!? Didn't
+	16;the community show you enough attention!?
 	4;500
 @135
-	17;2;7
-	16;What a pointless thing to worry about.
-	16;It's an illusion, an illusion.
+	17;0;5
+	16;You'll see the community burn, just so you can
+	16;finally feel its warmth!?
 	4;500
 @136
 	17;1;8
-	16;Anyway, what's the point of this huge charm?
+	16;...
 	4;500
 @137
 	17;1;2
-	16;Nobody's trying to go to the moon.
+	16;...
 	4;500
 @138
 	17;2;2
-	16;There are many fools heading for the moon 
-	16;outside of Gensokyo, though...
+	16;Fellas, I know you had a long trip. You must
+	16;be pretty exhausted and angry.
 	4;500
 @139
 	17;2;2
-	16;However, all I intended was to keep the  
-	16;princess from being hunted. 
+	16;Especially now that your show has been
+	16;cancelled. But shouldn't you be used to that?
 	4;500
 @140
 	17;2;5
-	16;If dawn comes, with things as they are, 
-	16;nobody will come from the moon anymore.
+	16;You both have been cancelled by the old guard.
+	16;You seem to already accept change.
 	4;500
 @141
 	17;0;5
-	16;Ah, that's why we saw nothing but rabbits.
-	16;They were moon rabbits.
+	16;I'd make fun of you, but I don't think we ever
+	16;made a song about you, pig.
 	4;500
 @142
 	17;2;7
-	16;No, most of them were caught on the Earth.
+	16;Hah, there will be plenty of songs to be made
+	16;about us.
 	4;500
 @143
 	17;2;5
-	16;Only Reisen, whom you saw just now, is
-	16;a true Moon Rabbit.
+	16;They won't be AI slop either. They'll far surpass
+	16;whatever you nimwits can make.
 	4;500
 @144
 	17;1;5
-	16;It doesn't matter.
+	16;Hey, you boys lack the writing chops.
 	4;500
 @145
 	17;1;2
-	16;Our purpose is finding the one who stole the
-	16;full moon.  The reason they did is unimportant.
+	16;Even when the scene is over and done,
+	16;I'll still be here writing my slop.
 	4;500
 @146
 	17;1;4
-	16;The whole reason why we came here was to
-	16;find the criminal and beat them up.
+	16;Hell, its the only good thing about this
+	16;community. Talking about stupid shit happening...
 	4;500
 @147
 	17;1;3
-	16;Sakuya, you mustn't go easy on this one.
+	16;with the people inside of it. No one ever talks
+	16;about the games. Fake interest in the games.
 	4;500
 @148
 	17;0;3
-	16;I haven't gone easy on anyone so far.
+	16;You are so confusing, Ric. Do you even know what
+	16;you want? What will you do after all of this?
 	4;500
 @149
 	17;1;5
-	16;... so, you're fighting to the death?
+	16;... Darts.
 	4;500
 @150
 	17;0;2
-	16;I won't die.
+	16;WHY NOT JUST DO DARTS INSTEAD OF SHMUPS TO
+	16;BEGIN WITH?
 	4;500
 @151
 	17;2;4
-	16;You're very composed.
+	16;You two are like a young couple.
 	4;500
 @152
 	17;2;2
-	16;The reason I lured you out here was so
-	16;I could amuse myself as much as I wanted.
+	16;I can only hope that I don't have stupid
+	16;spats with my Markie after this all through.
 	4;500
 @153
 	17;2;2
-	16;Don't worry, I'll give you back your
-	16;full moon in the morning.
+	16;Ahh Mark...Last I saw, you were ready to face
+	16;the big bee in 2-7. The dream will soon be real.
 	4;500
 @154
 	17;2;5
-	16;Now, we only need to play here till
-	16;we see the dawn.
+	16;I just need to keep you guys here until then.
 	4;500
 @155
 	17;0;4
-	16;That's a relief, my Lady.
+	16;We are not a couple, I got my own wife and kid.
 	4;500
 @156
 	17;0;8
-	16;The moon will be restored whether
-	16;we win or lose.
+	16;Gomer Pyle over there can only love himself.
 	4;500
 @157
 	17;1;6
-	16;Are you going soft?
+	16;That is a sick movie by the way.
 	4;500
 @158
 	17;1;6
-	16;We must make her pay for her disrespect towards
-	16;me, or my reputation in Gensokyo will suffer.
+	16;"I am...in a world...of shit!"
+	16;Perfectly explains the shmup community.
 	4;500
 @159
 	17;1;2
-	16;The full moon doesn't matter to me anymore.
+	16;But, what did you say back there? You called your
+	16;lord..."Markie"?
 	4;500
 @160
 	17;2;6
-	16;Ha, what a brat.
+	16;My Markie!
 	4;500
 @161
 	17;2;2
-	16;There's no way little children like you can
-	16;stand against an eternal being like me.
+	16;Always by his side, ready to hand him his 
+	16;minutely Coke Zero...
 	4;500
 @162
 	17;2;2
-	16;Your history of scarlet...
-	16;Divided by my history, the result is zero.
+	16;His devious eyes...his swept hair...
+	16;His bulky frame...His...everything~!
 	4;500
 @163
 	17;2;5
-	16;To an eternal one such as I, your existence
-	16;is merely an instant.
+	16;Our lineage of the Electric Underground will be
+	16;most lovely and divine!
 	4;500
 @164
 	17;0;8
-	16;Well, my Lady.
-	16;We should respect the elderly.
+	16;Uh bro, doesn't Mark have a wife?
 	4;500
 @165
 	17;1;7
-	16;You're the youngest among us.
+	16;This dude's milk surpasses even Jheng and
+	16;CPS in terms of quality.
 	4;500
 @166
 	17;2;5
-	16;Also, it was you who stopped the night, yes?
+	16;Hehehehe, when he gets his wish, his wife will
+	16;also disappear. There's no room for her here~
 	4;500
 @167
 	17;2;2
-	16;You might incur the wrath of the princess
-	16;for doing that...
+	16;It'll be just Markie and I, ruling the shmup
+	16;community and rolling in Patreon Bucks!
 	4;500
 @168
 	17;1;4
-	16;Well, respect me as much as you want, Sakuya.
+	16;"No more pretending in a genre that no one gives
+	16;gives a fuck!"
 	4;500
 @169
 	17;2;7
-	16;And they aren't listening.
+	16;Enough! That's the last tune you'll sing!
 	4;500
 @170
 	17;2;2
-	16;That's why youngsters these days are bothersome.
+	16;There is no room for you here either!
 	4;500
 @171
 	17;2;5
-	16;I think you'll find this medicinal barrage
-	16;more important than your chatter!
+	16;I just need to kill you, and the Markie and I
+	16;will live happily ever after!
 	7;1
 	4;500
 	5;0;5
@@ -265,21 +269,21 @@ entry 2
 @60
 	15;2;2;2;2;-1
 	13;1
-	16;Hahaha...
+	16;Charlene failed! Curse that woman!
 	4;500
 @61
 	17;2;-2
-	16;You're following me most obediently.
+	16;Regardless, I'll tank these guys for your Mark!
 	4;500
 @62
 	17;1;2
-	16;Hey, hey!
-	16;Is there no end to this?
+	16;"Tank"?
+	16;Jar-pig self-report detected.
 	4;500
 @63
-	17;0;8
-	16;We've gone so far, but the end of
-	16;this corridor still can't be seen!
+	17;1;2
+	16;Just another reason why this scene needs
+	16;to die.
 	4;500
 	5;0;5
 	5;1;5
@@ -293,26 +297,26 @@ entry 2
 entry 3
 @60
 	15;2;-1;-1;-1;-1
-	16;What are you playing at?!
+	16;BogHog, I've finally done it. ha.
 	6
 	4;500
 @61
 	17;2;-2
-	16;Eirin, I'll use my power to give you
-	16;one more chance.
+	16;BogHog, I'll use my Patreon Bucks to give you
+	16;one final hurrah! ha
 	4;500
 @62
 	17;2;-2
-	16;If you're defeated this time...
+	16;Our glorious rule needs these two erased!
 	4;500
 @63
 	17;2;-2
-	16;You devils!
+	16;You exiles!
 	4;500
 @64
 	17;2;-2
-	16;My arcane medicine and Eirin's true
-	16;power - you'll never forget this!
+	16;Welcome...to the Electric Underground! And thank
+	16;my $5 Patreon's!
 	4;500
 	7;2
 	13;0

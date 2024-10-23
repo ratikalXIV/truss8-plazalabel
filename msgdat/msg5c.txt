@@ -12,75 +12,74 @@ entry 0
 	1;2;2
 	13;1
 	17;2;5
-	16;I've already sealed all the doors around here.
-	16;You'll never get to her now!
+	16;I've locked all of the doors.
+	16;You'll never stop Mork now!
 	4;500
 	1;0;1
 	1;1;1
 	15;0;2;2;-2;-1
-	16;Isn't this your doing? 
-	16;This accident with the moon.
+	16;Hear that Ric? Guess we have to go
+	16;home no-
 	4;500
 @122
 	17;1;2
-	16;She looks suspicious, especially with
-	16;that defiant appearance.
+	16;Shut up, shmigganger! Let us see Mark!
 	4;500
 @123
 	17;2;6
-	16;Ah, less so than you, winged one.
+	16;Ah, so you are SynthRicardo! The toxic
+	16;and forbidden one!
 	8;2;0;Reisen
 	4;500
 @124
 	17;2;2
-	16;Anyway, what business do you have here
-	16;at midnight?
+	16;And that stupid frog! Anyone with Pepe
+	16;as their PFP is instantly on my shitlist.
 	4;500
 @125
 	17;0;2
-	16;Important business.
-	16;You're behind the moon incident, right?
+	16;Do you guys actually play shmups here?
 	4;500
 @126
 	17;0;5
-	16;We're here to clean up this mess from 
-	16;the roots.
+	16;Or do you just whine about people being stupid
+	16;on the internet? Ric is right about some things.
 	4;500
 @127
 	17;0;8
-	16;I'm good at cleaning.
+	16;It is all just banter.
 	4;500
 @128
 	17;2;7
-	16;Moon incident?
-	16;I never thought you would notice.
+	16;Banter? That banter is immature and so 2007.
+	16;It scares away so many people from this scene!
 	4;500
 @129
 	17;2;5
-	16;You're just filthy earth-crawlers, 
-	16;after all.
+	16;It's already small! You just continue to make it
+	16;smaller! You and your stupid bigotry!
 	4;500
 @130
 	17;1;6
-	16;Unfortunately, I'm a filthy being who watches
-	16;only the moon and the stars in the sky.
+	16;It's small because non-players like you get into
+	16;places of power. Hate these stupid pigeons...
 	4;500
 @131
 	17;1;8
-	16;I know when the moon changes, for good or for
-	16;bad.
+	16;Imagine banning people for saying:
+	16;"RAPE PLANES!"
 	4;500
 @132
 	17;0;7
-	16;You're a night person, my Lady.
+	16;King Charles' rule is almighty and just!
 	4;500
 @133
 	17;1;2
-	16;Return the full moon to the Earth right away.
+	16;"King Charles"? Hahahaha, that's pretty good!
 	4;500
 @134
 	17;2;2
-	16;I can't do that yet. 
+	16;THAT'S IT, YOU'RE BOTH GETT--
 	4;500
 	13;0
 	6
@@ -88,53 +87,52 @@ entry 0
 	1;3;2
 	13;1
 	17;3;2
-	16;Ah, I thought someone came for a meeting.
+	16;Charlene, why are you yelling?
 	4;500
 @195
 	17;3;2
-	16;Are they merely lost youkai?
+	16;Keep it down, Mark's almost done with his run.
+	16;He's on a No-Miss No-Bomb pace. 
 	4;500
 @196
 	17;3;2
-	16;Even so, there's no chance anyone would
-	16;meet her.
+	16;The Electric Underground will soon be the true
+	16;rulers of the scene!
 	4;500
 @197
 	17;0;9
-	16;Who are you?
+	16;Is that BohHoh!?
 	4;500
 @198
 	17;1;8
-	16;Sakuya, this is the villain.
-	16;I knew it at once; that's a villain's face.
+	16;Yeah Enjimmy, that's the BohHoh. 
 	4;500
 @199
 	17;3;2
-	16;What a cruel thing to say.
+	16;Ahem...BogHog, the creator of Gunvein.
 	4;500
 @200
 	17;3;2
-	16;It's true, I sealed the chamber of the Earth...
+	16;And faithful companion of MarkMSX!
 	4;500
 @201
 	17;3;2
-	16;But it was for the sake of this girl, 
-	16;and the princess.
+	16;I'm so thankful he gave me a whole 10 minutes of
+	16;his documentary to talk about game design!
 	4;500
 @202
 	17;0;2
-	16;If that's the case, we won't leave until 
-	16;we beat you.
+	16;...Oh! So, that is where you are from!
+	16;Haha, "BOH-HOH in TOH-HOH"
 	4;500
 @203
 	17;3;2
-	16;Too bad.  It's still useless.
-	16;Udonge, I'll leave it to you.
+	16;Gah, whatever. 
+	16;Charlene, dispose of them.
 	4;500
 @204
 	17;3;2
-	16;Whatever you do, don't let them steal 
-	16;our princess.
+	16;Do not let them disturb our Emperor!
 	4;500
 	5;3;5
 	13;0
@@ -145,55 +143,55 @@ entry 0
 @265
 	17;2;2
 	16;Please leave. 
-	16;These closed doors shall never open.
+	16;This scene wasn't made for you.
 	4;500
 @266
 	17;0;6
-	16;I've found there's a way past anything.
+	16;It wasn't made for you either.
 	4;500
 @267
 	17;1;2
-	16;How troublesome. Going off the beaten path
-	16;as always, Sakuya?
+	16;Why is it always that troons, power, and fake
+	16;interest always collide?
 	4;500
 @268
 	17;0;6
-	16;Follow the path and overwhelm the enemy.
-	16;That's the trick to avoiding complaints.
+	16;Ric, while I agree, why are we even here? Why
+	16;waste our time if it's inevitable Mark will win?
 	4;500
 @269
 	17;2;5
-	16;Hahaha...
-	16;The only path is the one behind you.
+	16;No no, we're past the point of apologies!
 	7;1
 	4;500
 @270
 	17;2;2
-	16;But you can't turn back now.
+	16;I'm banning you here and now so that you can 
+	16;NEVER return!
 	4;500
 @271
 	17;1;2
-	16;We won't turn back. 
+	16;You can ban me after I see Mark destroy the
+	16;scene.
 	4;500
 @272
 	17;2;2
-	16;Aren't you aware that you've fallen 
-	16;into my trap?
+	16;Are you not satisfied with my own work?
+	16;A non-player running the discord!
 	4;500
 @273
 	17;2;2
-	16;Left, right, up and down...
-	16;Your sense of direction is already out of order.
+	16;I barely know anything you guys talk about in
+	16;there, but it doesn't matter.
 	4;500
 @274
 	17;2;5
-	16;Though you think you fly straight ahead,
-	16;you're floating around aimlessly.
+	16;As long as it's a safe space without you idiots,
+	16;that's fine by me!
 	4;500
 @275
 	17;2;2
-	16;See my eyes, and lose every last trace of 
-	16;your mind!
+	16;My troonatic eyes will see that to be reality!
 	4;500
 	5;0;5
 	5;1;5
@@ -211,47 +209,46 @@ entry 1
 	1;2;2
 @60
 	15;0;4;8;10;-1
-	16;Let's proceed along the route, Lady.
-	16;We will soon come to the exit.
+	16;Hey King, you dropped your crown. It's mine now!
 	4;500
 @61
 	17;1;2
-	16;Sakuya, the one we saw before must be 
-	16;over there. But, um...
+	16;Let's go Enjimmy, BohHoh will surely know
+	16;where Mark is!
 	4;500
 @62
 	17;1;2
-	16;We'd better be careful.
-	16;But I'm with Sakuya, so we'll be all right.
+	16;That faggot fucking grifter is attached to Mark
+	16;like a pigeon to feed.
 	4;500
 @63
 	17;2;-2
-	16;My master's power is beyond comparison to me.
+	16;You may have won the battle, but you'll lose the war!
 	4;500
 @64
 	17;2;-2
-	16;You may have beaten me, but do you think
-	16;you're a match for my master?
+	16;The Electric Underground will surely exile you,
+	16;you'll never be a part of shmups again!
 	4;500
 @65
 	17;1;3
-	16;Overwhelmingly.
+	16;That isn't a bad thing.
 	4;500
 @66
 	17;0;3
-	16;Now, we'll finish this before dawn.
+	16;I will miss the bantz we had along the way...
 	4;500
 @67
 	17;2;-2
-	16;I see, it was you that lengthened the night.
+	16;...Huh?
 	4;500
 @68
 	17;2;-2
-	16;I thought that... 
+	16;You...want us to win?
 	4;500
 @69
 	17;0;6
-	16;?
+	16;*sad pepe face*
 	4;500
 	13;0
 @129
@@ -270,38 +267,38 @@ entry 2
 	1;2;2
 @60
 	15;0;4;8;10;-1
-	16;Let's proceed along the route, Lady. 
-	16;We'll soon come to the exit.
+	16;Hey King, you dropped your crown. It's mine now!
 	4;500
 @61
 	17;1;2
-	16;Sakuya, the one we saw before must be 
-	16;over there. But, before that...
+	16;Hey Enjimmy, BohHoh went that way but look...
+	16;Coke Zero's.
 	4;500
 @62
 	17;1;2
-	16;Let's go through the door over there.
+	16;Mark will be at the end of this trail.
 	4;500
 @63
 	17;0;2
-	16;What's over there?
+	16;I guess so...
 	4;500
 @64
 	17;2;-2
-	16;Ah, crap!
-	16;There was a door that wasn't properly sealed?
+	16;Ah shit!
+	16;I forgot to lock that one!
 	4;500
 @65
 	17;1;2
-	16;The one we're seeking must be in there.
+	16;Charlene, King Charles, whatever your name is.
 	4;500
 @66
 	17;1;3
-	16;My eyes cannot be decieved. 
+	16;We're not here to stop your Mark, we're here
+	16;to see his ascendence.
 	4;500
 @67
 	17;2;-2
-	16;Oh no, my master will be mad at me...
+	16;...What?
 	4;500
 	13;0
 @127
@@ -317,8 +314,8 @@ entry 3
 @120
 	4;1
 @180
-	19;Go straight on (FinalA)
-	20;Go another way (FinalB)
+	19;Descend to pork (FinalA)
+	20;Ascend to destruction (FinalB)
 	21;1200
 @181
 	22

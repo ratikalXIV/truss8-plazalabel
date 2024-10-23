@@ -70,18 +70,17 @@ entry 0
 	4;500
 @132
 	17;0;2
-	16;My Lady.
-	16;Stopping the night was not our original goal.
+	16;So, that's the legendary Touhou Baffo...
 	4;500
 @133
 	17;0;8
-	16;Look at the moon behind Reimu.
-	16;It's already been...
+	16;This is the first time we've ever actually met!
+	16;What's your latest score on EoSD?
 	4;500
 @134
 	17;2;6
 	16;Oh my god...
-	16;I don't play these games! Stop spreading lie!
+	16;I don't play these games! Stop spreading lies!
 	4;500
 @135
 	17;2;3
@@ -95,57 +94,61 @@ entry 0
 	4;500
 @137
 	17;1;8
-	16;Well, I am lord of the night, so please excuse
-	16;me.
+	16;Stop him? Why? He'll kill this shitty scene for
+	16;good if he get's his 2-ALL.
 	4;500
 @138
 	17;0;7
-	16;I don't think you're helping... 
+	16;Guys, Ric has been schizoposting over the gang
+	16;for the past 15 minutes.
 	4;500
 @139
 	17;2;2
-	16;I don't know what's gotten into this child..
+	16;Wait what, again?
 	7;1
 	4;500
 @140
 	17;2;6
-	16;*mumbles*
+	16;*mumbles over EoSD*
 	4;500
 @141
 	17;0;2
-	16;Do you still not understand why we're stopping 
-	16;the night?
+	16;He's been schizting on about the gang, and he now
+	16;he wants to watch Mark kill the scene.
 	4;500
 @142
 	17;1;5
-	16;Sakuya, there's no need to hurry
-	16;as long as you're manipulating time.
+	16;The gang IS REAL bros. But Mark is the only
+	16;person who can take them out, and the scene too!
 	4;500
 @143
 	17;1;3
-	16;I don't mind being misunderstood.
+	16;If the scene dies, maybe something cool like
+	16;darts can take its place.
 	4;500
 @144
 	17;1;2
-	16;It's a good chance to pay her back for that day.
+	16;Instead of me playing Touhou for 30 minutes to
+	16;pretend I like shmups.
 	4;500
 @145
 	17;0;2
-	16;Well, if my Lady says so... 
+	16;If you don't like shmups, then why did you make a
+	16;fucking SHMUP DISCORD?
 	4;500
 @146
 	17;2;2
-	16;I'm not letting this spic and frenchfag to
-	16;Allow that grifter to get ANY money!
+	16;I'm not letting this spic and frenchfag let Mark
+	16;have his way!
 	4;500
 @147
 	17;1;6
-	16;As I told you before,
-	16;coffins are for the dead.
+	16;What the hell Rez, I thought you'd be with me on
+	16;this. Didn't you coin "FAKE INTEREST"?
 	4;500
 @148
 	17;2;2
-	16;GOD! FAKE INTERESTTTTT!
+	16;FOR THIS ONE TIME, IT'S REAL INTEREST!!!
 	4;500
 	5;0;5
 	5;1;5
@@ -163,12 +166,11 @@ entry 1
 	1;2;2
 @60
 	15;1;4;8;10;-1
-	16;I've had my revenge.
+	16;TH_baf and TH_Rezardi, eliminated.
 	4;500
 @61
 	17;1;2
-	16;I'll do you the favor of not drinking your
-	16;blood, so go on home.
+	16;What a shame. Not for Baf, but for you Rez.
 	4;500
 @62
 	17;2;8
@@ -177,19 +179,20 @@ entry 1
 	4;500
 @63
 	17;0;3
-	16;You should have asked that before we fought.
+	16;On a lighter note, Baf. You sure did live up to
+	16;"The Legend of Touhou Baffo"
 	4;500
 @64
 	17;0;3
-	16;We've won, so we have no need to answer anymore.
+	16;It's a shame Ric wants to put an end to this...
 	4;500
 @65
 	17;1;3
-	16;(mumbles) ...restoring the eternal full moon...
+	16;(mumbles) ...I don't even play Touhou...
 	4;500
 @66
 	17;0;6
-	16;NOT eternal!
+	16;Baf cap
 	4;500
 @67
 	17;2;-2
@@ -197,8 +200,7 @@ entry 1
 	4;500
 @68
 	17;1;2
-	16;Sakuya, look.
-	16;That mansion...
+	16;Hey Enjimmy, there's the AirBinb.
 	4;500
 	13;0
 @128
@@ -216,11 +218,12 @@ entry 2
 	1;1;1
 @60
 	15;1;2;2;-1;-1
-	16;She's running away. This way.
+	16;Don't let those shmiggers escape. Not before they
+	16;tell us where to find Mark!
 	4;500
 @61
 	17;0;2
-	16;Do you think you can escape from my knives?
+	16;(I wonder if Baf wasn't capping about Ric.)
 	4;500
 	5;0;5
 	5;1;5

@@ -5,7 +5,7 @@ entry 0
 	15;0;5;2;-1;-1
 @60
 	15;0;5;2;-1;-1
-	16;My Lady, is anyone hurt?
+	16;Well Ric, here we are.
 @61
 	4;60
 	13;0
@@ -14,120 +14,116 @@ entry 0
 	1;2;2
 	13;1
 	17;2;5
-	16;They will be.
+	16;Hey guys, just give me more minute ha.
+	16;I'm on the final pattern of Hibachi.
 	4;500
 @122
 	17;1;2
-	16;No, I'm not...
+	16;Sure, sure.
 	4;500
 @123
 	17;1;9
-	16;Huh?  Who are you?
+	16;...
 	4;500
 @124
 	17;2;2
-	16;Defeating Reisen and Eirin, and coming so far...
+	16;(*mini explosions, then one big explosion*)
+	16;(*Dodonpachi Stage Clear BGM plays*)
 	8;2;0;Neko Mimi Mode
 	4;500
 @125
 	17;2;5
-	16;It would be unfair if you weren't hurt
-	16;even a little bit.
+	16;Wow, I didn't expect it to be so quick!
 	4;500
 @126
 	17;1;2
-	16;Too bad I'm invincible on the night
-	16;of the full moon.
+	16;Yoooo, congrats on the clear, Mark!
 	4;500
 @127
 	17;0;8
-	16;Really?  I didn't know that.
+	16;Yeah...congratulations. 
 	4;500
 @128
 	17;0;9
-	16;Ah, my Lady, it's the true full moon!
-	16;I didn't realize it at first.
+	16;Ric, save your fake interest. You only care
+	16;he has the power to kill the scene now.
 	4;500
 @129
 	17;1;7
-	16;I said that because I knew.
+	16;Nah man, I always, ALWAYS watch the streams.
 	4;500
 @130
 	17;2;2
-	16;This is the true full moon.
+	16;Thanks guys ha. I'm extremely jittery. Is this
+	16;the Coke Zero's or the legend come true?
 	4;500
 @131
 	17;2;2
-	16;I wonder when this moon vanished from
-	16;the Earth,
+	16;Damn, ha. 
 	4;500
 @132
 	17;2;3
-	16;and lost its power to drive humans insane?
+	16;Well, might as well try it out!
 	4;500
 @133
 	17;1;8
-	16;This full moon is...
+	16;Yes...
 	4;500
 @134
 	17;1;9
-	16;Sakuya, watch out!
+	16;This is it! This scene will finally end!
 	4;500
 @135
 	17;2;2
-	16;Yes, this moon will drive any human who
-	16;looks at it insane.
+	16;"Buzzing PCB so blue, make my ascension
+	16;become true!"
 	4;500
 @136
 	17;0;2
-	16;Ah, but I seem fine...
+	16;Whoa!
 	4;500
 @137
 	17;1;7
-	16;... of course, Sakuya would be okay.
-	16;She's very well-disciplined.
+	16;YES!!
 	4;500
 @138
 	17;1;2
-	16;Well, even without Sakuya, I would
-	16;still be invincible under this full moon.
+	16;No more shmiggers, no more fake interest,
+	16;no more real interest, no more shmups!!!
 	4;500
 @139
 	17;0;8
-	16;Oh, how cruel.
+	16;(sad pepe)
 	4;500
 @140
 	17;0;4
-	16;I will assist you in any situation.
-	16;Please rely on me.
+	16;Can I go home now?
 	4;500
 @141
 	17;1;4
-	16;Oh my, Sakuya, are you starting to go insane?
+	16;Who else am I going to enjoy this with?
 	4;500
 @142
 	17;2;5
-	16;The moon gave many powers to the beings
-	16;of the Earth.
+	16;Wow, I feel pretty great ha!
 	4;500
 @143
 	17;2;5
-	16;Many of them, such as magic, were originally
-	16;the moon's powers.
+	16;I'm Googling the Electric Underground right now,
+	16;and there's an article by Kotaku!
 	4;500
 @144
 	17;2;3
-	16;Does your friend rely on the moon as well?
-	16;Hmmmm, Miss VAMPIRE?
+	16;It says...
+	16;"Best indie publication swiftly captures gaming!"
 	4;500
 @145
 	17;1;6
-	16;So what?
+	16;...Gaming?
 	4;500
 @146
 	17;0;2
-	16;It's a full moon now.  That means
-	16;we're invincible.  Wonderful!
+	16;Wait, gaming? Not shmups?
 	4;500
 @147
 	17;2;2
@@ -135,27 +131,26 @@ entry 0
 	4;500
 @148
 	17;2;2
-	16;We of the moon turned some of the Earth
-	16;to monsters, to regulate their filth.
+	16;You think I'd talk about shitty shooters?
 	4;500
 @149
 	17;2;5
-	16;But that's all over now.
+	16;That was just a step on the ladder. Capture a
+	16;niche genre and milk their hobby.
 	4;500
 @150
 	17;2;2
-	16;Those on the Earth have sealed the
-	16;monsters themselves.
+	16;Shmuppers are obscenely rich for some reason,
+	16;always spending thousands of PCBs and exA's.
 	4;500
 @151
 	17;2;3
-	16;That's why only useless creatures who assault
-	16;humans in predetermined patterns are left.
+	16;Of course, they would support someone who gives
+	16;their genre just a crumb of attention.
 	4;500
 @152
 	17;1;6
-	16;There's nothing like tea on a nice day.
-	16;Anything wrong with that?
+	16;I mean, yeah but...
 	4;500
 @153
 	17;0;2
@@ -163,86 +158,89 @@ entry 0
 	4;500
 @154
 	17;2;2
-	16;The people of the Earth no longer fear the 
-	16;moon and the night.
+	16;But thanks to my $5 Patreons and my loyal pig
+	16;BogHog, I got my hands on this Mystical PCB.
 	4;500
 @155
 	17;2;2
-	16;They've become more and more arrogant.
+	16;I needed their bucks at first.
+	16;Now, I can be without them ha.
 	4;500
 @156
 	17;2;5
-	16;These nights, the light of the moon is
-	16;no longer necessary.
+	16;Thanks to this PCB, I can be a full-time game
+	16;reviewer and talk about these shitty remakes.
 	4;500
 @157
 	17;2;5
-	16;These days, the ebb and flow of the
-	16;tides on the coast no longer matters.
+	16;Yeah sure, everyone on YouTube is talking
+	16;about them. But the algorithim will place
 	4;500
 @158
 	17;2;2
-	16;And finally, I hear that they're
-	16;invading the moon.
+	16;my videos above all. Everyone in the world now
+	16;knows and loves the Electric Underground!
 	4;500
 @159
 	17;1;2
-	16;Huh.  I don't care what those worthless
-	16;humans are doing.
+	16;...But, those normies will see the old shmup
+	16;videos you made.
 	4;500
 @160
 	17;1;2
-	16;But you're from the moon, right?
+	16;Surely, that will destroy the scene right?
 	4;500
 @161
 	17;1;5
-	16;Why don't you go back there and fight
-	16;against the Earth?
+	16;Surely, that will open the floodgates,
+	16;RIGHT?
 	4;500
 @162
 	17;2;2
-	16;I... well... 
+	16;Nah, I was just going to delete those videos.
 	4;500
 @163
 	17;2;2
-	16;I have a reason I can't go back to the moon.
+	16;My latest Silent Hill video just suddenly got 1M
+	16;views since I made that wish.
 	4;500
 @164
 	17;2;5
-	16;I am no longer their ally.
-	16;Nor can I move about freely on the Earth.
+	16;However, the shmup ones have remained the same.
+	16;Can't have dead weight on my channel.
 	4;500
 @165
 	17;0;2
-	16;You won't go back to the moon, and you have
-	16;no place on Earth...
+	16;Heh Ric, looks like you won't get your wish after
+	16;all then.
 	4;500
 @166
-	17;0;8
-	16;You must have done something terrible, right?
+	17;1;5
+	16;Fucking Mark, you can't do anything right!
 	4;500
 @167
 	17;2;5
-	16;I've been hiding from these powerless people,
-	16;so that I won't bother them.
+	16;BogHog will get upset, but I can convince him
+	16;shmups are old news. 
 	4;500
 @168
-	17;0;2
-	16;We are an invincible Lady and an
-	16;invincible human.
+	17;1;2
+	16;You were supposed to destroy this damn scene!
+	16;Fuck! Now I have to remain here!
 	4;500
 @169
 	17;0;3
-	16;Care to test that claim that we have no power?
+	16;Dude, you'd stay here even if the scene got
+	16;destroyed.
 	4;500
 @170
 	17;2;2
-	16;Well, then, my Impossible Requests, which have
-	16;defeated so many humans in the past...
+	16;You know, I still need to shake these jitters out
+	16;after that clear.
 	4;500
 @171
 	17;2;3
-	16;I wonder if you can clear them?
+	16;How about you two help me out?
 	7;1
 	4;500
 	5;0;5
@@ -263,20 +261,21 @@ entry 2
 @60
 	15;2;2;2;2;-1
 	13;1
-	16;Geez...
+	16;Charlene failed! Curse that woman!
 	4;500
 @61
 	17;2;-2
-	16;Didn't I say not to let them come this way?
+	16;Regardless, I'll tank these guys for your Mark!
 	4;500
 @62
 	17;1;2
-	16;Sakuya.
-	16;This isn't who we're looking for.
+	16;"Tank"?
+	16;Jar-pig self-report detected.
 	4;500
 @63
-	17;0;2
-	16;Well, then, let's shoot her down at once.
+	17;1;2
+	16;Just another reason why this scene needs
+	16;to die.
 	4;500
 	5;0;5
 	5;1;5
@@ -290,15 +289,16 @@ entry 2
 entry 3
 @60
 	15;2;-1;-1;-1;-1
-	16;What's this?!
+	16;Damn, I need some practice ha.
 	4;500
 @61
 	17;2;-2
-	16;So, the ones who froze the night...
+	16;I guess I can't ride into the sunrise without
+	16;first expressing my gratitude to the OGs...
 	4;500
 @62
 	17;2;-2
-	16;That was YOU, wasn't it?!
+	16;So thank you, to the $5 patrons:
 	4;500
 	7;2
 	13;0
@@ -329,7 +329,8 @@ entry 5
 entry 6
 @60
 	15;2;-1;-1;-1;-1
-	16;The fragmented eternal evening you've created...
+	16;Dingo, Arcade Hell, Beau, BogHog, CMD,
+	16;DrBossKey, Nathaniel Davis, Framesperhuman,
 	4;500
 	13;0
 @90
@@ -340,7 +341,8 @@ entry 6
 entry 7
 @60
 	15;2;-1;-1;-1;-1
-	16;My eternity manipulation will destroy it...
+	16;Freckle lord, SynthRicardo, TH_Rezardi, wabbylegs
+	16;Jhengalomas, Retroshmupper, hausu, ImFatIRL
 	4;500
 	13;0
 @90
@@ -351,7 +353,8 @@ entry 7
 entry 8
 @60
 	15;2;-1;-1;-1;-1
-	16;Your spell of Imperishable Night will shatter...
+	16;Jaylab, GameboyGuru, kntain, hazylevels, aktane
+	16;legless, DJ420PraiseIt!, MewJAM, RinMari
 	4;500
 	13;0
 @90
@@ -362,7 +365,8 @@ entry 8
 entry 9
 @60
 	15;2;-1;-1;-1;-1
-	16;And the dawn shall come!
+	16;Shump Junkie,TheBootRex,twilightex,visiblyshaken,
+	16;ratikal, rofle015, streetmagic, TheBootRex
 	4;500
 	13;0
 @90

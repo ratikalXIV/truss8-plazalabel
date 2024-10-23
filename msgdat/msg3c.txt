@@ -3,119 +3,120 @@ entry 0
 	1;2;2
 @60
 	17;2;2
-	16;Look around, you devils.
+	16;How are you guys even around here, aren't you
+	16;two banned from everywhere?
 	4;500
 	1;0;1
 	1;1;1
 	15;0;2;2;-2;-1
-	16;"Devils", hmm?
+	16;Banned, huh? What exactly did I do to deserve
+	16;being banned?
 	4;500
 @61
 	17;2;3
-	16;There's nothing here.
-	16;Can't you see that?
+	16;I can think of a few reasons there, Ric.
 	8;2;0;Keine Kamishirasawa
 	4;500
 @62
 	17;0;7
-	16;Wait, shouldn't there be a human village here?
+	16;its all because of ec, he doesnt accept autists.
+	16;thats why he banned me too
 	4;500
 @63
 	17;1;2
-	16;Well, I rarely visit such places,
-	16;but are you familiar with this village, Sakuya?
+	16;Nah. EC is one of the few where I leit it slide
+	16;when he slurps some gang dick.
 	4;500
 @64
-	17;0;3
-	16;Yes, the furniture in the mansion is made 
-	16;skillfully by these humans, in fact.
+	17;1;3
+	16;He has a legitimate economic incentive to keep a
+	16;good relationship with them.
 	4;500
 @65
 	17;2;2
-	16;Look closely...
-	16;As you can see, there's absolutely nothing here.
+	16;Uh, thanks?
 	4;500
 @66
 	17;2;8
-	16;Now move along, since I said so. 
+	16;As a show of gratitude, I'll let you in on a
+	16;secret Ric. The buzz in the "gang"'s mod chat.
 	4;500
 @67
 	17;0;6
-	16;What a horrible attitude.
+	16;Unblock me, EC!
 	4;500
 @68
 	17;0;6
-	16;What did you do with the humans and the village?
+	16;Ric, tell him to unblock me! No more gay niggas!
 	4;500
 @69
 	17;2;3
-	16;Don't you understand? 
-	16;I made it such that no humans ever lived here.
+	16;lol cope
 	4;500
 @70
 	17;2;2
-	16;I'm protecting the entire history of this 
-	16;village now.
+	16;Do ya'll remember that shitty romhack of DDP?
 	4;500
 @71
 	17;1;2
-	16;Sakuya.
+	16;I don't play CAVEslop.
 	4;500
 @72
-	17;1;3
-	16;Wouldn't she work well as little sister's tutor?
-	16;She feels like a good teacher for local history.
+	17;2;3
+	16;As you should! However, Mark got a copy of Blue
+	16;Label. And he's trying to 2-ALL it.
 	4;500
 @73
-	17;0;7
-	16;We don't need any more bookworms in the mansion.
+	17;1;3
+	16;So what, he already has a 2-ALL credential already.
 	4;500
 @74
-	17;2;2
-	16;Argh, I'll say it once more.
+	17;2;8
+	16;Yes, but as the legend goes, "The one who can 
+	16;2-ALL Blue, will have his wishes granted true."
 	4;500
 @75
 	17;2;6
-	16;There isn't and never was anything around here.
-	16;Especially not humans or a human village.
+	16;The shmup community as we know it,
+	16;will be overtaken by The Electric Underground.
 	4;500
 @76
 	17;0;2
-	16;There's something about the way you speak...
+	16;No way! Why would he waste a wish on something
+	16;stupid like that!? I'd 2-ALL it to skip wagie!
 	4;500
 @77
 	17;0;2
-	16;My Lady,
-	16;would you give me a bit of time?
+	16;Ric,
+	16;we got to get that PCB before Mark 2-ALL's!
 	4;500
 @78
 	17;1;7
-	16;We really are in a hurry. 
+	16;Nah.
 	4;500
 @79
 	17;2;3
-	16;Shall I consume the devil's history as well?
+	16;...Huh?
 	7;1
 	4;500
 @80
 	17;1;2
-	16;Shit, that's just great. Maybe it's a 
-	16;peculiarity of were-hakutaku...
+	16;If Mark get's his wish, then he can let this
+	16;shitty scene finally die.
 	4;500
 @81
 	17;1;3
-	16;As long as you just look at history,
-	16;you won't be able to change your fate.
+	16;Thank fucking god, then that would mean the gang
+	16;would slowly disappear too.
 	4;500
 @82
 	17;0;8
-	16;My Lady,
-	16;now may I borrow some time?
+	16;Ric,
+	16;Why the fuck did you even create the Plaza?
 	4;500
 @83
 	17;1;8
-	16;It can't be helped. You can use a bit
-	16;of my time. Just a moment's worth.
+	16;There isn't anyway I'm telling either of you!
 	4;500
 	5;0;5
 	5;1;5
@@ -133,54 +134,55 @@ entry 1
 	1;2;2
 @60
 	15;0;4;8;10;-1
-	16;Ah, that was refreshing. Let's move on, my Lady.
+	16;Can you finally fucking unblock me now, EC?
 	4;500
 @61
 	17;1;7
-	16;But, the village is still invisible...
-	16;Are you really refreshed?
+	16;Who cares? Emperor Nig over there gave us all
+	16;we need. We can just end the credit here.
 	4;500
 @62
 	17;0;3
-	16;Yes, indeed. I'm thoroughly refreshed.
+	16;God damnit Ric, can you round up enough REAL
+	16;INTEREST for a little while longer?
 	4;500
 @63
 	17;1;2
-	16;Good to hear, but thanks to her, I've lost the 
-	16;direction that evil air was in.
+	16;My REAL INTEREST is seeing this scene finally
+	16;die as it should've years ago.
 	4;500
 @64
 	17;1;3
-	16;Do you know where to go, Sakuya?
+	16;I want to be there when it happens. EC, where is
+	16;Mark playing for his 2-ALL?
 	4;500
 @65
 	17;0;4
-	16;I have absolutely no idea. However, she might be
-	16;useful for a problem like this.
+	16;(No milk for Ric, now he's just sour and bitter.)
 	4;500
 @66
 	17;2;-2
-	16;You mean the cause of this corrupted moon?
+	16;Hey man, as long as you don't go sabotaging him,
+	16;I'll point out the way.
 	4;500
 @67
 	17;2;-2
-	16;It could only be her doing.
-	16;There are very few beings capable of this.
+	16;He's at the Shmup AirBnb in the far off lands of 
+	16;Meridian, Idaho. 
 	4;500
 @68
 	17;0;3
-	16;See, bookworms can be useful.
-	16;But the mansion doesn't need any more of them.
+	16;I'll follow you Ric, but I'm taking that PCB for
+	16;myself!
 	4;500
 @69
 	17;1;2
-	16;Our mansion's bookworm really is a bookworm, 
-	16;so she's hardly useful at all...
+	16;Oh yeah? When was the last time you drank some
+	16;water or anything other than coffee?
 	4;500
 @70
 	17;0;2
-	16;Well, she does have a lot of useless knowledge.
-	16;We really don't need any more.
+	16;Like 3 weeks ago, why?
 	4;500
 	13;0
 @130
@@ -201,22 +203,22 @@ entry 2
 	15;0;2;2;2;-1
 @61
 	17;2;2
-	16;It's you. The bastards planning
-	16;to attack the village at midnight!
+	16;Well, if it isn't the "redacted" SynthRicardo,
+	16;with his pal "blocked message".
 	4;500
 @62
 	17;0;2
-	16;My Lady.
-	16;Let's pass by this place quickly.
+	16;UNBLOCK ME EC WHERES MY MILK
 	4;500
 @63
 	17;1;3
-	16;Well, I'm not hungry at the moment, so...
+	16;Well, thats what happens when you post niggas
+	16;kissing in the chat, NGMI.
 	4;500
 @64
 	17;2;6
-	16;Damn, without the humans in the village,
-	16;there are only youkais and weirdos left! 
+	16;Too many gay sex gifs, dude. Here's a lesson on
+	16;how to mod a server, Ric.
 	4;500
 	5;0;5
 	5;1;5
@@ -236,16 +238,17 @@ entry 3
 	15;0;2;2;2;-1
 @61
 	17;2;9
-	16;Umm, who in the world are you?
+	16;Damn, his plaza skills sure are strong.
 	4;500
 @62
 	17;1;5
-	16;Bah. There's no end to this now, is there?
+	16;The shmupgang may give you some power, but it's 
+	16;nothing against me!
 	4;500
 @63
 	17;0;6
-	16;My Lady!
-	16;You're toying with it a little too much.
+	16;Ric, are you sure you are not the gang's
+	16;number one fan?
 	4;500
 	5;0;5
 	5;1;5
