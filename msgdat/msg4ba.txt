@@ -219,7 +219,7 @@ entry 3
 	16;only "DUNGEON"!
 	4;500
 @61
-	17;1;2
+	17;0;3
 	16;*inhales*
 	16;DUNGEON!
 	4;500
